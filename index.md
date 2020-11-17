@@ -1,4 +1,4 @@
-# Test
+# The Various Projects of Chris Sears
 
 ## Riddler Solutions
 
