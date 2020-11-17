@@ -1,6 +1,6 @@
 # Riddler Express Solution - November 13, 2020
 
-The problem statement is found at [this link](https://fivethirtyeight.com/features/can-you-snatch-defeat-from-the-jaws-of-victory/)
+The problem statement is found at [this link](https://fivethirtyeight.com/features/can-you-snatch-defeat-from-the-jaws-of-victory/).
 
 > You’re playing the (single) Jeopardy! Round, and your opponents are simply no match for you. 
 > You choose first and never relinquish control, working your way horizontally across the board by first selecting all six $200 clues, then all six $400 clues, and so on, until you finally select all the $1,000 clues. 
@@ -13,3 +13,10 @@ The problem statement is found at [this link](https://fivethirtyeight.com/featur
 > How much money do you expect to win during the Jeopardy! round?
 > Extra credit: Suppose you change your strategy. Instead of working your way horizontally across the board, you select random clues from anywhere on the board, one at a time. 
 > Now how much money do you expect to win during the Jeopardy! round?
+
+To solve the problem I created a small web app that runs in a web browser.
+
+A link to the web app is [here](jeopardy.html).
+
+The JavaScript source is in the file [jeopardy.js](jeopardy.js)
+The (ugly) CSS file is [jeopard.css](jeopards.css)
