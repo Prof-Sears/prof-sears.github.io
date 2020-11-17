@@ -4,6 +4,10 @@ The code for my simulation of a tennis match is in this directory.
 
 This code is for the [Riddler Classic](https://fivethirtyeight.com/tag/the-riddler/) from [Sept. 6, 2019.](https://fivethirtyeight.com/features/what-are-your-chances-of-winning-the-u-s-open/)
 
+The web application is [here](tennis.html).
+
+All source code is at [this repository](https://github.com/Prof-Sears/prof-sears.github.io/tree/main/Riddler/Classic-2019-09-06).
+
 The .html and .js files are the simulation. 
 I wrote the simulation in JavaScript to practice coding in the language.
 A JavaScript expert would probably cry at my code.
