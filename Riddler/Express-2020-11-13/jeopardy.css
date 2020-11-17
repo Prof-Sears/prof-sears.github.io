@@ -1,0 +1,23 @@
+#head {
+  background-color: black;
+  color: white;
+  text-align:center;
+}
+
+#first {
+  background-color: red;
+  float:left;
+  width:33%;
+}
+
+#second {
+  background-color: yellow;
+  float:left;
+  width:34%;
+}
+
+#third {
+  background-color: blue;
+  float:left;
+  width:33%;
+}
