@@ -1,0 +1,254 @@
+Number,Name,Value,Theoretical Bound
+1,one,34,624
+2,two,58,624
+3,three,56,624
+4,four,60,624
+5,five,42,624
+6,six,52,624
+7,seven,65,624
+8,eight,49,624
+9,nine,42,624
+10,ten,39,624
+11,eleven,63,624
+12,twelve,87,624
+13,thirteen,99,624
+14,fourteen,104,624
+15,fifteen,65,624
+16,sixteen,96,624
+17,seventeen,109,624
+18,eighteen,73,624
+19,nineteen,86,624
+20,twenty,107,624
+21,twenty-one,141,624
+22,twenty-two,165,624
+23,twenty-three,163,624
+24,twenty-four,167,624
+25,twenty-five,149,624
+26,twenty-six,159,624
+27,twenty-seven,172,624
+28,twenty-eight,156,624
+29,twenty-nine,149,624
+30,thirty,100,624
+31,thirty-one,134,624
+32,thirty-two,158,624
+33,thirty-three,156,624
+34,thirty-four,160,624
+35,thirty-five,142,624
+36,thirty-six,152,624
+37,thirty-seven,165,624
+38,thirty-eight,149,624
+39,thirty-nine,142,624
+40,forty,84,624
+41,forty-one,118,624
+42,forty-two,142,624
+43,forty-three,140,624
+44,forty-four,144,624
+45,forty-five,126,624
+46,forty-six,136,624
+47,forty-seven,149,624
+48,forty-eight,133,624
+49,forty-nine,126,624
+50,fifty,66,624
+51,fifty-one,100,624
+52,fifty-two,124,624
+53,fifty-three,122,624
+54,fifty-four,126,624
+55,fifty-five,108,624
+56,fifty-six,118,624
+57,fifty-seven,131,624
+58,fifty-eight,115,624
+59,fifty-nine,108,624
+60,sixty,97,624
+61,sixty-one,131,624
+62,sixty-two,155,624
+63,sixty-three,153,624
+64,sixty-four,157,624
+65,sixty-five,139,624
+66,sixty-six,149,624
+67,sixty-seven,162,624
+68,sixty-eight,146,624
+69,sixty-nine,139,624
+70,seventy,110,624
+71,seventy-one,144,624
+72,seventy-two,168,624
+73,seventy-three,166,624
+74,seventy-four,170,624
+75,seventy-five,152,624
+76,seventy-six,162,624
+77,seventy-seven,175,624
+78,seventy-eight,159,624
+79,seventy-nine,152,624
+81,eighty-one,108,624
+82,eighty-two,132,624
+83,eighty-three,130,624
+84,eighty-four,134,624
+85,eighty-five,116,624
+86,eighty-six,126,624
+87,eighty-seven,139,624
+88,eighty-eight,123,624
+89,eighty-nine,116,624
+91,ninety-one,121,624
+92,ninety-two,145,624
+93,ninety-three,143,624
+94,ninety-four,147,624
+95,ninety-five,129,624
+96,ninety-six,139,624
+97,ninety-seven,152,624
+98,ninety-eight,136,624
+99,ninety-nine,129,624
+100,one hundred,108,624
+101,one hundred one,142,624
+102,one hundred two,166,624
+103,one hundred three,164,624
+104,one hundred four,168,624
+105,one hundred five,150,624
+106,one hundred six,160,624
+107,one hundred seven,173,624
+108,one hundred eight,157,624
+109,one hundred nine,150,624
+110,one hundred ten,147,624
+111,one hundred eleven,171,624
+112,one hundred twelve,195,624
+113,one hundred thirteen,207,624
+114,one hundred fourteen,212,624
+115,one hundred fifteen,173,624
+116,one hundred sixteen,204,624
+117,one hundred seventeen,217,624
+118,one hundred eighteen,181,624
+119,one hundred nineteen,194,624
+120,one hundred twenty,215,624
+121,one hundred twenty-one,249,624
+122,one hundred twenty-two,273,624
+123,one hundred twenty-three,271,624
+124,one hundred twenty-four,275,624
+125,one hundred twenty-five,257,624
+126,one hundred twenty-six,267,624
+127,one hundred twenty-seven,280,624
+128,one hundred twenty-eight,264,624
+129,one hundred twenty-nine,257,624
+130,one hundred thirty,208,624
+131,one hundred thirty-one,242,624
+132,one hundred thirty-two,266,624
+133,one hundred thirty-three,264,624
+134,one hundred thirty-four,268,624
+135,one hundred thirty-five,250,624
+136,one hundred thirty-six,260,624
+137,one hundred thirty-seven,273,624
+138,one hundred thirty-eight,257,624
+139,one hundred thirty-nine,250,624
+140,one hundred forty,192,624
+141,one hundred forty-one,226,624
+142,one hundred forty-two,250,624
+143,one hundred forty-three,248,624
+144,one hundred forty-four,252,624
+145,one hundred forty-five,234,624
+146,one hundred forty-six,244,624
+147,one hundred forty-seven,257,624
+148,one hundred forty-eight,241,624
+149,one hundred forty-nine,234,624
+150,one hundred fifty,174,624
+151,one hundred fifty-one,208,624
+152,one hundred fifty-two,232,624
+153,one hundred fifty-three,230,624
+154,one hundred fifty-four,234,624
+155,one hundred fifty-five,216,624
+156,one hundred fifty-six,226,624
+157,one hundred fifty-seven,239,624
+158,one hundred fifty-eight,223,624
+159,one hundred fifty-nine,216,624
+160,one hundred sixty,205,624
+161,one hundred sixty-one,239,624
+162,one hundred sixty-two,263,624
+163,one hundred sixty-three,261,624
+164,one hundred sixty-four,265,624
+165,one hundred sixty-five,247,624
+166,one hundred sixty-six,257,624
+167,one hundred sixty-seven,270,624
+168,one hundred sixty-eight,254,624
+169,one hundred sixty-nine,247,624
+170,one hundred seventy,218,624
+171,one hundred seventy-one,252,624
+172,one hundred seventy-two,276,624
+173,one hundred seventy-three,274,624
+174,one hundred seventy-four,278,624
+175,one hundred seventy-five,260,624
+176,one hundred seventy-six,270,624
+177,one hundred seventy-seven,283,624
+178,one hundred seventy-eight,267,624
+179,one hundred seventy-nine,260,624
+180,one hundred eighty,182,624
+181,one hundred eighty-one,216,624
+182,one hundred eighty-two,240,624
+183,one hundred eighty-three,238,624
+184,one hundred eighty-four,242,624
+185,one hundred eighty-five,224,624
+186,one hundred eighty-six,234,624
+187,one hundred eighty-seven,247,624
+188,one hundred eighty-eight,231,624
+189,one hundred eighty-nine,224,624
+190,one hundred ninety,195,624
+191,one hundred ninety-one,229,624
+192,one hundred ninety-two,253,624
+193,one hundred ninety-three,251,624
+194,one hundred ninety-four,255,624
+195,one hundred ninety-five,237,624
+196,one hundred ninety-six,247,624
+197,one hundred ninety-seven,260,624
+198,one hundred ninety-eight,244,624
+199,one hundred ninety-nine,237,624
+212,two hundred twelve,219,624
+213,two hundred thirteen,231,624
+214,two hundred fourteen,236,624
+216,two hundred sixteen,228,624
+217,two hundred seventeen,241,624
+220,two hundred twenty,239,624
+221,two hundred twenty-one,273,624
+222,two hundred twenty-two,297,624
+223,two hundred twenty-three,295,624
+224,two hundred twenty-four,299,624
+225,two hundred twenty-five,281,624
+226,two hundred twenty-six,291,624
+227,two hundred twenty-seven,304,624
+228,two hundred twenty-eight,288,624
+229,two hundred twenty-nine,281,624
+230,two hundred thirty,232,624
+231,two hundred thirty-one,266,624
+232,two hundred thirty-two,290,624
+233,two hundred thirty-three,288,624
+234,two hundred thirty-four,292,624
+235,two hundred thirty-five,274,624
+236,two hundred thirty-six,284,624
+237,two hundred thirty-seven,297,624
+238,two hundred thirty-eight,281,624
+239,two hundred thirty-nine,274,624
+241,two hundred forty-one,250,624
+242,two hundred forty-two,274,624
+243,two hundred forty-three,272,624
+244,two hundred forty-four,276,624
+245,two hundred forty-five,258,624
+246,two hundred forty-six,268,624
+247,two hundred forty-seven,281,624
+248,two hundred forty-eight,265,624
+249,two hundred forty-nine,258,624
+252,two hundred fifty-two,256,624
+253,two hundred fifty-three,254,624
+254,two hundred fifty-four,258,624
+257,two hundred fifty-seven,263,624
+261,two hundred sixty-one,263,624
+262,two hundred sixty-two,287,624
+263,two hundred sixty-three,285,624
+264,two hundred sixty-four,289,624
+265,two hundred sixty-five,271,624
+266,two hundred sixty-six,281,624
+267,two hundred sixty-seven,294,624
+268,two hundred sixty-eight,278,624
+269,two hundred sixty-nine,271,624
+271,two hundred seventy-one,276,624
+272,two hundred seventy-two,300,624
+273,two hundred seventy-three,298,624
+274,two hundred seventy-four,302,624
+275,two hundred seventy-five,284,624
+276,two hundred seventy-six,294,624
+277,two hundred seventy-seven,307,624
+278,two hundred seventy-eight,291,624
+279,two hundred seventy-nine,284,624
