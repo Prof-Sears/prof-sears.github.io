@@ -19,4 +19,4 @@ To solve the problem I created a small web app that runs in a web browser.
 A link to the web app is [here](jeopardy.html).
 
 The JavaScript source is in the file [jeopardy.js](jeopardy.js)
-The (ugly) CSS file is [jeopard.css](jeopards.css)
+The (ugly) CSS file is [jeopardy.css](jeopardy.css)
