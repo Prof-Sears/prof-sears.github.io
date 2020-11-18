@@ -5,14 +5,19 @@
  * The winnings are averaged.
  */
 function firstsim() {
-  console.log("First Sim Running.");
-  var board = initalizeBoard("first");
+  console.log('First Sim Running.');
+  var board = initalizeBoard('first');
   var scores = [];
   for(var DD=0; DD<30; DD++) {
     scores.push(scoreboard(board,DD));
   }
   
-  var outstring = "</table><h2>Average = $" + average(scores).toFixed(2) + "</h2>";
+  var outstring = '<h2>Average = $' + average(scores).toFixed(2) + '</h2>';
+  if(document.getElementById('firstverb').checked) {
+	  outstring += '<table><tr><th>Daily Double Position</th><th>Winnings</th><tr>';
+	  for(let i = 0; i < scores.length; i++) outstring += '<tr><td style="text-align:right">' + (i+1) + '</td><td>' + scores[i] + '</td></tr>';
+	  outstring += '</table>';
+  }
   
   document.getElementById("firstoutput").innerHTML = outstring;
 }
@@ -32,6 +37,11 @@ function secondsim() {
   }
   
   var outstring = "</table><h2>Average = $" + average(scores).toFixed(2) + "</h2>";
+  if(document.getElementById('secondverb').checked) {
+	  outstring += '<table><tr><th>Daily Double Position</th><th>Winnings</th><tr>';
+	  for(let i = 0; i < scores.length; i++) outstring += '<tr><td style="text-align:right">' + (i+1) + '</td><td>' + scores[i] + '</td></tr>';
+	  outstring += '</table>';
+  }
   
   document.getElementById("secondoutput").innerHTML = outstring;
 }
@@ -46,7 +56,8 @@ function secondsim() {
 function thirdsim() {
   console.log("Third Sim Running.");
   var scores = [];
-  for(let i = 0; i < 1000000; i++) {
+  var sims = parseInt(document.getElementById('thirdsims').value)
+  for(let i = 0; i < sims; i++) {
     let board = initalizeBoard("third");
     let DD = Math.floor(Math.random() * 30);
     scores.push(scoreboard(board,DD));

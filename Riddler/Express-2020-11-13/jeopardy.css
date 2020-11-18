@@ -1,6 +1,11 @@
+th {
+	text-align:center;
+}
+
 #head {
   background-color: black;
   color:white;
+  width:99%;
   text-align:center;
 }
 
@@ -13,7 +18,7 @@
 #second {
   background-color: yellow;
   float:left;
-  width:34%;
+  width:33%;
 }
 
 #third {
