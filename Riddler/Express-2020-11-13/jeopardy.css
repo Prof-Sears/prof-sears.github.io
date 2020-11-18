@@ -5,25 +5,32 @@ th {
 #head {
   background-color: black;
   color:white;
-  width:99%;
+  width:94%;
   text-align:center;
+  padding:1%;
 }
 
 #first {
   background-color: red;
   float:left;
-  width:33%;
+  width:30%;
+  height:95%;
+  padding:1%;
 }
 
 #second {
   background-color: yellow;
   float:left;
-  width:33%;
+  width:30%;
+  height:95%;
+  padding:1%;
 }
 
 #third {
   background-color: blue;
   color:white;
   float:left;
-  width:33%;
+  width:30%;
+  height:95%;
+  padding:1%;
 }
