@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>Friday the 13th Search</title>
+	<script type="text/javascript" src="calendar.js"></script>
+</head>
+<body>
+	<h1>Searching Friday the 13ths</h1>
+	<div id="builder">
+		<h2>Build Calendar</h2>
+		<p>The first task is to build the calendar for this four-year period.
+		January 1st of the first year will be day 1.
+		There are four possible positions for the leap year to fall.
+		Click "Build Calendar" to see where the 13th of each month falls in the four year calendar.</p>
+		<button id="buildbutton" onclick="buildCalendars()">Build Calendar</button>
+		<div id="builderout"></div>
+	</div>
+	<div id="reducer">
+		<h2>Reduce Calendar mod 7</h2>
+		<p>The next task is to find the day of the week for the 13th of each month.
+		To do this, we will reduce each day modulo 7.
+		For now, we won't worry about which day of the week corrsponds to which mod 7 equivalence class.</p>
+		<button id="reducebutton" onclick="reduceCalendars()" disabled>Reduce Calendar</button>
+		<div id="reducerout"></div>
+	</div>
+	<div id="counter">
+		<h2>Count Days of Week for the 13th of Each Month</h2>
+		<p>The final step is to count the equivalence classes in the reduced calendar.
+		Which ever is the most common will be assigned to Friday.</p>
+		<button id="countbutton" onclick="countDays()" disabled>Reduce Calendar</button>
+		<div id="counterout"></div>
+	</div>
+	<div id="firstcon"></div>
+</body>
+</html>

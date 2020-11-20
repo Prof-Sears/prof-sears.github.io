@@ -15,7 +15,7 @@ The full text of this week's Riddler Express can be found at [this link](https:/
 To model the problem, we will take January 1st of the first year to be day 1.
 We will calculate the day numbers for the 13th of each month for four years, and then take each day modulo 7.
 Which ever modulo 7 equivalence class is the most frequent will be assigned to Friday.
-We can then work backward to find the day of the week for January 1st gives the most Friday the 13ths.
+We can then work backward to find the day of the week for January 1st that gives the most Friday the 13ths.
 
 ## Days of the Year
 
@@ -35,3 +35,9 @@ The days of the year for the 13th of each month is in the table below.
 |Oct|286|287|
 |Nov|317|318|
 |Dec|344|345|
+
+To generate a four-year calendar, I used the following JavaScript function.
+
+
+
+(I realize that Excel would be easier. I like using the Riddler to practice my coding skills.)
