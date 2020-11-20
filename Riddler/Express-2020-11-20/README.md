@@ -10,5 +10,13 @@ The full text of this week's Riddler Express can be found at [this link](https:/
 >
 >Extra credit: What’s the greatest number of Friday the 13ths that can occur over a four-year period (i.e., a period that doesn’t necessarily begin on January 1)?
 
-## Modeling the Problem
+## General Strategy
 
+To model the problem, we will take January 1st of the first year to be day 1.
+We will calculate the day numbers for the 13th of each month for four years, and then take each day modulo 7.
+Which ever modulo 7 equivalence class is the most frequent will be assigned to Friday.
+We can then work backward to find the day of the week for January 1st gives the most Friday the 13ths.
+
+## Days of the Year
+
+To get the days of the year, I went to (https://miniwebtool.com/day-of-year-calendar).
