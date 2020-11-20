@@ -20,3 +20,18 @@ We can then work backward to find the day of the week for January 1st gives the 
 ## Days of the Year
 
 To get the days of the year, I went to [miniwebtool.com](https://miniwebtool.com/day-of-year-calendar).
+The days of the year for the 13th of each month is in the table below.
+|Month|Non-Leap Year|Leap Year|
+|---|---|---|
+|Jan|13|13|
+|Feb|44|44|
+|Mar|72|73|
+|Apr|103|104|
+|May|133|134|
+|Jun|164|165|
+|Jul|194|195|
+|Aug|225|226|
+|Sep|256|257|
+|Oct|286|287|
+|Nov|317|318|
+|Dec|344|345|
