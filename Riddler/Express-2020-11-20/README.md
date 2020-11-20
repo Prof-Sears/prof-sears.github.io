@@ -19,4 +19,4 @@ We can then work backward to find the day of the week for January 1st gives the 
 
 ## Days of the Year
 
-To get the days of the year, I went to (https://miniwebtool.com/day-of-year-calendar).
+To get the days of the year, I went to [miniwebtool.com](https://miniwebtool.com/day-of-year-calendar).
