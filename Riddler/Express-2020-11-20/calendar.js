@@ -82,7 +82,7 @@ function reduceCalendars() {
 	 console.log("Counting Days.");
 	 
 	 var output = '<table>';
-	output += '<tr><th>Leap Year Postion</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th>';
+	output += '<tr><th>Leap Year Position</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th>';
 	
 	for(let i = 0; i < 4; i++) {
 		let calendar = buildCalendar(i+1);
@@ -104,4 +104,82 @@ function reduceCalendars() {
 
 function outputConclusion() {
 	return '<p>From the table above, we see that day 6, when the leap year is first, occurs the most. Making day 6 a Friday means that day 1 is a Sunday. Thus, the most Friday the 13ths in a four-year period is when January 1st is a Sunday and the first day of a leap year.';
+}
+
+/**
+ * This function runs the extra credit portion of the problem.
+ */
+function extraCredit() {
+	console.log("Running Extra Credit.");
+	
+	var skip = document.getElementById('skipbox').checked;
+	
+	var maxCount = 0;
+	var output = '<h2>Results:</h2>';
+	output += '<table><tr><th>Start Date</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>';
+	
+	/* Loop through the possible positions for a leap year. */
+	for(let sYear = 0; sYear < 4; sYear++) {
+		/* Loop through the possible months. */
+		for(let sMonth = 0; sMonth < 12; sMonth++) {
+			/* Build a calendar containing the days of the year for the 13th of every month with the 13th of month j as Day 1. */
+			let calendar = [1];
+			for(let i = 1; i < 48; i++) {
+				let cMonth = (i + sMonth) % 12;
+				let cYear = sYear + Math.floor((i + sMonth) / 12);
+				calendar.push(calendar[i-1] + daysInMonth(cMonth, ((cYear % 4) == 0) && !skip));
+			}
+			
+			/* Reduce all days of the year modulo 7 and count the equivalence classes in the calendar.*/
+			let counts = [0,0,0,0,0,0,0];
+			for(let i = 0; i < calendar.length; i++) counts[calendar[i] % 7]++;
+			
+			/* Output results. */
+			output += '<tr><td>13 ' + monthText(sMonth) + ' Year ' + (sYear + 1) + '</td>'
+			for(let i = 0; i < counts.length; i++) {
+				output += '<td>' + counts[i] + '</td>';
+				if(counts[i] > maxCount) maxCount = counts[i];
+			}
+			output += '</tr>';
+			
+		}
+		
+	}
+		
+	output += '</table>';
+	output += '<h2>Maximum number of 13ths with the same day of the week: ' + maxCount + '</h2>';
+	document.getElementById('extraout').innerHTML = output;
+}
+
+/**
+ * This function returns the days in a month. There is probably a build-in
+ * version of this in JavaScript. Coding it will probably be just as fast
+ * as doing an internet search.
+ * 
+ * @param monthNumber - The number of the month. January is month 0.
+ * @param leapYear - <code>true</code> if the year is a leap year.
+ */
+function daysInMonth(monthNumber,leapYear) {
+	var retValue = 30;
+	switch(monthNumber) {
+		case 1:
+			if(leapYear) retValue = 29;
+			else retValue = 28;
+			break;
+		case 0:
+		case 2:
+		case 4:
+		case 6:
+		case 7:
+		case 9:
+		case 11:
+			retValue = 31;
+			break;
+	}
+	return retValue;
+}
+
+function monthText(monthNum) {
+	var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+	return months[monthNum];
 }
