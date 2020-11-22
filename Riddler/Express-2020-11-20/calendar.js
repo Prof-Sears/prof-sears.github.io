@@ -118,11 +118,12 @@ function extraCredit() {
 	var output = '<h2>Results:</h2>';
 	output += '<table><tr><th>Start Date</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>';
 	
-	/* Loop through the possible positions for a leap year. */
+	/* The code that follows is a colossal failure. I'm keeping it here for historical purposes.
+	/* Loop through the possible positions for a leap year. 
 	for(let sYear = 0; sYear < 4; sYear++) {
-		/* Loop through the possible months. */
+		/* Loop through the possible months. 
 		for(let sMonth = 0; sMonth < 12; sMonth++) {
-			/* Build a calendar containing the days of the year for the 13th of every month with the 13th of month j as Day 1. */
+			/* Build a calendar containing the days of the year for the 13th of every month with the 13th of month j as Day 1. 
 			let calendar = [1];
 			for(let i = 1; i < 48; i++) {
 				let cMonth = (i + sMonth) % 12;
@@ -130,20 +131,46 @@ function extraCredit() {
 				calendar.push(calendar[i-1] + daysInMonth(cMonth, ((cYear % 4) == 0) && !skip));
 			}
 			
-			/* Reduce all days of the year modulo 7 and count the equivalence classes in the calendar.*/
+			/* Reduce all days of the year modulo 7 and count the equivalence classes in the calendar.
 			let counts = [0,0,0,0,0,0,0];
 			for(let i = 0; i < calendar.length; i++) counts[calendar[i] % 7]++;
 			
-			/* Output results. */
+			/* Output results. 
 			output += '<tr><td>13 ' + monthText(sMonth) + ' Year ' + (sYear + 1) + '</td>'
 			for(let i = 0; i < counts.length; i++) {
 				output += '<td>' + counts[i] + '</td>';
 				if(counts[i] > maxCount) maxCount = counts[i];
 			}
 			output += '</tr>';
-			
+		} 
+	} End of Failure */
+	
+	// Create a Grand Calendar for the next 96 months, starting on January 13th of a leap year.
+	// Keep track of the 13th of all following months.
+	var calendar = [1];
+	for(let i = 1;  i < 12; i++) calendar.push(calendar[i-1] + daysInMonth((i-1),!skip));
+	for(let i = 12; i < 24; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	for(let i = 24; i < 36; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	for(let i = 36; i < 48; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	for(let i = 48; i < 60; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,true));
+	for(let i = 60; i < 72; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	for(let i = 72; i < 84; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	for(let i = 84; i < 96; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
+	
+	console.log(calendar);
+	
+	// Cycle through the possible starting months and count the day of the week for the 48 months following.
+	for(let sMonth = 0; sMonth < 48; sMonth++) {
+		let counts = [0,0,0,0,0,0,0];
+		for(let i = 0; i < 48; i++) {
+			counts[calendar[i+sMonth] % 7]++;
 		}
-		
+		output += '<tr><td>13 ' + monthText(sMonth%12) + ' Year ' + (Math.floor(sMonth / 12) + 1) + '</td>'
+		for(let i = 0; i < counts.length; i++) {
+			output += '<td>' + counts[i] + '</td>';
+			if(counts[i] > maxCount) maxCount = counts[i];
+		}
+		output += '</tr>';
 	}
 		
 	output += '</table>';

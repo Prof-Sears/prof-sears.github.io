@@ -31,9 +31,12 @@ Just like in Part 1, the maximum number of similar days of the week for the 13th
 ![Screenshot of Workbook for Extra Credit](Extra_Credit-Screenshot.png)
 
 ## Skipping Leap Years
-I checked if skipping a leap year affects the number of Friday the 13ths. The calendar skips leap years in the first year of each century, except when the century is divisible by 400. Looking at four non-leap years in a row gives a maximum of 8 Friday the 13ths.
+It is not true that we always have a leep year every four year. 
+The calendar skips leap years in the first year of each century, except when the century is divisible by 400. Looking at four non-leap years in a row gives a maximum of 8 Friday the 13ths.
+I checked that case, and you will get a maximum of 8 Friday the 13ths if you have four non-leap years in a row.
 
-## Web App?
-I started to build a web app to solve the problem. I got Part 1 correct, but it looks like I messed up on the Extra Credit. I gave up after a while, as I have pleanty of class work to finish for the end of the semester.
+## Web App?!
+The first attempt to solve the project involved creating a web app in JavaScript. I messed that up and moved to Excel. After submitting my solution, I fixed 
+the web app. It should be working now.
 [Link to app](calendar.html).
 
