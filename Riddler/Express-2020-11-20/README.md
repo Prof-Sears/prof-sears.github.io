@@ -28,7 +28,10 @@ For the Extra Credit, I created an eight-year count of days, starting with Janua
 
 Just like in Part 1, the maximum number of similar days of the week for the 13th in a four-year period is 9.
 
-![Screenshot of Workbook for Extra Credit](Extra_Credit-Screenshot.png')
+![Screenshot of Workbook for Extra Credit](Extra_Credit-Screenshot.png)
+
+## Skipping Leap Years
+I checked if skipping a leap year affects the number of Friday the 13ths. The calendar skips leap years in the first year of each century, except when the century is divisible by 400. Looking at four non-leap years in a row gives a maximum of 8 Friday the 13ths.
 
 ## Web App?
 I started to build a web app to solve the problem. I got Part 1 correct, but it looks like I messed up on the Extra Credit. I gave up after a while, as I have pleanty of class work to finish for the end of the semester.
