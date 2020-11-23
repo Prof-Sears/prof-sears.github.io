@@ -24,7 +24,7 @@ The highest number of similar days of the week was day 6 when the first year is 
 ![Screenshot of Workbook for Part 1](Part_1-Screenshot.png)
 
 ## Extra Credit
-For the Extra Credit, I created an eight-year count of days, starting with January 13th starting at 1 and the first year as a leap year. I then started counting days of the week as in Part 1. I started each count at the 13th of the month, as the four-year period with the most Friday the 13ths should start on the 13th. I used the `offset` function to keep track of the range of days to count: `=COUNTIF(OFFSET(Part_2!$D$2,12*($A15-1)+($B15-1),0,48,1),C$14)`.
+For the Extra Credit, I created an eight-year count of days, starting with 1 as the 13th of January in a leap year. I then started counting days of the week as in Part 1. I started each count at the 13th of the month, as the four-year period with the most Friday the 13ths should start on the 13th. I used the `offset` function to keep track of the range of days to count: `=COUNTIF(OFFSET(Part_2!$D$2,12*($A15-1)+($B15-1),0,48,1),C$14)`.
 
 Just like in Part 1, the maximum number of similar days of the week for the 13th in a four-year period is 9.
 
