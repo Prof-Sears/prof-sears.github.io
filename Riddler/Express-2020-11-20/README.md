@@ -40,3 +40,5 @@ The first attempt to solve the project involved creating a web app in JavaScript
 the web app. It should be working now.
 [Link to app](calendar.html).
 
+[Full Source Code](https://github.com/Prof-Sears/prof-sears.github.io/tree/main/Riddler/Express-2020-11-20)
+
