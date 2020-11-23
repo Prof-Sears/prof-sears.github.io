@@ -152,7 +152,7 @@ function extraCredit() {
 	for(let i = 12; i < 24; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
 	for(let i = 24; i < 36; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
 	for(let i = 36; i < 48; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
-	for(let i = 48; i < 60; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,true));
+	for(let i = 48; i < 60; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,!skip));
 	for(let i = 60; i < 72; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
 	for(let i = 72; i < 84; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
 	for(let i = 84; i < 96; i++) calendar.push(calendar[i-1] + daysInMonth((i-1)%12,false));
