@@ -31,7 +31,7 @@ Just like in Part 1, the maximum number of similar days of the week for the 13th
 ![Screenshot of Workbook for Extra Credit](Extra_Credit-Screenshot.png)
 
 ## Skipping Leap Years
-It is not true that we always have a leep year every four year. 
+It is not true that we always have a leap year every four year. 
 The calendar skips leap years in the first year of each century, except when the century is divisible by 400. Looking at four non-leap years in a row gives a maximum of 8 Friday the 13ths.
 I checked that case, and you will get a maximum of 8 Friday the 13ths if you have four non-leap years in a row.
 
