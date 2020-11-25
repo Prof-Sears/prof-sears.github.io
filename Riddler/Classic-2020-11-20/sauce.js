@@ -22,12 +22,9 @@ function runSauce() {
     for(let i = 0; i < players; i++) {
         output += `<tr><td>${(i+1)}</td><td>${endData[i]}</td><td>${(endData[i]/reps)}</td></tr>`;
     }
-    output += '</table>';
+    outputPlayers(endData, reps);
+    outputPasses(timeData, reps);
 
-    output += '<h3>Number of Passes Frequency</h3>';
-    output += outputPasses(timeData, reps);
-
-    document.getElementById('sauceout').innerHTML = output;
     console.log("Simulation Finished.");
 }
 
@@ -73,17 +70,54 @@ function logPasses(passes, timeData) {
 }
 
 /**
+ * This function outputs the relative frequency of each player being the last to receive the sauce as a bar chart.
+ * @param {*} endData 
+ * @param {*} reps 
+ */
+function outputPlayers(endData, reps) {
+    var graph = document.getElementById('playergraph'); // Grab the element to display the scatterplot
+    graph.innerHTML = "";                               // Clear out any remaining data
+    var playerData = [];
+    var labels = [];
+    for(let i = 0; i < endData.length; i++) {
+        playerData.push(endData[i]/reps);   // Convert the frequencies to relative frequencies.
+        labels.push('' + i);                // Use player numbers for labels.
+    }
+
+    var playersPlot = new Chart(graph,
+        {   type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{label: 'Frequency of Recieving Final Pass', 
+                barPercentage: 1.0, 
+                data: playerData, 
+                backgroundColor: 'rgba(0,0,0,0.3)', 
+                borderColor: 'rgba(0,0,0,1.0)'}]
+            },
+            options: {}
+        });
+}
+
+
+/**
  * This function outputs the number of passes as an scatterplot.
  * @param timeData The array storing the number of passes.
  * @param reps The number of repetitons of the simulation.
  */
 function outputPasses(timeData, reps) {
-    var graph = document.getElementById('passesgraph'); // Grap the element to display the scatterplot
-    graph.innerHTML = "";
-    var data = [];                                      // The data should be stored in an array of objects 
-    for(let i = 0; i<timeData.length; i++) {      // Loop through and output passes data, skip 0 entries
-        if(timeData[i] > 0) data.push({passes: (i+1), rel_freq: (timeData[i]/reps)});
+    var graph = document.getElementById('passgraph'); // Grab the element to display the scatterplot
+    graph.innerHTML = "";                             // Clear out any remaining data
+    var passesData = [];                              // The data should be stored in an array of objects 
+    for(let i = 0; i<timeData.length; i++) {          // Loop through and output passes data, skip 0 entries
+        if(timeData[i] > 0) passesData.push({x: (i+1), y: (timeData[i]/reps)});
     }
-    var vis = new candela.components.ScatterPlot(graph, {data: data, x: 'passes', y:'rel_freq', width: 1280, height: 720});
-    vis.render();
+    
+    // Graph the data.
+    var passesPlot = new Chart(graph, 
+        { type: 'scatter', 
+            data: {
+                datasets: [{label: 'Final # of Passes', data: passesData, pointBackgroundColor: 'rgba(0, 0, 0, 0.3)', pointBorderColor: 'rgba(0,0,0,1.0)'}]
+            }, 
+            options: {} 
+        });
 }

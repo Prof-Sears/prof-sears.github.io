@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Cranberry Sauce Passing</title>
-    <script type="text/javascript" src="https://unpkg.com/candela/dist/candela.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
     <script type="text/javascript" src="sauce.js"></script>
 </head>
 <body>
@@ -17,7 +17,7 @@
         </blockquote>
     </p>
     <h2>Solution</h2>
-    <h3>Note: I started after the submission deadline, so I knew the answer before starting my code.</h3>
+    <h3>Note: I started after the submission deadline, so I knew the answer before starting this project. Really, I'm using the problem as a programming exercise.</h3>
     <p>To solve the problem, I created the web app below. 
         <a href="https://github.com/Prof-Sears/prof-sears.github.io/tree/main/Riddler/Classic-2020-11-20">Full source code here.</a>
     </p>
@@ -28,11 +28,13 @@
 
     <h2>Simulation</h2>
     <p>To run the simulation, click "Run Simulation"</p>
+    <h3>Update - I got tired of creating charts by copying the HTML tables into Excel and working there. I'm teaching myself how to use Chart.js.</h3>
+    
     <button onclick="runSauce()">Run Simulation</button> 
     <label for="peoplecount">Number of People</label> <input id="peoplecount" type="text" value = "20"/>
     <label for="repscount">Number of Repetitions</label> <input id="repscount" type="text" value="100"/>
-    <div id="sauceout"></div>
-    <div id="passesgraph"></div>
+    <div style="height: 360; width: 640"><canvas id="playergraph" width="640" height="360"></canvas></div>
+    <div style="height: 360; width: 640"><canvas id="passgraph" width="640" height="360"></canvas></div>
     
 </body>
 </html>
