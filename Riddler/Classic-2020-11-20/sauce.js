@@ -79,14 +79,16 @@ function logPasses(passes, timeData) {
  */
 function outputPlayers(endData, reps) {
     var graph = document.getElementById('playergraph'); // Grab the element to display the scatterplot
-    graph.innerHTML = "";                               // Clear out any remaining data
-    var playerData = [];
-    var labels = [];
+    graph.innerHTML = "";   // Clear out any remaining data
+    var playerData = [];    // Stores relative frequency data                            
+    var labels = [];        // Stores labels for each player
+    var colors = [];        // Stores the color for each bar
     for(let i = 0; i < endData.length; i++) {
         playerData.push(endData[i]/reps);   // Convert the frequencies to relative frequencies.
         labels.push('' + i);                // Use player numbers for labels.
+        colors.push(`rgba(${Math.floor(255*i/endData.length)},${Math.floor(255*(1 - i/endData.length))},200,0.8)`);
     }
-
+    console.log(colors);
     // Graph the data.
     if(playersPlot instanceof Chart) playersPlot.destroy(); // This clears the graph from any old data.
     playersPlot = new Chart(graph,
@@ -96,7 +98,7 @@ function outputPlayers(endData, reps) {
                 datasets: [{label: 'Frequency of Recieving Final Pass', 
                 barPercentage: 1.0, 
                 data: playerData, 
-                backgroundColor: 'rgba(0,0,0,0.3)', 
+                backgroundColor: colors, 
                 borderColor: 'rgba(0,0,0,1.0)'}]
             },
             options: {}
