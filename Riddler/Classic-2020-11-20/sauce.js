@@ -73,18 +73,17 @@ function logPasses(passes, timeData) {
 }
 
 /**
- * This function outputs the number of passes as an HTML table.
+ * This function outputs the number of passes as an scatterplot.
  * @param timeData The array storing the number of passes.
  * @param reps The number of repetitons of the simulation.
- * @return An HTML table containing the 
  */
 function outputPasses(timeData, reps) {
-    var output = '<table><tr><th>Passes</th><th>Frequency</th><th>Relative Frequency</th></tr>';
- 
+    var graph = document.getElementById('passesgraph'); // Grap the element to display the scatterplot
+    graph.innerHTML = "";
+    var data = [];                                      // The data should be stored in an array of objects 
     for(let i = 0; i<timeData.length; i++) {      // Loop through and output passes data, skip 0 entries
-        if(timeData[i] > 0) output += `<tr><td>${(i+1)}</td><td>${timeData[i]}</td><td>${(timeData[i]/reps)}</td></tr>`;
+        if(timeData[i] > 0) data.push({passes: (i+1), rel_freq: (timeData[i]/reps)});
     }
-    output += '</table>';
-
-    return output;
+    var vis = new candela.components.ScatterPlot(graph, {data: data, x: 'passes', y:'rel_freq', width: 1280, height: 720});
+    vis.render();
 }
