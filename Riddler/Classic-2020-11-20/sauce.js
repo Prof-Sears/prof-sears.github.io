@@ -1,3 +1,6 @@
+var playersPlot;    // This is the graph for the players. It is global to help with refeshing the graph.
+var passesPlot;     // This is the graph for the frequency of passes. It is global to help with refreshing the graph.
+
 /**
  * This function runs the simulation of the cranberry passing problem. It collects and outputs the data.
  */
@@ -84,7 +87,9 @@ function outputPlayers(endData, reps) {
         labels.push('' + i);                // Use player numbers for labels.
     }
 
-    var playersPlot = new Chart(graph,
+    // Graph the data.
+    if(playersPlot instanceof Chart) playersPlot.destroy(); // This clears the graph from any old data.
+    playersPlot = new Chart(graph,
         {   type: 'bar',
             data: {
                 labels: labels,
@@ -113,7 +118,8 @@ function outputPasses(timeData, reps) {
     }
     
     // Graph the data.
-    var passesPlot = new Chart(graph, 
+    if(passesPlot instanceof Chart) passesPlot.destroy(); // This clears the graph from any old data.
+    passesPlot = new Chart(graph, 
         { type: 'scatter', 
             data: {
                 datasets: [{label: 'Final # of Passes', data: passesData, pointBackgroundColor: 'rgba(0, 0, 0, 0.3)', pointBorderColor: 'rgba(0,0,0,1.0)'}]
