@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8" />
+    <title>KY COVID Dashboard</title>
+    <script>
+        console.log('Fetching Data');
+
+    async function loadData() {
+        const response = await fetch('./KY_COVID_data.csv'); // Load data from CSV file
+        const dataset = await response.text();             // Get the response as text;
+        console.log(dataset);
+    }
+    </script>
+</head>
+<body>
+    <div id="instructions">
+        <p>Click "Load Data" to retrieve data.</p>
+        <button onclick="loadData()">Load Data</button>
+    </div>
+</body>
+</html>
