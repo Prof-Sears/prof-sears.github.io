@@ -11,3 +11,6 @@
 
 * [MPMP - Oct. 14, 2020](/MPMP/MPMP-2020-10-14/README.md)
 * [MPMP - Nov. 25, 2020](/MPMP/MPMP-2020-11-25/sequence.html)
+
+## Learning Projects
+* [KY COVID Dashboard](/Learning/CSVData/KYCovid.html)
