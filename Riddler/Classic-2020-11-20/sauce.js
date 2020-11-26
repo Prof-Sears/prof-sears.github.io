@@ -124,7 +124,7 @@ function outputPasses(timeData, reps) {
     passesPlot = new Chart(graph, 
         { type: 'scatter', 
             data: {
-                datasets: [{label: 'Final # of Passes', data: passesData, pointBackgroundColor: 'rgba(0, 0, 0, 0.3)', pointBorderColor: 'rgba(0,0,0,1.0)'}]
+                datasets: [{label: 'Final # of Passes', data: passesData, pointBackgroundColor: 'rgba(128, 128, 200, 0.8)', pointBorderColor: 'rgba(0,0,0,1.0)'}]
             }, 
             options: {} 
         });
