@@ -95,13 +95,15 @@ function outputPlayers(endData, reps) {
         {   type: 'bar',
             data: {
                 labels: labels,
-                datasets: [{label: 'Frequency of Recieving Final Pass', 
+                datasets: [{label: 'Relative Frequency', 
                 barPercentage: 1.0, 
                 data: playerData, 
                 backgroundColor: colors, 
                 borderColor: 'rgba(0,0,0,1.0)'}]
             },
-            options: {}
+            options: {
+                title: {display: true, text:'Relative Frequency of Receiving the Final Pass for Each Player'}
+            }
         });
 }
 
@@ -126,6 +128,8 @@ function outputPasses(timeData, reps) {
             data: {
                 datasets: [{label: 'Final # of Passes', data: passesData, pointBackgroundColor: 'rgba(128, 128, 200, 0.8)', pointBorderColor: 'rgba(0,0,0,1.0)'}]
             }, 
-            options: {} 
+            options: {
+                title: {display: true, text: 'Relative Frequency vs. Number of Turns to Finish'}
+            } 
         });
 }
