@@ -1,0 +1,23 @@
+body {
+    color: white;
+    background-color: #0033a0;
+    padding: 1%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#instructions{
+
+}
+
+.chart {
+    width: 48%;
+    color: #0033a0;
+    background-color: white;
+}

@@ -3,12 +3,20 @@
 <head> 
     <meta charset="UTF-8" />
     <title>KY COVID Dashboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
     <script src="KYcovid.js"></script>
+    <link href="KYCovid.css" text="text/css" rel="stylesheet" />
 </head>
 <body>
-    <div id="instructions">
-        <p>Click "Load Data" to retrieve data.</p>
-        <button onclick="loadData()">Load Data</button>
+    <h1>KY Covid Dashboard</h1>
+    <h2>A Personal Programming Project</h2>
+    <div class="chart" style="float: left">
+        <h2>Cumulative Infections</h2>
+        <canvas id="cuminf"></canvas>
+    </div>
+    <div class="chart" style="float: right">
+        <h2>Cumulative Deaths</h2>
+        <canvas id="cumdeath"></canvas>
     </div>
 </body>
 </html>
