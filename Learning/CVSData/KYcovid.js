@@ -23,7 +23,6 @@ async function loadData() {
     let row = [];
     for(let i = 1; i < rows.length; i++) {
         row = rows[i].split(',');
-<<<<<<< HEAD:Learning/CVSData/KYcovid.js
         if(row[2] !== '') {
             infLabels.push(row[0]);
             cumInfData.push(parseInt(row[2]));
@@ -32,13 +31,6 @@ async function loadData() {
             deathLabels.push(row[0]);
             cumDeathData.push(parseInt(row[3]));
         }
-=======
-
-        labels.push(row[0]);
-        
-        cumInfData.push(parseInt(row[2]));
-        cumDeathData.push(parseInt(row[3]));
->>>>>>> d085cdd1bc2bca0b9c255d0d7019dd36c65c755d:Learning/CSVData/KYcovid.js
     }
 
     /* Calculate new cases and rolling average */
