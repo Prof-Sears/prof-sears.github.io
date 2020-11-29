@@ -21,18 +21,18 @@ async function loadData() {
     let row = [];
     for(let i = 1; i < rows.length; i++) {
         row = rows[i].split(',');
-        if(row[2] != '') {
+        if(row[2] !== '') {
             infLabels.push(row[0]);
             cumInfData.push(parseInt(row[2]));
         }
-        if(row[3] != '') {
+        if(row[3] !== '') {
             deathLabels.push(row[0]);
             cumDeathData.push(parseInt(row[3]));
-        };
+        }
     }
      
     /* Build the cumulative infections chart. */
-    const infCanvas = document.getElementById('cuminf');    // Load the 
+    const infCanvas = document.getElementById('cuminf');    // Load the
     if(infChart instanceof Chart) infChart.destroy();
     console.log(cumInfData);
     infChart = new Chart(infCanvas,
@@ -48,7 +48,7 @@ async function loadData() {
     });
 
     /* Build the cumulative deaths chart. */
-    const deathCanvas = document.getElementById('cumdeath');    // Load the 
+    const deathCanvas = document.getElementById('cumdeath');    // Load the
     if(deathChart instanceof Chart) deathChart.destroy();
     deathChart = new Chart(deathCanvas,
         {
