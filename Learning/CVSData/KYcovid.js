@@ -4,9 +4,7 @@ let infChart;       // This is the chart for the cumulative invections.
 let deathChart;     // This is the chart for the cumulate deaths.
 let newInfChart;    // this is the chart for the average new infections.
 
-loadData();
-
-async function loadData() {
+const loadData = async () => {
     const response = await fetch('https://prof-sears.github.io/Learning/CSVData/KY_COVID_data.csv'); // Load data from CSV file
     const rawtext = await response.text();                                                           // Get the response as text;
     
@@ -16,21 +14,15 @@ async function loadData() {
     
     const labels = [];                                 // This stores the dates as labels.
     const cumInfData = [];                             // This is the data for the cumulative infections.
-    const deathLabels = [];                            // This is the labels for the cumulative deaths.
     const cumDeathData = [];                           // This is the data for cumulative deaths.
         
     /* Read the data into useable arrays */
     let row = [];
     for(let i = 1; i < rows.length; i++) {
         row = rows[i].split(',');
-        if(row[2] !== '') {
-            infLabels.push(row[0]);
-            cumInfData.push(parseInt(row[2]));
-        }
-        if(row[3] !== '') {
-            deathLabels.push(row[0]);
-            cumDeathData.push(parseInt(row[3]));
-        }
+        labels.push(row[0]);
+        cumInfData.push(parseInt(row[2]));
+        cumDeathData.push(parseInt(row[3]));
     }
 
     /* Calculate new cases and rolling average */
@@ -94,3 +86,4 @@ async function loadData() {
         });
 }
 
+loadData();
