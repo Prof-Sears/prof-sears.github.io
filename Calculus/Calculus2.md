@@ -1,5 +1,3 @@
-# Calculus I
-
 # Calculus II
 
 ## KCTCS Competencies
@@ -81,7 +79,3 @@ Upon completion of this course, this student can:
 ### Polar Coordinates
 
 ### Calculus in Polar Coordinates
-
-# Calculus III
-
-# Differential Equations
