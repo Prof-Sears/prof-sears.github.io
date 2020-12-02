@@ -1,5 +1,3 @@
-# Calculus Resources
-
 # Calculus I
 
 # Calculus II
