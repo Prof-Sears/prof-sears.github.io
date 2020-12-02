@@ -72,7 +72,7 @@ Upon completion of this course, this student can:
 
 ### Taylor Polynomials
 
-## Parametric and Polar Coordinates
+## Parametric Curves and Polar Coordinates
 
 ### Parametric Curves
 
