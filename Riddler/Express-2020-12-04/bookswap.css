@@ -1,7 +1,6 @@
 body {
   font-size: large;
-  background-color: #336600;
-  background-color: rgba(51,102,0,0.3);
+  background-color: #c1d1b2;
 }
 
 h1 {
@@ -15,15 +14,13 @@ p {
 }
 
 .simulation {
-  background-color: #660066;
-  background-color: rgba(102,0,102,0.3);
+  background-color: #d1b2d1;
   margin: 2%;
   padding: 2%;
 }
 
 .output {
-  background-color: #660000;
-  background-color: rgba(102,0,0,0.3);
+  background-color: #d1b2b2;
   margin: 2%;
   padding: 2%;
 }
