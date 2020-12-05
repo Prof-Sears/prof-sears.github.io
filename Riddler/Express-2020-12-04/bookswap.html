@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Book Swap Simulation</title>
+    <link rel="stylesheet" type="text/css" href="bookswap.css"/>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+    <script type="text/javascript" src="bookswap.js"></script>
+  </head>
+  <body>
+    <h1>Book Swap Simulation</h1>
+    <p>This is a simulation of the <a href="https://fivethirtyeight.com/features/can-you-cut-the-cookies/">Riddler Express for December 4, 2020</a>.
+    I'm pretty confident in my answer that I did quickly in my head.
+    Experience tells me that with this level of confidence I need to test my answer.</p>
+    <p>My original guess is that the probability would be \(\frac{1}{N}\) with \(N\) players.</p>
+    <div class="simulation">
+      <button onclick="runSimulation()">Run Simulation</button>
+      <div id="out" class="output"></div>
+    </div>
+    <p>Since my inital guess was wildly wrong, I decided to look on the Wikipedia page for <a href="https://en.wikipedia.org/wiki/Derangement">derangements</a>.
+    The answer to the problem, and the reason why the probability reaches a limiting value can be found there.</p>
+    <p>The solution to the Riddler Express is below.
+    \[\frac{!5}{5!} = \frac{44}{120} = \frac{11}{30} = 0.36667\]</p>
+  </body>
+</html>

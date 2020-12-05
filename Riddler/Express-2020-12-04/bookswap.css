@@ -1,0 +1,29 @@
+body {
+  font-size: large;
+  background-color: #336600;
+  background-color: rgba(51,102,0,0.3);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  width: 96%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.simulation {
+  background-color: #660066;
+  background-color: rgba(102,0,102,0.3);
+  margin: 2%;
+  padding: 2%;
+}
+
+.output {
+  background-color: #660000;
+  background-color: rgba(102,0,0,0.3);
+  margin: 2%;
+  padding: 2%;
+}
