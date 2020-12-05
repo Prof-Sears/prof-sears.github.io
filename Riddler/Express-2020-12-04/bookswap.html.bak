@@ -16,7 +16,7 @@
       <button onclick="runSimulation()">Run Simulation</button>
       <div id="out" class="output"></div>
     </div>
-    <p>Since my initial guess was wildly wrong, I decided to look on the Wikipedia page for <a href="https://en.wikipedia.org/wiki/Derangement">derangements</a>.
+    <p>Since my inital guess was wildly wrong, I decided to look on the Wikipedia page for <a href="https://en.wikipedia.org/wiki/Derangement">derangements</a>.
     The answer to the problem, and the reason why the probability reaches a limiting value can be found there.</p>
     <p>The solution to the Riddler Express is below.
     \[\frac{!5}{5!} = \frac{44}{120} = \frac{11}{30} = 0.36667\]</p>
