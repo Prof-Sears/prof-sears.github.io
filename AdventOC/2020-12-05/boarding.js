@@ -18,6 +18,6 @@ const seatID = (spec) => parseInt(spec.replace(/F/g,'0').replace(/B/g,'1').repla
  * This function solves the main problem.
  */
 const findMissing = async () => {
-  const tickets = await fetch('https://adventofcode.com/2020/day/5/input');
+  const tickets = await fetch('https://prof-sears.github.io/AdventoC/2020-12-05/input.txt');
   console.log(tickets);
 }
