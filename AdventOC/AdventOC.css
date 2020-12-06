@@ -1,0 +1,15 @@
+body {
+  background-color: #00ff99;
+}
+
+.interactive {
+  background-color: #ff0033;
+  margin: 2%;
+  padding: 2%;
+}
+
+.display {
+  background-color: white;
+  margin: 2%;
+  padding: 2%;
+}
