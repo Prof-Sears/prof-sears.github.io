@@ -13,6 +13,9 @@ const getInput = async () => {
 
 getInput();
 
+/**
+ * This function searches through the numbers.
+ */
 const run = () => {
   const numbers = [];
   for(let line of lines) numbers.push(parseInt(line));
@@ -42,4 +45,3 @@ const run = () => {
     }
   }
 };
-

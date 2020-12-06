@@ -14,6 +14,7 @@
 * [MPMP - Nov. 25, 2020](/MPMP/MPMP-2020-11-25/sequence.html)
 
 ## Advent of Code
+* [Dec. 1, 2020](/AdventOC/2020-12-01/expense.html)
 * [Dec. 5, 2020](/AdventOC/2020-12-05/boarding.html)
 
 ## Learning Projects
