@@ -1,23 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Advent of Code Template</title>
+    <title>Searching Expense Reports</title>
     <script src="backend.js"></script>
     <link rel="stylesheet" type="text/css" href="../AdventOC.css"/>
   </head>
   <body>
-    <h1>Template</h1>
+    <h1>Expense Report Simulation</h1>
     <div class="display">
-      <p>This page is to solve the programming problem from <a href="https://adventofcode.com/2020/day/X">Advent of Code - Day X</a>.</p>
-      <p>Problem Description here</p>
+      <p>This page is to solve the programming problem from <a href="https://adventofcode.com/2020/day/1">Advent of Code - Day 1</a>.</p>
+      <p>The problem is to search through a list a numbers and find sets of numbers that add to 2020.
+      For Part 1, the goal is to find two numbers that add to 2020.
+      For Part 2, the goal is to find three numbers that add to 2020.
+      The program will calculate the product of the numbers from each part.</p>
       <div class="interactive">
-      <button onclick="run()">Search Expenses</button><label for="outputbox">Product:</label><input id="outputbox" value="Waiting..." disabled/>
+      <label for="statusbox">Status</label><input id="statusbox" value = "Waiting..." disabled/><br/>
+      <button onclick="run()">Search Expenses</button>
+      <br/>
+      <label for="p1b1">Product:</label><input id="p1b1" value="" size="5" disabled/>
+      <label for="p1b2">Product:</label><input id="p1b2" value="" size="5" disabled/>
+      <label for="p1b3">Product:</label><input id="p1b3" value="" size="10" disabled/>
+      <br/>
+      <label for="p2b1">Product:</label><input id="p2b1" value="" size="5" disabled/>
+      <label for="p2b2">Product:</label><input id="p2b2" value="" size="5" disabled/>
+      <label for="p2b3">Product:</label><input id="p2b3" value="" size="5" disabled/>
+      <label for="p2b4">Product:</label><input id="p2b4" value="" size="10" disabled/>
       </div>
-      <p>Important code notes.</p>
+      <p>Here is the first version I ran on Node.js.</p>
       <pre><code>
-        /* Code Example */
+const fs = require('fs');
+
+console.log('Running');
+
+let rawData;
+
+try {
+  rawData = fs.readFileSync('input.txt','utf8');
+} catch (err) {
+  console.error(err);
+}
+
+const lines = rawData.split('\n');
+const numbers = [];
+for(let line of lines) numbers.push(parseInt(line));
+
+for(let i = 0; i < numbers.length; i++) {
+  for(let j = i+1; j < numbers.length; j++) {
+    if(numbers[i] + numbers[j] === 2020) console.log(`Found answer: ${numbers[i]} - ${numbers[j]} - ${numbers[i]*numbers[j]}`);
+  }
+}
+
+for(let i = 0; i < numbers.length; i++) {
+  for(let j = i+1; j < numbers.length; j++) {
+    for(let k = j+1; k < numbers.length; k++) {
+      if(numbers[i] + numbers[j] + numbers[k] === 2020) {
+        console.log(`Found answer: ${numbers[i]} - ${numbers[j]} - ${numbers[k]} - ${numbers[i]*numbers[j]*numbers[k]}`);
+      }
+    }
+  }
+}
       </code></pre>
-      <p>Source code can be found at my <a href="https://github.com/Prof-Sears/prof-sears.github.io/tree/main/AdventOC/2020-12-XX">GitHub repository</a>.</p>
+      <p>Source code can be found at my <a href="https://github.com/Prof-Sears/prof-sears.github.io/tree/main/AdventOC/2020-12-01">GitHub repository</a>.</p>
     </div>
   </body>
 </html>
