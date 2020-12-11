@@ -12,16 +12,16 @@
       <p>
         The goal of this project is to debug code.
         There is an infinite loop somewhere, and it's our job to find it.
-        The code is made from three operation: <code>nop</code>, which does nothing; <code>jmp</code>, which moves the instruction location; and <code>acc</code> which adds or subtracts a value to the accumulator.
+        The code is made from three operation: <code>nop</code>, which does nothing; <code>jmp</code>, which moves the execution location; and <code>acc</code> which adds or subtracts a value to the accumulator.
       </p>
       <p>
-        To solve the problem, I wrote an algorithm to implement the instruction.
-        I then changed the <code>nop</code> or <code>jmp</code> operations one at a time and then checked for an infinite loop.
+        To solve the problem, I wrote an algorithm to execute the instructions.
+        I then changed the <code>nop</code> or <code>jmp</code> operations one at a time and then checked for completion of the code.
       </p>
       <p>
         I had some trouble debugging the algorithm, so I decided to visualize the progress through the instructions.
-        The operation count is along the x-axis, left to right.
-        The operation location is along the y-axis, top to bottom.
+        The count of executed operations is along the x-axis, left to right.
+        The current location of the operation being executed is along the y-axis, top to bottom.
         If the graph hits the right bottom of the screen, the algorithm has terminated.
         This visualization is embedded below.
         It was created with <a href="https://p5js.org">p5.js</a>.
