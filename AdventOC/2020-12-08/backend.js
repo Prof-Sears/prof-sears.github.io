@@ -1,77 +1,84 @@
+let instructions = []; // The array of numbers for processing
+
+const loadInput = async () => {
+  const response = await fetch('https://prof-sears.github.io/AdventOC/2020-12-08/input.txt'); // Fetch the data stored on my GitHub repo
+  const rawtext = await response.text();  // get the text from the fetch call.
+  const lines = rawtext.split('\n');      // split the intput into lines.
+  for(let i = 0; i < lines.length; i++) {
+    if(lines[i] !== '') instructions.push(      // parse the line if it is not empty
+      {
+        op: lines[i].substring(0,3),            // this is the operation.
+        val: parseInt(lines[i].substring(4)),   // this is the value.
+        visits: 0                               // this is the number of times the operation has been visited when the instructions run.
+      });
+  }
+  console.log(`Loaded ${instructions.length} instructions.`);
+  document.getElementById('statusbox').value = "Loaded.";
+};
+
+
+
 /**
  * This function runs the instructions.
  */
-const runInstructions = (instructions) => {
+const runInstructions = (ins) => {
 
   let accumulator = 0;
   let opIndex = 0;
   let opCount = 0;
   let running = true;
   let retOb;
-  let maxIndex = 0;
-
-  scatter = [];
-
+  
   while (running) {
     
-    print(instructions[opIndex]);
-    
-    if (opIndex > maxIndex) maxIndex = opIndex;
-
-    opCount++;
-
-    scatter.push({
-      x: opCount,
-      y: opIndex
-    });
-
     /* Successfully reached end of code. */
-    if (opIndex >= instructions.length) {
+    if (opIndex >= ins.length) {
       retOb = {
         status: true,
-        accumulator: accumulator,
-        maxIndex: maxIndex
+        accumulator: accumulator
       };
+      running = false;
     }
 
     /* Hit an infinite loop. */
-    else if (instructions[opIndex].visits > 0) {
+    else if (ins[opIndex].visits > 0) {
       retOb = {
         status: false,
-        accumulator: accumulator,
-        maxIndex: maxIndex
+        accumulator: accumulator
       };
       running = false;
     }
 
     /* Handle a nop instruction */
-    else if (instructions[opIndex].op === 'nop') {
-      instructions[opIndex].visits++;
+    else if (ins[opIndex].op === 'nop') {
+      ins[opIndex].visits++;
       opIndex++;
     }
 
     /* Handle a acc instruction */
-    else if (instructions[opIndex].op === 'acc') {
-      accumulator += instructions[opIndex].val;
-      instructions[opIndex].visits++;
+    else if (ins[opIndex].op === 'acc') {
+      accumulator += ins[opIndex].val;
+      ins[opIndex].visits++;
       opIndex++;
     }
 
     /* Handel a jmp instruction */
-    else if (instructions[opIndex].op === 'jmp') {
-      instructions[opIndex].visits++;
-      opIndex += instructions[opIndex].val;
+    else if (ins[opIndex].op === 'jmp') {
+      ins[opIndex].visits++;
+      opIndex += ins[opIndex].val;
     }
 
     /* A default case */
     else {
-      print(`unrecognized operation: ${instructions[opIndex].op}`);
+      print(`unrecognized operation: ${ins[opIndex].op}`);
       opIndex++;
     }
+    
+    opCount++;
   }
-
-  /* Reset Visits */
-  for (let i = 0; i < instructions.length; i++) instructions[i].visits = 0;
 
   return retOb;
 }
+
+loadInput();
+//console.log(runInstructions(instructions).status);

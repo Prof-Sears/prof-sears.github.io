@@ -2,21 +2,106 @@
 <html lang="en">
   <head>
     <title>Day 8: Handheld Halting</title>
-    <script src="backend.js"></script>
     <link rel="stylesheet" type="text/css" href="../AdventOC.css"/>
   </head>
   <body>
     <h1>Template</h1>
     <div class="display">
       <p>This page is to solve the programming problem from <a href="https://adventofcode.com/2020/day/8">Advent of Code - Day 8</a>.</p>
-      <p>Problem Description here</p>
+      <p>
+        The goal of this project is to debug code.
+        There is an infinite loop somewhere, and it's our job to find it.
+        The code is made from three operation: <code>nop</code>, which does nothing; <code>jmp</code>, which moves the instruction location; and <code>acc</code> which adds or subtracts a value to the accumulator.
+      </p>
+      <p>
+        To solve the problem, I wrote an algorithm to implement the instruction.
+        I then changed the <code>nop</code> or <code>jmp</code> operations one at a time and then checked for an infinite loop.
+      </p>
+      <p>
+        I had some trouble debugging the algorithm, so I decided to visualize the progress through the instructions.
+        The operation count is along the x-axis, left to right.
+        The operation location is along the y-axis, top to bottom.
+        If the graph hits the right bottom of the screen, the algorithm has terminated.
+        This visualization is embedded below.
+        It was created with <a href="https://p5js.org">p5.js</a>.
+      </p>
       <div class="interactive">
-      <button onclick="run()">Convert Ticket to Seat ID</button><label for="outputbox">Answer:</label><input id="outputbox" value="default"/>
-      <label for="idbox">Seat ID</label><input id="idbox" disabled/>
+        <iframe src="https://editor.p5js.org/Prof-Sears/embed/L_rxrHpeX"></iframe>
       </div>
-      <p>Important code notes.</p>
+      <p>The function to execute the operations is below.</p>
       <pre><code>
-        /* Code Example */
+function runInstructions() {
+  let accumulator = 0;
+  let opIndex = 0;
+  let opCount = 0;
+  let running = true;
+  let retOb;
+  let maxIndex = 0;
+
+  scatter = [];
+
+  while (running) {
+
+    if (opIndex > maxIndex) maxIndex = opIndex;
+
+    opCount++;
+
+    scatter.push({
+      x: opCount,
+      y: opIndex
+    });
+
+    /* Successfully reached end of code. */
+    if (opIndex >= instructions.length) {
+      retOb = {
+        status: true,
+        accumulator: accumulator,
+        maxIndex: maxIndex
+      };
+      running = false;
+    }
+
+    /* Hit an infinite loop. */
+    else if (instructions[opIndex].visits > 0) {
+      retOb = {
+        status: false,
+        accumulator: accumulator,
+        maxIndex: maxIndex
+      };
+      running = false;
+    }
+
+    /* Handle a nop instruction */
+    else if (instructions[opIndex].op === 'nop') {
+      instructions[opIndex].visits++;
+      opIndex++;
+    }
+
+    /* Handle a acc instruction */
+    else if (instructions[opIndex].op === 'acc') {
+      accumulator += instructions[opIndex].val;
+      instructions[opIndex].visits++;
+      opIndex++;
+    }
+
+    /* Handel a jmp instruction */
+    else if (instructions[opIndex].op === 'jmp') {
+      instructions[opIndex].visits++;
+      opIndex += instructions[opIndex].val;
+    }
+
+    /* A default case */
+    else {
+      print(`unrecognized operation: ${instructions[opIndex].op}`);
+      opIndex++;
+    }
+  }
+
+  /* Reset Visits */
+  for (let i = 0; i < instructions.length; i++) instructions[i].visits = 0;
+
+  return retOb;
+}
       </code></pre>
       <p>Source code can be found at my <a href="https://github.com/Prof-Sears/prof-sears.github.io/tree/main/AdventOC/2020-12-08">GitHub repository</a>.</p>
     </div>
