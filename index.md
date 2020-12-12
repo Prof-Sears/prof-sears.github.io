@@ -16,6 +16,7 @@
 ## Advent of Code
 * [Dec. 1, 2020](/AdventOC/2020-12-01/expense.html)
 * [Dec. 2, 2020](/AdventOC/2020-12-02/password.html)
+* [Dec. 3, 2020](/AdventOC/2020-12-03/toboggan.html)
 * [Dec. 5, 2020](/AdventOC/2020-12-05/boarding.html)
 * [Dec. 8, 2020](/AdventOC/2020-12-08/infinite.html)
 * [Dec. 9, 2020](/AdventOC/2020-12-09/XMAS.html)
