@@ -67,7 +67,6 @@ function isValidP2(passport) {
   } else if (!/^(amb|blu|brn|gry|grn|hzl|oth)$/.test(passport.ecl)) {
     retVal = false;
   } else if (!/^\d{9}$/.test(passport.pid)) {
-    //print(`invalid pid: ${passport.pid}`);
     retVal = false;
   }
 
