@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Day 4: Passport Processing</title>
+    <script src="backend.js"></script>
+    <link rel="stylesheet" type="text/css" href="../AdventOC.css"/>
+  </head>
+  <body>
+    <a href="https://prof-sears.github.io">Return Home</a>
+    <h1>Day 4: Passport Processing</h1>
+    <div class="display">
+      <p>This page is to solve the programming problem from <a href="https://adventofcode.com/2020/day/4">Advent of Code - Day 4</a>.</p>
+      <p>This problem focuses on validating passports.
+      The input consisted of a list of fields for each passport:
+      <code>byr</code>,<code>iyr</code>,<code>eyr</code>,<code>hgt</code>,<code>hcl</code>,<code>ecl</code>,<code>pid</code>, and <code>cid</code>.
+      </p>
+      <p>
+      Part 1 required us to input the passports and check which had entries for all fields except <code>cid</code>.
+      Part 2 required us to validate each entry according to specific criteria.
+      I decided to visualize the passports by listing each passport top to bottom in the canvas below. Each field is represented left to right.
+      A white entry means the field was valid. A red entry means the field was invalid.
+      The <code>cid</code> field used gray for valid, as we really weren't concerned about that field.
+      Part 1 is on the left, and Part 2 is on the right.</p>
+      <div class="interactive" style="text-align:center">
+        <iframe width="800" height="840" src="https://editor.p5js.org/Prof-Sears/embed/DN0pHF_ry"></iframe>
+      </div>
+      <p>In order to validate the entries, I used regular expressions.
+      I've never used regular expressions before, so there was a learning curve.
+      It took several tries to get this solution correct.</p>
+      <p>My validation code for each part is below. It is possible to write each function as a single if statement, but that is too hard to debug.</p>
+      <pre><code>
+/**
+ * A function to test if a passport is valid based on the criteria of Part 1.
+ */
+function isValidP1(passport) {
+  let retVal = true;
+
+  if (passport.byr === '') retVal = false;
+  else if (passport.iyr === '') retVal = false;
+  else if (passport.eyr === '') retVal = false;
+  else if (passport.hgt === '') retVal = false;
+  else if (passport.hcl === '') retVal = false;
+  else if (passport.ecl === '') retVal = false;
+  else if (passport.pid === '') retVal = false;
+
+  return retVal;
+}
+
+/**
+ * A function to test if a passport is valid based on the criteria of Part 2.
+ */
+function isValidP2(passport) {
+  let retVal = true;
+
+  if (!/^\d{4}$/.test(passport.byr) || parseInt(passport.byr) < 1920 || parseInt(passport.byr) > 2002) {
+    retVal = false;
+  } else if (!/^\d{4}$/.test(passport.iyr) || parseInt(passport.iyr) < 2010 || parseInt(passport.iyr) > 2020) {
+    retVal = false;
+  } else if (!/^\d{4}$/.test(passport.eyr) || parseInt(passport.eyr) < 2020 || parseInt(passport.eyr) > 2030) {
+    retVal = false;
+  } else if (!/^\d{2,3}(cm|in)$/.test(passport.hgt) ||
+    (/cm$/.test(passport.hgt) && (parseInt(/^\d{2,3}/.exec(passport.hgt)[0]) < 150 || parseInt(/^\d{2,3}/.exec(passport.hgt)[0]) > 193)) ||
+    (/in$/.test(passport.hgt) && (parseInt(/^\d{2,3}/.exec(passport.hgt)[0]) < 59 || parseInt(/^\d{2,3}/.exec(passport.hgt)[0]) > 76))) {
+    retVal = false;
+  } else if (!/^[#][0123456789abcdef]{6}$/.test(passport.hcl)) {
+    retVal = false;
+  } else if (!/^(amb|blu|brn|gry|grn|hzl|oth)$/.test(passport.ecl)) {
+    retVal = false;
+  } else if (!/^\d{9}$/.test(passport.pid)) {
+    //print(`invalid pid: ${passport.pid}`);
+    retVal = false;
+  }
+
+  return retVal;
+}
+      </code></pre>
+      <p>Source code can be found at my <a href="https://github.com/Prof-Sears/prof-sears.github.io/tree/main/AdventOC/2020-12-04">GitHub repository</a>.</p>
+    </div>
+  </body>
+</html>
