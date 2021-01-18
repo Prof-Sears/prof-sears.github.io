@@ -11,7 +11,6 @@
     <h1>You Bet Your Fife</h1>
     <p>This is a solution to the <a href="https://fivethirtyeight.com/features/can-you-hunt-for-the-mysterious-numbers/">Riddler Express for January 15, 2021</a>.
     This is one of those problems where the answer is exactly your first guess. Of course, that leads to a lot of second guessing.</p>
-    <p>My original guess is that the probability would be \(\frac{N-1}{N} \times \frac{N-2}{N-1} \times \cdots \times \frac{2}{3} \times \frac{1}{2} = \frac{1}{N}\) with \(N\) player</p>
     <p>Suppose you guess \(x\). The probability that your guess is below the hidden number is \(\frac{100 - x}{100} = 1 - \frac{x}{100}\). Thus, we can calculate the expected value of the winnings with the formula below.
       \[ x \cdot \left(1 - \frac{x}{100} \right) + 0 \cdot \frac{x}{100} = -\frac{1}{100}x^2 + x\]</p>
     <p>We can now use the vertex formula to find the value of \(x\) that maximizes the expected winnings.
