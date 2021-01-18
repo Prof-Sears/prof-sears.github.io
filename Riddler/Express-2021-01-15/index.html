@@ -15,7 +15,7 @@
     <p>Suppose you guess \(x\). The probability that your guess is below the hidden number is \(\frac{100 - x}{100} = 1 - \frac{x}{100}\). Thus, we can calculate the expected value of the winnings with the formula below.
       \[ x \cdot \left(1 - \frac{x}{100} \right) + 0 \cdot \frac{x}{100} = -\frac{1}{100}x^2 + x\]</p>
     <p>We can now use the vertex formula to find the value of \(x\) that maximizes the expected winnings.
-      \[x = -\frac{1}{2\left( -\frac{1}{100} \right)} = 50\].</p>
+      \[x = -\frac{1}{2\left( -\frac{1}{100} \right)} = 50\]</p>
     <p>Historically, when I'm this confident in an answer, I know I made a mistake somewhere.
       As a sanity check, I simulated the game in JavaScript. The graph below calculates the expected value of guessing \(x\).
       The red graph is the value of the formula above. The blue dots are the result of the simulation.
