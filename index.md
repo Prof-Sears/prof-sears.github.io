@@ -27,5 +27,6 @@
 ## Learning Projects
 * [KY COVID Dashboard](/Learning/CSVData/KYcovid.html)
 
-## Calculus Resources
+## Mathematics Resources
+* [Trigonometry](/Calculus/Trigonometry.md)
 * [Calculus II](/Calculus/Calculus2.md)
