@@ -26,7 +26,7 @@
 
 ## Learning Projects
 * [KY COVID Dashboard](/Learning/CSVData/KYcovid.html)
-* [Python Optimization](Primodia.md)
+* [Python Optimization](Primordia.md)
 
 ## Mathematics Resources
 * [Foundations of College Algebra](/Calculus/Foundations.md)
