@@ -2,7 +2,7 @@
   
 For this problem, we a trying to catch a cricket.
   
-https://fivethirtyeight.com/features/can-you-catch-the-cricket/
+[Link to problem:](https://fivethirtyeight.com/features/can-you-catch-the-cricket/)
    
 > Help, there’s a cricket on my floor! I want to trap it with a cup so that I can safely move it outside. But every time I get close, it hops exactly 1 foot in a random direction.
 
