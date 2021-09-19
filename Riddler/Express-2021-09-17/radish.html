@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Radish Pie</title>
+    <link rel="stylesheet" type="text/css" href="radish.css"/>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+    <script type="text/javascript" src="bookswap.js"></script>
+  </head>
+  <body>
+	<a href="https://prof-sears.github.io">Return Home</a>
+    <h1>Babylonian Radish Pie</h1>
+    <p>The Riddler Express for September 17, 2021 ask us to iteratively bake a pie <a href="https://fivethirtyeight.com/features/can-you-bake-the-radish-pie/">Can You Bake the Radish Pie?</a>
+      <blockquote>
+        <p>
+          I recently came across a rather peculiar recipe for something called Babylonian radish pie.
+          Intrigued, I began to follow the directions, which said I could start with any number of cups of flour.
+        </p>
+        <p>
+          Any number? I mean, I had to start with some flour, so zero cups wasn’t an option.
+          But according to the recipe, any positive value was fair game.
+          Next, I needed a second amount of flour that was 3 divided by my original number.
+          For example, if I had started with two cups of flour, then the recipe told me I now needed 3 divided by 2, or 1.5, cups at this point.
+          I was then instructed to combine these amounts of flour and discard half.
+          Apparently, this was my new starting amount of flour.
+          I was to repeat the process, combining this amount with 3 divided by it and then discarding half.
+        </p>
+        <p>
+          The recipe told me to keep doing this, over and over. Eventually, I’d have the proper number of cups of flour for my radish pie.
+        </p>
+        <p>
+          How many cups of flour does the recipe ultimately call for?
+        </p>
+      </blockquote>
+      
+      <p>
+        One way to solve the problem is to let a program try several different values for the initial amount of flour and follow the process to the end.
+        Here is a visualization of that process using a <a href=https://en.wikipedia.org/wiki/Cobweb_plot">web diagram</a>.
+      </p>
+      
+    <div style="text-align: center">
+      <iframe width=620 height = 620 src="https://preview.p5js.org/Prof-Sears/embed/GFEXW-W5y"></iframe>
+    </div>
+
+    <p>The web diagram shows that our process converges to a <a href="https://en.wikipedia.org/wiki/Fixed_point_(mathematics)">fixed point</a>.
+    To calculate the value of the fixed point, we just need a little algebra.
+    \[
+		\begin{align*}
+			\frac12 \left( x + \frac3x \right) &= x \\
+			x + \frac3x &= 2x \\
+			x^2 + 3 &= 2x^2 \\
+			3 &= x^2 \\
+			x = \pm \sqrt{3}
+		\end{align*}
+    \]
+    So, our algebraic solution is \( \sqrt{3} = 1.73205\).
+    </p>
+    <p> (Of course, it helps to read the problem statement correctly.)
+    <blockquote class="twitter-tweet"><p lang="und" dir="ltr">“x/3”? 🤔</p>&mdash; Zach Wissner-Gross (@xaqwg) <a href="https://twitter.com/xaqwg/status/1438847248922812416?ref_src=twsrc%5Etfw">September 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </p>
+    <p>
+		Solving an equation using an iterative method apears in several
+		forms. One example is <a href="https://en.wikipedia.org/wiki/Newton%27s_method">Newton's Method</a>.
+		To solve the equation \(f(x) = 0\) using Newton's method, start with an initial guess \(x_0\) and the
+		repeatedly apply the formula \(x_{n+1}=x_{n} - \frac{f(x_n)}{f'{x_n}}\).
+		For the function \(f(x) = x^2 - a\), we get the following.
+		\[
+			\begin{align*}
+				x_{n+1} &= x_n - \frac{{x_n}^2 - a}{2x_n} \\
+				&= x_n - \frac{{x_n}^2}{2x_n} + \frac{a}{2x_n} \\
+				&= x_n - \frac{x_n}{2} + \frac{a}{2x_n} \\
+				&= \frac{x_n}{2} + \frac{a}{2x_n} \\
+				&= \frac{1}{2} \left( x_n + \frac{a}{x_n} \right)
+			\end{align*}
+		\]
+		The recipe was Newton's Method all along. The method in the recipe is <a href="https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method">The Babylonian method for calculating square root.</a>
+    </p>
+
+    <p>Full source code at the online p5.js editor. <a href="https://editor.p5js.org/Prof-Sears/sketches/GFEXW-W5y">Link to sketch</a></p>
+  </body>
+</html>
