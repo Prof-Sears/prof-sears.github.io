@@ -61,7 +61,7 @@
 		Solving an equation using an iterative method apears in several
 		forms. One example is <a href="https://en.wikipedia.org/wiki/Newton%27s_method">Newton's Method</a>.
 		To solve the equation \(f(x) = 0\) using Newton's method, start with an initial guess \(x_0\) and the
-		repeatedly apply the formula \(x_{n+1}=x_{n} - \frac{f(x_n)}{f'{x_n}}\).
+		repeatedly apply the formula \(x_{n+1}=x_{n} - \frac{f(x_n)}{f'(x_n)}\).
 		For the function \(f(x) = x^2 - a\), we get the following.
 		\[
 			\begin{align*}
@@ -69,7 +69,7 @@
 				&= x_n - \frac{{x_n}^2}{2x_n} + \frac{a}{2x_n} \\
 				&= x_n - \frac{x_n}{2} + \frac{a}{2x_n} \\
 				&= \frac{x_n}{2} + \frac{a}{2x_n} \\
-				&= \frac{1}{2} \left( x_n + \frac{a}(x_n) \right)
+				&= \frac{1}{2} \left( x_n + \frac{a}{x_n} \right)
 			\end{align*}
 		\]
 		The recipe was Newton's Method all along. The method in the recipe is <a href="https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method">the Babylonian method for calculating square root.</a>
