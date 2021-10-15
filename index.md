@@ -1,6 +1,7 @@
 # The Various Projects of Chris Sears
 
 ## Riddler Solutions
+* [Riddler Express - Oct. 15, 2021](/Riddler/Express-2021-10-15/Riddler_Express-2021-10-15.md)
 * [Riddler Express - Sep. 17, 2021](/Riddler/Express-2021-09-17/radish.html)
 * [Riddler Express - Aug. 20, 2021](/Riddler/Express-2021-08-20/Riddler_Express-2021-08-20.md)
 * [Riddler Express - Aug. 13, 2021](/Riddler/Express-2021-08-13/Riddler_Express-2021-08-13.md)
