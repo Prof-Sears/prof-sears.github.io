@@ -106,4 +106,4 @@ print("Expected value of series length: {0}".format(recursiveSearch(arr, "L") + 
 
 
 ## Conclusion
-The expected series length is 5.815 games.
+The expected series length is 5.8125 games.
