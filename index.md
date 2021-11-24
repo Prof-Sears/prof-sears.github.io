@@ -33,7 +33,7 @@
 * [Python Optimization](Primordia.md)
 
 ## Mathematics Resources
-* [Foundations of College Algebra](/Calculus/Foundations.md)
+* [Foundations of College Algebra](/Algebra/Foundations.md)
 * [Liberal Arts Mathematics](/Calculus/Liberal_Arts_Mathematics.md)
 * [Trigonometry](/Calculus/Trigonometry.md)
 * [Calculus II](/Calculus/Calculus2.md)

@@ -1,5 +1,11 @@
 # Foundations of College Algebra
 
+## Lessons
+Lessons below are in Microsoft Word format.
+That seems to be the best for ADA complience.
+
+25. [Factoring with Special Products and Solving Quadratic Equations by Factoring](./MAT 061-26-Lesson 26.docx)
+
 ## KCTCS Competencies
 Upon completion of this course, the student can:
 1. Perform operations on integers and decimals.
