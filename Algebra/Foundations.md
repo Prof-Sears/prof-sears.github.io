@@ -4,7 +4,7 @@
 Lessons below are in Microsoft Word format.
 That seems to be the best for ADA complience.
 
-25. [Factoring with Special Products and Solving Quadratic Equations by Factoring](./MAT 061-26-Lesson 26.docx)
+25. [Factoring with Special Products and Solving Quadratic Equations by Factoring](./MAT_061-26-Lesson_26.docx)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
