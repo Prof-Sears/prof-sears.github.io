@@ -1,5 +1,10 @@
 # Calculus I/Brief Calculus
 
+**Note** This course is structured for a 3-credit-hour Brief Calculus
+and 5-credit-hour Calculus I class to meet during the same time. The
+odd-numbered lessons are for both courses. The even-numbered lessons
+are for only the 5-hour course.
+
 ## Lessons
 1. Introduction to Calculus
 2. Review of Trigonometry
