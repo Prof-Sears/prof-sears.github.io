@@ -36,5 +36,6 @@
 * [Foundations of College Algebra](/Algebra/Foundations.md)
 * [Liberal Arts Mathematics](/Calculus/Liberal_Arts_Mathematics.md)
 * [Trigonometry](/Calculus/Trigonometry.md)
+* [Calculus I/Brief Calculus](/Calculus/Calculus1.md)
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
