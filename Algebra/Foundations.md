@@ -1,38 +1,38 @@
 # Foundations of College Algebra
 
 ## Lessons
-Lessons below are in Microsoft Word format.
+Materials below are in Microsoft Word format.
 That seems to be the best for ADA complience.
 
-1. TK
-2. TK
-3. TK
-4. TK
-5. TK
-6. TK
-7. TK
-8. TK
-9. TK
-10. TK
-11. TK
-12. TK
-13. TK
-14. TK
-15. TK
-16. TK
-17. TK
-18. TK
-19. TK
-20. TK
-21. TK
-22. TK
-23. TK
-24. TK
-25. TK
-26. Factoring with Special Products and Solving Quadratic Equations by Factoring
-[Worksheet](./MAT_061-26-Lesson_26.docx)
-27. TK
-28. TK
+1. Review of Arithmetic, Introduction to Fractions, Prime Factorization
+2. Simplifying Fractions, Multiplying Fractions, Dividing Fractions
+3. Adding and Subtracting Like Fractions, Least Common Multiple, Adding and Subtracting Unlike Fractions
+4. Comparing Fractions, Exponents, and Order of Operations; Introduction to Decimals; Order and Rounding Decimals
+5. Operations on Decimals
+6. Ratios, Proportions, Percent
+7. Exam 1
+8. Using Percent, Perimeter, Area
+9. Volume, Square Roots, The Pythagorean Theorem
+10. Inequality Symbols, Sets of Numbers, Order of Operations, Adding and Subtracting Real Numbers
+11. Multiplying and Dividing Real Numbers, Properties of Real Numbers
+12. Simplfying Expressions, Addition Property of Equality, Multiplication Property of Equality
+13. Exam 3
+14. Further Solving Linear Equations
+15. Further Problem Solving, Formulas
+16. Linear Inequalities, Interval Notation, Rectangular Coordinate System
+17. Graphing Linear Equaitons, Intercepts
+18. Slope and Rate of Change, Equations of Lines
+19. Function Notation, Exponents
+20. Exam 3
+21. Introduction to Polynomials, Adding and Subtracting Polynomials
+22. Multiplying Polynomials, Special Products
+23. The Greatest Common Factor, Factoring by Grouping
+24. Factoring Trinomials: Part 1
+25. Factoring Trinomials: Part 2
+26. Factoring with Special Products, Solving Quadratic Equations by Factoring
+- [Worksheet](./MAT_061-26-Lesson_26.docx)
+27. Additional Topics in Algebra
+28. Exam 4
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
