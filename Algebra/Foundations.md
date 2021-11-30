@@ -16,7 +16,7 @@ That seems to be the best for ADA complience.
 10. Inequality Symbols, Sets of Numbers, Order of Operations, Adding and Subtracting Real Numbers
 11. Multiplying and Dividing Real Numbers, Properties of Real Numbers
 12. Simplfying Expressions, Addition Property of Equality, Multiplication Property of Equality
-13. Exam 3
+13. Exam 2
 14. Further Solving Linear Equations
 15. Further Problem Solving, Formulas
 16. Linear Inequalities, Interval Notation, Rectangular Coordinate System
