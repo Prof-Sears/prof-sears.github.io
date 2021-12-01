@@ -11,7 +11,7 @@ That seems to be the best for ADA complience.
 5. Operations on Decimals
 6. Ratios, Proportions, Percent
 7. Exam 1
-- [Sample Exam](./MAT_061-Exam_3-Fall_2021_v2.docx)
+- [Sample Exam](./MAT_061-Exam_1-Fall_2021_v2.docx)
 8. Using Percent, Perimeter, Area
 9. Volume, Square Roots, The Pythagorean Theorem
 10. Inequality Symbols, Sets of Numbers, Order of Operations, Adding and Subtracting Real Numbers
