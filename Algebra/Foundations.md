@@ -11,12 +11,14 @@ That seems to be the best for ADA complience.
 5. Operations on Decimals
 6. Ratios, Proportions, Percent
 7. Exam 1
+- [Sample Exam](./MAT_061-Exam_3-Fall_2021_v2.docx)
 8. Using Percent, Perimeter, Area
 9. Volume, Square Roots, The Pythagorean Theorem
 10. Inequality Symbols, Sets of Numbers, Order of Operations, Adding and Subtracting Real Numbers
 11. Multiplying and Dividing Real Numbers, Properties of Real Numbers
 12. Simplfying Expressions, Addition Property of Equality, Multiplication Property of Equality
 13. Exam 2
+- [Sample Exam](./MAT_061-Exam_2-Fall_2021_v2.docx)
 14. Further Solving Linear Equations
 15. Further Problem Solving, Formulas
 16. Linear Inequalities, Interval Notation, Rectangular Coordinate System
@@ -24,6 +26,7 @@ That seems to be the best for ADA complience.
 18. Slope and Rate of Change, Equations of Lines
 19. Function Notation, Exponents
 20. Exam 3
+- [Sample Exam](./MAT_061-Exam_3-Fall_2021_v2.docx)
 21. Introduction to Polynomials, Adding and Subtracting Polynomials
 22. Multiplying Polynomials, Special Products
 23. The Greatest Common Factor, Factoring by Grouping
