@@ -19,7 +19,10 @@
 * [MPMP - Oct. 14, 2020](/MPMP/MPMP-2020-10-14/README.md)
 * [MPMP - Nov. 25, 2020](/MPMP/MPMP-2020-11-25/sequence.html)
 
-## Advent of Code
+## Advent of Code 2021
+* [Dec. 1, 2021](/AdventOC/2021-Day1.md)
+
+## Advent of Code 2020
 * [Dec. 1, 2020](/AdventOC/2020-12-01/expense.html)
 * [Dec. 2, 2020](/AdventOC/2020-12-02/password.html)
 * [Dec. 3, 2020](/AdventOC/2020-12-03/toboggan.html)
