@@ -1,5 +1,8 @@
 # Trigonometry
 
+## Lessons
+[Tentative Schedule](./MAT_155-00-Tentative_Schedule.docx)
+
 ## KCTCS Competencies
 Upon completion of this course, the student can:
 1.    	State the definition of the six trigonometric functions in their multiple forms.
