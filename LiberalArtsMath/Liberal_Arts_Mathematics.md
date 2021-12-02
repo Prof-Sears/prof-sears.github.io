@@ -1,5 +1,32 @@
 # Liberal Arts Mathematics
 
+## Lesson List
+1. Percents, Taxes, and Inflation
+2. Interest
+3. Consumer Loans
+4. Annuities
+5. Mortgages
+6. Lines, Angles, and Circles
+7. Polygons
+8. Perimeter and Area
+9. Volume and Surface Area
+10. Apportionment
+11. Huntington-Hill Apportionment
+12. Other Paradoxes and Apportionment Methods
+13. Voting Methods
+14. Defects in Voting Methods
+15. Introduction to Counting Methods
+16. The Fundamental Counting Principle
+17. Permutations and Combinations
+18. Probability Theory
+19. Complements and Unions of Events
+20. Conditional Probability and Intersections of Events
+21. Organizing and Visualizing Data
+22. Measures of the Center
+23. Measures of Dispersion
+24. The Normal Distribution
+
+
 ## KCTCS Competencies
 Upon completion of this course, the student can:
 1. Compare and contrast a variety of voting methods, including majority, plurality, runoff, Borda count, and pairwise methods.

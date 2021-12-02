@@ -4,7 +4,7 @@
 
 ### Mathematics Resources
 * [Foundations of College Algebra](/Algebra/Foundations.md)
-* [Liberal Arts Mathematics](/Calculus/Liberal_Arts_Mathematics.md)
+* [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [Trigonometry](/Trigonometry/Trigonometry.md)
 * [Calculus I/Brief Calculus](/Calculus/Calculus1.md)
 * [Calculus II](/Calculus/Calculus2.md)
