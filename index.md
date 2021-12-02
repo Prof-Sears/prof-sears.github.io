@@ -21,6 +21,7 @@
 
 ## Advent of Code 2021
 * [Dec. 1, 2021](/AdventOC/2021-Day1.md)
+* [Dec. 2, 2021](/AdventOC/2021-Day2.md)
 
 ## Advent of Code 2020
 * [Dec. 1, 2020](/AdventOC/2020-12-01/expense.html)
