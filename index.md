@@ -34,6 +34,7 @@
 ## Coding Projects
 
 ### Advent of Code 2021
+* [Dec. 3, 2021](/AdventOC/2021-Day3.md)
 * [Dec. 2, 2021](/AdventOC/2021-Day2.md)
 * [Dec. 1, 2021](/AdventOC/2021-Day1.md)
 
