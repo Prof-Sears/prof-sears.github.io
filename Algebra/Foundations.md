@@ -36,6 +36,9 @@ That seems to be the best for ADA complience.
 	* [Worksheet](./MAT_061-26-Lesson_26.docx)
 27. Additional Topics in Algebra
 28. Exam 4
+29. Review for Final Exam
+30. Final Exam
+	* [Sample Exam](./MAT_061-Final_Exam-Fall_2021.docx)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
