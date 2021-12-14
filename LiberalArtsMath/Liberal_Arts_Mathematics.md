@@ -38,3 +38,7 @@ Upon completion of this course, the student can:
 7. Calculate and interpret basic descriptive statistical measures such as mean, median, mode, range, variance, standard deviation, and determine z-scores from a normal distribution.
 8. Solve problems using basic two- and three-dimensional geometry.
 9. Solve geometry problems using similarity, scalability, and Pythagorean Theorem.
+
+## Open Educational Resources for Liberal Arts Mathematics
+The following links are to [OER Commons](https://www.oercommons.org).
+*	[Math for Our World](https://www.oercommons.org/courses/math-for-our-world/view)
