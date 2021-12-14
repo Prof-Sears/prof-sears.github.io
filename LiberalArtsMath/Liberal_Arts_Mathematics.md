@@ -44,5 +44,7 @@ The following links are to [OER Commons](https://www.oercommons.org).
 *	[Math for Our World](https://www.oercommons.org/courses/math-for-our-world) - Gail Poitrast
 *	[Math Literacy in a Global Context, Revised for Lane Community College](https://www.oercommons.org/courses/math-for-our-world/view) - Paula Thonney
 *	[Mathematics for the Liberal Arts](https://www.oercommons.org/courses/mathematics-for-the-liberal-arts-2) - Austin Community College, Lindsay Orlando
-*	[Mathematics for the Liberal Arts](https://www.oercommons.org/courses/mathematics-for-the-liberal-arts) - David Lippman _Start with this one_
-
+*	[Mathematics for the Liberal Arts](https://www.oercommons.org/courses/mathematics-for-the-liberal-arts) - David Lippman **Start with this one**
+*	[Math in Society](https://www.oercommons.org/courses/math-in-society-2) - David Lippman
+*	[Math in Society: Mathematics for liberal arts majors](https://www.oercommons.org/courses/math-in-society-mathematics-for-liberal-arts-majors) - Cara Lee
+*	[Liberal Arts Mathematics](https://www.oercommons.org/courses/liberal-arts-mathematics-2) - Saburo Matsumoto
