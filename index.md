@@ -3,6 +3,7 @@
 ## Teaching
 
 ### Mathematics Resources
+* [Calculator Videos](/Calculator_Topics.html)
 * [Foundations of College Algebra](/Algebra/Foundations.md)
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
