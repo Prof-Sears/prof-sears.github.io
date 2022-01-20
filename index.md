@@ -12,6 +12,9 @@
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
 
+### Courses
+[Courses List](Courses.md)
+
 ## Mathematical Puzzle Solutions
 
 ### Riddler Solutions
