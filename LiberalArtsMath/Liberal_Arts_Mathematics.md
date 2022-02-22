@@ -26,7 +26,7 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
-## schedules
+## Schedules
 * [16 Week Schedule](LibArts16Week.md)
 
 ## Official Textbook for My Classes
