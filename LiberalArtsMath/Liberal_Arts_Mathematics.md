@@ -28,6 +28,7 @@
 
 ## Schedules
 * [16 Week Schedule](LibArts16Week.md)
+* [8 Week Schedule](LibArts08Week.md)
 
 ## Official Textbook for My Classes
 [Mathematics All Around 6e](https://www.pearson.com/us/higher-education/product/Pirnot-Mathematics-All-Around-6th-Edition/9780134434681.html) - Tomas Pirnot (ISBN: 9780134434681)

@@ -4,7 +4,7 @@ This schedule assumes a face-to-face class over 16 weeks.
 
 |Week | Lesson | Topic | Sections |
 |---|---|---|---|
-| 1| 1|	Percents, Taxes, and Inflation |8.1|
+| 1| 1|	Percentage, Taxes, and Inflation |8.1|
 |  | 2|	Interest |8.2|
 | 2| 3|	Consumer Loans |8.3|
 |  | 4|	Annuities	|8.4|
