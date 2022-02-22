@@ -1,5 +1,7 @@
 # Liberal Arts Mathematics - 16-Week schedule
 
+This schedule assumes a face-to-face class over 16 weeks.
+
 |Week | Lesson | Topic | Sections |
 |---|---|---|---|
 | 1| 1|	Percents, Taxes, and Inflation |8.1|
