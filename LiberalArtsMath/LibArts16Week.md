@@ -24,7 +24,7 @@
 |  |18|	Conditional Probability and Intersections of Events |13.3|
 |11|19|	Organizing and Visualizing Data	|14.1|
 |  |20|	Measures of the Center |14.2|
-|12|  | Exam 3 |11.1 - 12.1-12.3, 13.1-13.3|
+|12|  | Exam 3 |12.1-12.3, 13.1-13.3|
 |  |21|	Measures of Dispersion |14.3|
 |13|22|	The Normal Distribution |14.4|
 |14|  | Review |All|
