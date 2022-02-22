@@ -26,6 +26,9 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
+## schedules
+* [16 Week Schedule](LibArts16Week.md)
+
 ## Official Textbook for My Classes
 [Mathematics All Around 6e](https://www.pearson.com/us/higher-education/product/Pirnot-Mathematics-All-Around-6th-Edition/9780134434681.html) - Tomas Pirnot (ISBN: 9780134434681)
 
