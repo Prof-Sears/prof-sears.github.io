@@ -2,6 +2,7 @@
 
 ## Lessons
 [Tentative Schedule](Trig16Week.md)
+
 [Homework Problems](TrigHomework.md)
 
 ## KCTCS Competencies
