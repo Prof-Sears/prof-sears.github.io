@@ -15,7 +15,7 @@
 12. Algebra Introduction    
 * [Web](MAT061-12-Lesson_12.html)
 * [MS Word](MAT061-12-Lesson_12.docx)
-* [Original Markdown](MAT061-12-Lesson_12.md)
+* [Original Markdown](Lesson12.md)
 13. Rules for Solving Equations
 14. Exam 2
 15. Solving Linear Equations
