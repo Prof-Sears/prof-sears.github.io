@@ -1,7 +1,8 @@
 # Trigonometry
 
 ## Lessons
-[Tentative Schedule](./MAT_155-00-Tentative_Schedule.docx)
+[Tentative Schedule](Trig16Week.md)
+[Homework Problems](TrigHomework.md)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
