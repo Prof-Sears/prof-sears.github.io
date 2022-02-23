@@ -12,10 +12,10 @@
 9. Geometry Formulas
 10. Pythagorean Theorem, Sets of Numbers, Variables
 11. Operations with Signed Numbers
-12. Algebra Introduction   
-Web - [HTML](Algebra\MAT061-12-Lesson_12.html)
-MS Word - [Word](Algebra\MAT061-12-Lesson_12.docx)
-Original Markdown [Source](Algebra\MAT061-12-Lesson_12.md)
+12. Algebra Introduction    
+* [Web](Algebra\MAT061-12-Lesson_12.html)
+* [MS Word](Algebra\MAT061-12-Lesson_12.docx)
+* [Original Markdown](Algebra\MAT061-12-Lesson_12.md)
 13. Rules for Solving Equations
 14. Exam 2
 15. Solving Linear Equations
