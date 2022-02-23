@@ -1,4 +1,4 @@
-# Liberal Arts Mathematics - 16-Week schedule
+# Liberal Arts Mathematics - 16-Week Schedule
 
 This schedule assumes a face-to-face class over 16 weeks.
 

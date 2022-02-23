@@ -1,4 +1,4 @@
-# Liberal Arts Mathematics - 12-Week schedule
+# Liberal Arts Mathematics - 12-Week Schedule
 
 This schedule assumes an online class over 12 weeks.
 
