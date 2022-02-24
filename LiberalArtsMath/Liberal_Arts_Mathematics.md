@@ -31,6 +31,9 @@
 * [12-Week Schedule](LibArts12Week.md)
 * [8-Week Schedule](LibArts08Week.md)
 
+## Projects
+* [Project 1](Project1.html) -- [Word Document](Project1.docx)
+
 ## Official Textbook for My Classes
 [Mathematics All Around 6e](https://www.pearson.com/us/higher-education/product/Pirnot-Mathematics-All-Around-6th-Edition/9780134434681.html) - Tomas Pirnot (ISBN: 9780134434681)
 
