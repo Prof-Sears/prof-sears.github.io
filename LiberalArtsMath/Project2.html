@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Project 2</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Project 2</h1>
+<p class="subtitle">Liberal Arts Mathematics</p>
+</header>
+<h1 id="introduction">Introduction</h1>
+<p>For this project, we are going to calculate how much paint to buy for
+a room. This project will summarize several topics from Chapter 9.
+Directions for submitting your project are at the end.</p>
+<h1 id="setup">Setup</h1>
+<p>For this project, you will need to start by collecting some
+information.</p>
+<ol>
+<li><p>Find a room in your home to measure. Sketch the floor plan of the
+room.</p></li>
+<li><p>Measure the height of the room from floor to ceiling. Round your
+answer to the nearest tenth of a foot. (If the height is 7 ft. 11 in.,
+divide <span class="math inline">\(11 \div 12 = 0.9166...\)</span>.
+Round the decimal part to <span class="math inline">\(0.9\)</span> and
+write the measurement as <span
+class="math inline">\(7.9\)</span>.)</p></li>
+<li><p>Measure the length of each wall. Round each measurement to the
+nearest tenth of a foot the same as part 2.</p></li>
+<li><p>Visit the website of a hardware or paint store. Find a gallon can
+of any type of interior wall paint. Record the following
+information:</p>
+<ol type="a">
+<li>The brand and description of the paint. (e.g. Valspar Reserve
+Flat)</li>
+<li>The price for the gallon can.</li>
+<li>The maximum coverage area in square feet.</li>
+</ol></li>
+<li><p>On the same website, find a gallon can of any type of interior
+ceiling paint. Record the following information:</p>
+<ol type="a">
+<li>The brand and description of the paint. (e.g. Valspar Reserve
+Flat)</li>
+<li>The price for the gallon can.</li>
+<li>The maximum coverage area in square feet.</li>
+</ol></li>
+</ol>
+<h1 id="making-sense-of-the-numbers">Making Sense of the Numbers</h1>
+<ol>
+<li><p>Calculate the area of the ceiling of the room. Use your sketch of
+the floorplan to help break a complex room into smaller shapes. Round
+your answer to the nearest square foot. (See Section 9.3 for
+help.)</p></li>
+<li><p>Calculate how many gallons of paint to use for the ceiling. Round
+your answer <strong>up</strong> to the nearest whole gallon. (Use the
+information from part 5 above to answer the question.)</p></li>
+<li><p>Calculate the cost to paint the ceiling.</p></li>
+<li><p>Calculate the area of each wall of the room. Add the area of each
+wall together. Round your answer to the nearest square foot. (See
+Section 9.3 for help.)</p></li>
+<li><p>Calculate how many gallons of paint to use for the walls. Round
+your answer <strong>up</strong> to the nearest whole gallon. (Use the
+information from part 4 above to answer the question.)</p></li>
+<li><p>Calculate the cost of paint the walls.</p></li>
+<li><p>Calculate the volume of the room. Round your answer to the
+neatest cubic foot. (See Section 9.4 for help.)</p></li>
+</ol>
+<h1 id="directions-for-submitting-your-project">Directions for
+Submitting Your Project</h1>
+<p>You may print this document and write your answers on it directly or
+work on your own notebook. Either way, scan your work as a single PDF
+document and e-mail the document to me. When deciding how much work to
+show, think of me as a person who does not believe you and you must
+convince me of the correct answer.</p>
+<h1 id="license-information">License Information</h1>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This
+work is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License</a>.</p>
+</body>
+</html>
