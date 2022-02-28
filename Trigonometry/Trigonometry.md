@@ -2,33 +2,33 @@
 
 ## Lessons
 
-#. Angles, Radians, Arc Length
-#. Area of a Sector, Linear and Angular Speed
-#. Trigonometric Functions: The Unit Circle
-#. Right Triangle Trigonometry
-#. Graphs of Sine and Cosine Functions
-#. Mathematical Modeling, Graphs of Other Trigonometric Functions
-#. Inverse Trigonometric Functions
-#. Applications and Models
-#. Using Fundamental Identities
-#. Verifying Trigonometric Identities
-#. Solving Trigonometric Equations
-   * Handouts --- [Web Version](MAT155-11-Solving_Trigonometric_Equations.html) --- [MS Word Version](MAT155-11-Solving_Trigonometric_Equations.docx)
-#. Solving Trigonometric Equations
-#. Sum and Difference Formulas
-#. Multiple-Angle and Product-to-Sum Formulas
-#. Law of Sines
-#. Law of Cosines
-#. Oblique Triangle Applications
-#. Vectors in the Plane
-#. Applications of Vectors
-#. Complex Numbers
-#. The Complex Plane
-#. Trigonometric Form of a Complex Number
-#. DeMoivre’s Theorem
-#. Polar Coordinates
-#. Graphs of Polar Equations
-#. Polar Equations of Conics
+1. Angles, Radians, Arc Length
+2. Area of a Sector, Linear and Angular Speed
+3. Trigonometric Functions: The Unit Circle
+4. Right Triangle Trigonometry
+5. Graphs of Sine and Cosine Functions
+6. Mathematical Modeling, Graphs of Other Trigonometric Functions
+7. Inverse Trigonometric Functions
+8. Applications and Models
+9. Using Fundamental Identities
+10. Verifying Trigonometric Identities
+11. Solving Trigonometric Equations
+    * Handouts --- [Web Version](MAT155-11-Solving_Trigonometric_Equations.html) --- [MS Word Version](MAT155-11-Solving_Trigonometric_Equations.docx)
+12. Solving Trigonometric Equations
+13. Sum and Difference Formulas
+14. Multiple-Angle and Product-to-Sum Formulas
+15. Law of Sines
+16. Law of Cosines
+17. Oblique Triangle Applications
+18. Vectors in the Plane
+19. Applications of Vectors
+20. Complex Numbers
+21. The Complex Plane
+22. Trigonometric Form of a Complex Number
+23. DeMoivre’s Theorem
+24. Polar Coordinates
+25. Graphs of Polar Equations
+26. Polar Equations of Conics
 
 ## Schedules
 [Tentative Schedule](Trig16Week.md)   
