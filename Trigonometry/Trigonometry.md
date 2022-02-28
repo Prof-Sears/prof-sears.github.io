@@ -1,6 +1,36 @@
 # Trigonometry
 
 ## Lessons
+
+#. Angles, Radians, Arc Length
+#. Area of a Sector, Linear and Angular Speed
+#. Trigonometric Functions: The Unit Circle
+#. Right Triangle Trigonometry
+#. Graphs of Sine and Cosine Functions
+#. Mathematical Modeling, Graphs of Other Trigonometric Functions
+#. Inverse Trigonometric Functions
+#. Applications and Models
+#. Using Fundamental Identities
+#. Verifying Trigonometric Identities
+#. Solving Trigonometric Equations
+   * Handouts --- [Web Version](MAT155-11-Solving_Trigonometric_Equations.html) --- [MS Word Version](MAT155-11-Solving_Trigonometric_Equations.docx)
+#. Solving Trigonometric Equations
+#. Sum and Difference Formulas
+#. Multiple-Angle and Product-to-Sum Formulas
+#. Law of Sines
+#. Law of Cosines
+#. Oblique Triangle Applications
+#. Vectors in the Plane
+#. Applications of Vectors
+#. Complex Numbers
+#. The Complex Plane
+#. Trigonometric Form of a Complex Number
+#. DeMoivre’s Theorem
+#. Polar Coordinates
+#. Graphs of Polar Equations
+#. Polar Equations of Conics
+
+## Schedules
 [Tentative Schedule](Trig16Week.md)   
 [Homework Problems](TrigHomework.md)
 
