@@ -1,6 +1,17 @@
 # Foundations of College Algebra
 
 ## Lessons
+
+### A Note about Formatting
+*  The MS Word version of each lesson handout is the best for people with visual impairments.
+   The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
+*  The PDF version is best for printing. It has the cleanest format.
+   It is not ADA compliant, so please be careful.
+*  The web version is HTML with Mathjax for rendering mathematics.
+   I am unsure how well screen readers will cope with the notation.
+*  The original markdown is the source of all versions.
+   It is not meant for use with students.
+
 1. Review of Arithmetic, Introduction to Fractions, Prime factorization
 2. Simplifying, Multiplying, and Dividing Fractions
 3. Adding and Subtracting Fractions
@@ -15,7 +26,7 @@
 12. Algebra Introduction    
 * Handouts --- [Web](MAT061-12-Lesson_12.html) --- [MS Word](MAT061-12-Lesson_12.docx) --- [Original Markdown](Lesson12.txt)
 13. Rules for Solving Equations
-* Handouts --- [Web](MAT061-13-Lesson_13.html) --- [MS Word](MAT061-13-Lesson_13.docx) --- [Original Markdown](Lesson13.txt)
+* Handouts --- [Web](MAT061-13-Lesson_13.html) --- [PDF](MAT061-13-Lesson_13.pdf) --- [MS Word](MAT061-13-Lesson_13.docx) --- [Original Markdown](Lesson13.txt)
 14. Exam 2
 15. Solving Linear Equations
 16. Problem Solving and Formulas

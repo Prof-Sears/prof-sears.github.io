@@ -13,7 +13,7 @@ A **linear equation in one variable** has one variable and:
 
 ## Subtraction Property of Equality
 
-For any numbers $a$, $b$, and $c$, if $a=b$, then $a−c=b−c$.
+For any numbers $a$, $b$, and $c$, if $a=b$, then $a - c = b - c$.
 
 **That is, when you subtract the same quantity from both sides of an equation, you still have equality.**
 
@@ -28,15 +28,21 @@ For any numbers $a$, $b$, and $c$, if $a=b$, then $a+c=b+c$.
 Solve each equation using the Subtraction and Addition Properties of Equality.
 
 #. $x + 24 = 35$
+\vspace{\fill}
 
 #. $y + 45 = - 66$
+\vspace{\fill}
 
 #. $a - 45 = 76$
+\vspace{\fill}
 
 #. $m - 18 = -200$
+\vspace{\fill}
 
 #. $a + \frac 14 = \frac 34$
+\vspace{\fill}
 
+\pagebreak
 # Multiplication and Division Properties of Equality
 
 ## Division Property of equality
@@ -56,37 +62,53 @@ For any numbers $a$, $b$, and $c$, and $c \neq 0$, if $a = b$, then $ac = bc$.
 Solve the following equation using the Division and Multiplication Properties of Equality.
 
 #. $8x = 56$
+\vspace{\fill}
 
 #. $-5c = 55$
+\vspace{\fill}
 
 #. $\frac z2 = 54$
+\vspace{\fill}
 
 #. $20 = \frac{q}{-5}$
+\vspace{\fill}
 
 #. $-807 = 15y$
+\vspace{\fill}
 
+\pagebreak
 # Simplify Equations and Then Solve
 
 Solve each equation.
 
 #. $c + 31 - 10 = 46$
+\vspace{\fill}
 
 #. $9x + 5 - 8x + 14 = 20$
+\vspace{\fill}
 
 #. $6x + 8 - 5x + 16 = 32$
+\vspace{\fill}
 
 #. $5 \left( y - 6 \right) - 4y = -6$
+\vspace{\fill}
 
 #. $6 \left( y - 2 \right) - 5 y = 4 \left( y + 3 \right) - 4 \left( y - 1 \right)$
+\vspace{\fill}
 
 #. $100 - 16 = 4p - 10p -p$
+\vspace{\fill}
 
 #. $0.25d + 0.10 d = 6 - 0.75$
+\vspace{\fill}
 
 #. $-10(q - 4) - 57 = 93$
+\vspace{\fill}
 
 #. $-10 (x + 4) - 19 = 85$
+\vspace{\fill}
 
+\pagebreak
 # Translate to and Equation and Solve
 
 ## How To - Translate an English Sentence to an Algebraic Equation
@@ -99,21 +121,22 @@ Solve each equation.
 
 Translate and solve.
 
-#. Three less than $y$ is $−19$.
+#. Three less than $y$ is $-19$.
+\vspace{\fill}
 
-#. The sum of $−4n$ and $5n$ is $−82$.
+#. The sum of $-4n$ and $5n$ is $-82$.
+\vspace{\fill}
 
 #. Avril rode her bike a total of 18 miles, from home to the library and then to the beach.
    The distance from Avril’s house to the library is 7 miles.
    What is the distance from the library to the beach?
+   \vspace{\fill}
 
 #. Mollie paid $36.25 for 5 movie tickets.
    What was the price of each ticket?
+   \vspace{\fill}
 
 #. Aiden is 27 inches tall.
-   He is 38 as tall as his father.
+   He is $\frac38$ as tall as his father.
    How tall is his father?
-
-**Reference**
-Remixed from OpenStax Elementary Algebra 2e.
-Access for free at [https://openstax.org/books/elementary-algebra-2e/pages/1-introduction](https://openstax.org/books/elementary-algebra-2e/pages/1-introduction)
+   \vspace{\fill}
