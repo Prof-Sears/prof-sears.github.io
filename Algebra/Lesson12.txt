@@ -18,16 +18,21 @@ footer: Access for free at https://openstax.org/books/elementary-algebra-2e/page
 Use a commutative property to finish each statement.
 
 1. $4+x = {}$
+\vspace{\fill}
 
 2. $-3\cdot d = {}$
+\vspace{\fill}
 
-Use the associative property to simplify.   
+Use the associative property to simplify.
 
 1. $\left( \frac56 + \frac8{15} \right) + \frac7{15}$
+\vspace{\fill}
 
 2. $3(4x)$
+\vspace{\fill}
 
 3. $(y+12)+28$
+\vspace{\fill}
 
 # Distributive Property
 
@@ -39,16 +44,23 @@ $a(b-c) - a \cdot b - a \cdot c$.
 Simplify using the distributive property.
 
 1. $6 \left( c - 13 \right)$
+\vspace{\fill}
 
 2. $\frac{1}{4} \left( 3q + 12 \right)$
+\vspace{\fill}
 
 3. $12 \left( \frac{1}{6} + \frac{3}{4}s \right)$
+\vspace{\fill}
 
 Use the distributive property to write each addition as a multiplication.
 
 1. $5\cdot x - 5 \cdot 12$
+\vspace{\fill}
 
 2. $15x + 15y$
+\vspace{\fill}
+
+\pagebreak
 
 # Identity and Inverse Properties
 
@@ -63,8 +75,10 @@ For any real number $a$, $a+0 = a$ and $a \cdot 1 = a$.
 Simplify.
 
 1. $\frac{1}{2} + \frac{7}{8} + \left( -\frac{1}{2} \right)$
+\vspace{\fill}
 
 2. $\frac{3}{20} \cdot \frac{49}{11} \cdot \frac{20}{3}$
+\vspace{\fill}
 
 # Terms
 
@@ -86,6 +100,9 @@ Terms that are either constants or have the same variables raised to the same po
 Identify the like terms in the following.
 
 1. $6z$, $3w^2$, $1$, $6z^2$, $4z$, $w^2$
+\vspace{\fill}
+
+\pagebreak
 
 # Combine Like Terms
 
@@ -101,14 +118,21 @@ Identify the like terms in the following.
 Simplify the expressions by combining like terms.
 
 1. $10x + 3x$
+\vspace{\fill}
 
 2. $4c + 2c + c$
+\vspace{\fill}
 
 3. $7u + 2 + 3u + 1$
+\vspace{\fill}
 
 4. $10a + 7 + 5a - 2 + 7a - 4$
+\vspace{\fill}
 
 5. $3x^2 + 12x + 11 + 14x^2 + 8x + 5$
+\vspace{\fill}
+
+\pagebreak
 
 # Simplify Expressions with Parentheses
 
@@ -116,16 +140,24 @@ Simplify the expressions by combining like terms.
 Simplify using the distributive property.
 
 1. $16 - 3(y+8)$
+\vspace{\fill}
 
 2. $18 - 4(x+2)$
+\vspace{\fill}
 
 3. $(5m-3) - (m+7)$
+\vspace{\fill}
 
 4. $(4y-1) - (y-2)$
+\vspace{\fill}
 
 5. $5(2n+9) + 12(n-3)$
+\vspace{\fill}
 
 6. $6(7y+8)-(30y-15)$
+\vspace{\fill}
+
+\pagebreak
 
 # Write Word Phrases and Algebraic Expressions
 
@@ -135,9 +167,7 @@ Write each phrase in algebra. Use $x$ for the unknown number.
 Simplify the expression if possible.
 
 1. The difference of a number and three, divided by two
+\vspace{\fill}
 
 2. Four times the sum of a number and twelve.
-
-**Reference**   
-Remixed from OpenStax Elementary Algebra 2e.
-Access for free at [https://openstax.org/books/elementary-algebra-2e/pages/1-introduction](https://openstax.org/books/elementary-algebra-2e/pages/1-introduction)
+\vspace{\fill}

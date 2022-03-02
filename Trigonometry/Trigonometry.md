@@ -2,6 +2,16 @@
 
 ## Lessons
 
+### A Note about Formatting
+*  The MS Word version of each lesson handout is the best for people with visual impairments.
+   The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
+*  The PDF version is best for printing. It has the cleanest format.
+   It is not ADA compliant, so please be careful.
+*  The web version is HTML with Mathjax for rendering mathematics.
+   I am unsure how well screen readers will cope with the notation.
+*  The original markdown is the source of all versions.
+   It is not meant for use with students.
+
 1. Angles, Radians, Arc Length
 2. Area of a Sector, Linear and Angular Speed
 3. Trigonometric Functions: The Unit Circle
@@ -13,8 +23,9 @@
 9. Using Fundamental Identities
 10. Verifying Trigonometric Identities
 11. Solving Trigonometric Equations
-    * Handouts --- [Web Version](MAT155-11-Solving_Trigonometric_Equations.html) --- [MS Word Version](MAT155-11-Solving_Trigonometric_Equations.docx)
+    * Handouts --- [Web](MAT155-11-Solving_Trigonometric_Equations.html) --- [PDF](MAT155-11-Solving_Trigonometric_Equations.pdf) --- [MS Word](MAT155-11-Solving_Trigonometric_Equations.docx) --- [Original Markdown](Lesson11.txt)
 12. Solving Trigonometric Equations
+    * Handouts --- [Web](MAT155-12-Solving_Trigonometric_Equations.html) --- [PDF](MAT155-12-Solving_Trigonometric_Equations.pdf) --- [MS Word](MAT155-12-Solving_Trigonometric_Equations.docx) --- [Original  Markdown](Lesson12.txt)
 13. Sum and Difference Formulas
 14. Multiple-Angle and Product-to-Sum Formulas
 15. Law of Sines

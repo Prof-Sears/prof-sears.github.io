@@ -24,7 +24,7 @@
 10. Pythagorean Theorem, Sets of Numbers, Variables
 11. Operations with Signed Numbers
 12. Algebra Introduction    
-* Handouts --- [Web](MAT061-12-Lesson_12.html) --- [MS Word](MAT061-12-Lesson_12.docx) --- [Original Markdown](Lesson12.txt)
+* Handouts --- [Web](MAT061-12-Lesson_12.html) --- [PDF](MAT061-12-Lesson_12.pdf) --- [MS Word](MAT061-12-Lesson_12.docx) --- [Original Markdown](Lesson12.txt)
 13. Rules for Solving Equations
 * Handouts --- [Web](MAT061-13-Lesson_13.html) --- [PDF](MAT061-13-Lesson_13.pdf) --- [MS Word](MAT061-13-Lesson_13.docx) --- [Original Markdown](Lesson13.txt)
 14. Exam 2

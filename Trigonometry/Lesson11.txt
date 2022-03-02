@@ -1,7 +1,6 @@
 ---
 title: "Solving Trigonometric Equations (Part 1)"
 subtitle: "Trigonometry"
-geometry: margin=1in
 ...
 
 # Introduction
@@ -30,10 +29,15 @@ To solve an equation of the form $\sin{x} = a$, $\cos{x} = a$, or $\tan{x} = a$ 
 Solve the following equations on the interval $0 \leq x < 2\pi$. Then find the general solutions.
 
 #. $\sin{\theta} = -\frac{\sqrt{2}}{2}$
+\vspace{\fill}
 
 #. $\cos{\theta} = -\frac{\sqrt{2}}{2}$
+\vspace{\fill}
 
 #. $\tan{\theta} = -\sqrt{3}$
+\vspace{\fill}
+
+\pagebreak
 
 ## General Hints
 
@@ -47,10 +51,13 @@ Solve the following equations on the interval $0 \leq x < 2\pi$. Then find the g
 Solve the following equations on the interval $0 \leq x < 2\pi$.
 
 #. $4 \sin^2{x} - 2 = 0$.
+\vspace{\fill}
 
 #. $\sec{x}\sin{x} - 2 \sin{x} = 0$.
+\vspace{\fill}
 
 #. $2 \sin{x} \cos{x} - \sin{x} + 2 \cos{x} - 1 = 0$
+\vspace{\fill}
 
 # Equations of Quadratic Type
 
@@ -58,12 +65,10 @@ Solve the following equations on the interval $0 \leq x < 2\pi$.
 Solve the following equations on the interval $0 \leq x < 2\pi$.
 
 #. $\tan^2{x} - \sqrt{3} \tan{x} = 0$
+\vspace{\fill}
 
 #. $\sin^2{x} + \sin{x} - 2 = 0$
+\vspace{\fill}
 
 #. $3 \cos^2{x} - 2 \cos{x} - 2 = 0$
-
-
-**Reference**
-Example equations from OpenStax *Algebra and Trigonometry 2e*.
-Access for free at [https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-introduction-to-prerequisites](https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-introduction-to-prerequisites)
+\vspace{\fill}

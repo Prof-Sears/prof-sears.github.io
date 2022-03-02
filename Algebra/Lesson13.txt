@@ -43,6 +43,7 @@ Solve each equation using the Subtraction and Addition Properties of Equality.
 \vspace{\fill}
 
 \pagebreak
+
 # Multiplication and Division Properties of Equality
 
 ## Division Property of equality
