@@ -15,6 +15,11 @@
 ### Courses
 [Courses List](Courses.md)
 
+### ACT Prep
+
+* Day 1 [Slides](https://docs.google.com/presentation/d/1p-d0-_A6jWGu6ZiYconBY0yUDKvqMqXQdWlmDrF_U4E/edit?usp=sharing)
+* Day 2 [Slides](https://docs.google.com/presentation/d/1AOHV-CBQwqpCj1BzDBiikVoEPhrljQOUrf84FhZ4pQ0/edit?usp=sharing)
+
 ## Mathematical Puzzle Solutions
 
 ### Riddler Solutions
