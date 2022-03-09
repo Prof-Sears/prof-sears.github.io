@@ -1,0 +1,9 @@
+---
+title: "Calculating Mortgage Payments"
+...
+
+# Example
+
+You have a mortgage for $130,000 with a term of 30 years.
+The interest rate is 3.75% and the payments are monthly.
+Calculate the monthly payment and the total of payments.

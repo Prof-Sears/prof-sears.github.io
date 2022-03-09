@@ -1,0 +1,15 @@
+---
+title: "Average Daily Balance Method"
+...
+
+# Example
+
+During the month of April, with 30 days, you start with a $430 balance.
+Your account has the following activity:
+
+* April 4 --- $58 charge
+* April 19 --- $350 payment
+* April 22 --- $177 charge
+* April 25 --- $49 charge
+
+Use the average daily balance method to calculate the finance charge.

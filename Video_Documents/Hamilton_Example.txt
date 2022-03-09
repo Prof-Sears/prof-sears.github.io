@@ -1,7 +1,5 @@
 ---
 title: "Hamilton's Method"
-classoption:
-- twocolumn
 ...
 
 # Example - Math in Society p. 91 no. 1

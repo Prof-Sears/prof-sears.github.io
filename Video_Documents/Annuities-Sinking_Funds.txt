@@ -1,0 +1,9 @@
+---
+title: "Payments into a Sinking Fund"
+...
+
+# Example
+
+You want to save $7,500 in an ordinary annuity with monthly payments.
+The annuity pays 8% annual interest.
+How much will you have to pay into the annuity to reach your goal in 3 years?

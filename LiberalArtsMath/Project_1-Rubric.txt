@@ -1,0 +1,12 @@
+---
+title: "Project 1 Rubric"
+subtitle: "Liberal Arts Mathematics"
+...
+
+| Item | Points | Score |
+| Student submits a project | 24 | |
+| Student records Aarons' information | | |
+| Brand and model number | 4 | |
+| 24-Month total cost of ownership | 4 | |
+| Cash price | 4 | |
+| Monthly payment | 4 | |

@@ -1,0 +1,9 @@
+---
+title: "How Much Can You Afford to Spend?"
+...
+
+# Example
+
+You can afford $400 for monthly car payments.
+The dealership is offering a 5.75% loan for five years.
+How much can you spend on a car? How much will you pay in interest?
