@@ -29,6 +29,9 @@
 25. Solving Exponential and Logarithmic Equations
 26. Review for Final Exam
 
+## Schedules
+* [8-Week Schedule](ColAlg08Week.md)
+
 ## KCTCS Competencies
 
 Upon completion of this course, the student can:
