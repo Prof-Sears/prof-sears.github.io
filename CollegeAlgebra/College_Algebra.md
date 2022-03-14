@@ -32,6 +32,9 @@
 ## Schedules
 * [8-Week Schedule](ColAlg08Week.md)
 
+## Miscelaneous References
+* [Welcome Announcement](Welcome-Announcement.md)
+
 ## KCTCS Competencies
 
 Upon completion of this course, the student can:
