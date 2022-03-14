@@ -27,6 +27,7 @@
 12. Solving Trigonometric Equations
     * Handouts --- [Web](MAT155-12-Solving_Trigonometric_Equations.html) --- [PDF](MAT155-12-Solving_Trigonometric_Equations.pdf) --- [MS Word](MAT155-12-Solving_Trigonometric_Equations.docx) --- [Original  Markdown](Lesson12.txt)
 13. Sum and Difference Formulas
+    * Handouts --- [Web](MAT155-13-Sum_and_Difference_Formulas.html) --- [PDF](MAT155-13-Sum_and_Difference_Formulas.pdf) --- [MS Word](MAT155-13-Sum_and_Difference_Formulas.docx) --- [Original  Markdown](Lesson13.txt)
 14. Multiple-Angle and Product-to-Sum Formulas
 15. Law of Sines
 16. Law of Cosines
