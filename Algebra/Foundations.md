@@ -24,11 +24,12 @@
 10. Pythagorean Theorem, Sets of Numbers, Variables
 11. Operations with Signed Numbers
 12. Algebra Introduction    
-* Handouts --- [Web](MAT061-12-Lesson_12.html) --- [PDF](MAT061-12-Lesson_12.pdf) --- [MS Word](MAT061-12-Lesson_12.docx) --- [Original Markdown](Lesson12.txt)
+    * Handouts --- [Web](MAT061-12-Lesson_12.html) --- [PDF](MAT061-12-Lesson_12.pdf) --- [MS Word](MAT061-12-Lesson_12.docx) --- [Original Markdown](Lesson12.txt)
 13. Rules for Solving Equations
-* Handouts --- [Web](MAT061-13-Lesson_13.html) --- [PDF](MAT061-13-Lesson_13.pdf) --- [MS Word](MAT061-13-Lesson_13.docx) --- [Original Markdown](Lesson13.txt)
+    * Handouts --- [Web](MAT061-13-Lesson_13.html) --- [PDF](MAT061-13-Lesson_13.pdf) --- [MS Word](MAT061-13-Lesson_13.docx) --- [Original Markdown](Lesson13.txt)
 14. Exam 2
 15. Solving Linear Equations
+    * Handouts --- [Web](MAT061-15-Lesson_15.html) --- [PDF](MAT061-15-Lesson_15.pdf) --- [MS Word](MAT061-15-Lesson_15.docx) --- [Original Markdown](Lesson15.txt)
 16. Problem Solving and Formulas
 17. Linear Inequalities, The Coordinate Plane
 18. Graphing Linear Equations, Intercepts

@@ -1,0 +1,121 @@
+---
+title: Solving Linear Equations
+subtitle: Foundations of College Algebra
+geometry:
+- margin=0.5in
+- nomarginpar
+...
+
+# General Strategy
+
+To solve linear equations in one variable:
+
+1.  Find the least common denominator of all the fractions in the equation.
+    Multiply both sides of the equation by that LCD. This clears the fractions.
+2.  Simplify each side of the equation as much as possible.
+    Use the Distributive Property to remove any parentheses.
+    Combine like terms.
+3.  Collect all the variable terms on one side of the equation.
+4.  Collect all the constant terms on the other side of the equation.
+5.  Make the coefficient of the variable term to equal to 1.
+    State the solution to the equation.
+6.  Check the solution.
+
+# Variables on One Side of the Equation
+
+## Examples
+
+Solve the equations.
+
+#. $-14q - 2 = 16$
+\vspace\fill
+
+#. $-10(x + 4) - 19 = 85$
+\vspace\fill
+
+Do Problem Set A
+
+# Variables on Both Sides of the Equation
+
+## Examples
+
+Solve the equations.
+
+#. $9p + 14 = 6 + 4p$
+\vspace\fill
+
+#. $-15 + 4(2 - 5y) = -7(y - 4) + 4$
+\vspace\fill
+
+Do Problem Set B
+
+# Equations with Fractions
+
+## Example
+
+Solve the equations.
+
+#. $\frac{a}6 + 2 = \frac{a}4 + 3$
+\vspace\fill
+
+#. $\frac{4q + 3}2 + 6 = \frac{3q + 5}4$
+\vspace\fill
+
+Do Problem Set C
+
+\pagebreak
+
+## Problem Set A.
+
+Solve and check the following equations:
+
+#.  $12x - 8 = 64$
+\vspace{\fill}
+
+#.  $35 = -13y + 9$
+\vspace{\fill}
+
+#.  $-(t - 19) = 28$
+\vspace{\fill}
+
+#.  $8(9b - 4) - 12 = 100$
+\vspace{\fill}
+
+#.  $-2(11 - 7x) + 54 = 4$
+\vspace{\fill}
+
+\pagebreak
+
+## Problem Set B.
+
+Solve and check the following equations:
+
+#.  $8x - 15 = 7x + 3$
+\vspace\fill
+
+#.  $8c + 7 = -3c - 37$
+\vspace\fill
+
+#.  $4(a - 12) = 3(a + 5)$
+\vspace\fill
+
+#.  $12 + 2(5 - 3y) = -9(y - 1) - 2$
+\vspace\fill
+
+\pagebreak
+
+## Problem Set C
+
+Solve the following equations:
+
+#.  $\frac14 x - \frac12 = - \frac34$
+\vspace\fill
+
+#.  $x + \frac12 = \frac23 x - \frac12$
+\vspace\fill
+
+#.  $\frac12 a - \frac14 = \frac16 a + \frac1{12}$
+\vspace\fill
+
+#.  $\frac{3x + 4}2 + 1 = \frac{5x + 10}8$
+\vspace\fill
