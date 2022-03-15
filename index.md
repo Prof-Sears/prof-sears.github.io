@@ -43,7 +43,7 @@
 
 ## Coding Projects
 
-* [Pi Day 2022](/PiDay2022/index.md)
+* [Pi Day 2022](/PiDay2022/index.html)
 
 ### Advent of Code 2021
 
