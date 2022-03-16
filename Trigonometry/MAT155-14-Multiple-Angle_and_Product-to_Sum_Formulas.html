@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Sum and Difference Formulas</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Sum and Difference Formulas</h1>
+<p class="subtitle">Trigonometry</p>
+</header>
+<h1 id="double-angle-formulas">Double-Angle Formulas</h1>
+<h2 id="the-formulas">The Formulas</h2>
+<p><span class="math display">\[\sin(2\theta) = 2 \sin\theta
+\cos\theta\]</span> <span class="math display">\[\cos(2\theta) =
+\cos^2\theta - \sin^2\theta\]</span> <span
+class="math display">\[\cos(2\theta) = 1 - 2 \sin^2\theta\]</span> <span
+class="math display">\[\cos(2\theta) = 2 \cos^2\theta - 1\]</span> <span
+class="math display">\[\tan(2\theta) = \frac{2 \tan\theta}{1 -
+\tan^2\theta}\]</span></p>
+<h2 id="examples">Examples</h2>
+<ol>
+<li><p>Simplify to one trigonometric expression. <span
+class="math inline">\(4 \sin\left(\frac\pi{8} \right)
+\cos\left(\frac\pi{8} \right)\)</span> </p></li>
+<li><p>Simplify the expression. Do not evaluate. <span
+class="math inline">\(\cos^2\left(28^\circ\right) -
+\sin^2\left(28^\circ\right)\)</span> </p></li>
+<li><p>Establish the identity. <span class="math display">\[\left(
+\sin^2{x} - 1 \right)^2 = \cos\left(2x\right) + \sin^4{x}\]</span>
+</p></li>
+<li><p>Establish the identity. <span class="math display">\[\frac{1 +
+\cos(2t)}{\sin(2t) - \cos{t}} = \frac{2 \cos{t}}{2 \sin{t} - 1}\]</span>
+</p></li>
+</ol>
+<h1 id="reduction-formulas">Reduction Formulas</h1>
+<h2 id="the-formulas-1">The Formulas</h2>
+<p><span class="math display">\[\sin^2\theta = \frac{1 -
+\cos\left(2\theta\right)}2\]</span> <span
+class="math display">\[\cos^2\theta = \frac{1 +
+\cos\left(2\theta\right)}2\]</span> <span
+class="math display">\[\tan^2\theta = \frac{1 -
+\cos\left(2\theta\right)}{1 + \cos\left(2\theta\right)}\]</span></p>
+<h2 id="example">Example</h2>
+<ol>
+<li>Rewrite the expression with an exponent no higher than 1. <span
+class="math inline">\(\cos^2{x} \sin^4{x}\)</span>. </li>
+</ol>
+<h1 id="half-angle-formulas">Half-Angle Formulas</h1>
+<h2 id="the-formulas-2">The Formulas</h2>
+<p><span class="math display">\[\sin\left(\frac\alpha{2}\right) = \pm
+\sqrt{\frac{1 - \cos\alpha}2}\]</span> <span
+class="math display">\[\cos\left(\frac\alpha{2}\right) = \pm
+\sqrt{\frac{1 + \cos\alpha}2}\]</span> <span
+class="math display">\[\tan\left(\frac\alpha{2}\right) = \pm
+\sqrt{\frac{1 - \cos\alpha}{1 + \cos\alpha}}\]</span></p>
+<h2 id="examples-1">Examples</h2>
+<ol>
+<li>Find the exact value using half-angle formuals. <span
+class="math inline">\(\tan\left(-\frac{3\pi}8 \right)\)</span> </li>
+</ol>
+<h1 id="product-to-sum-formulas">Product-to-Sum Formulas</h1>
+<h2 id="the-formulas-3">The Formulas</h2>
+<p><span class="math display">\[\cos\alpha \cos\beta = \frac12
+\left[\cos\left(\alpha - \beta \right) + \cos\left(\alpha + \beta
+\right) \right]\]</span> <span class="math display">\[\sin\alpha
+\cos\beta = \frac12 \left[\sin\left(\alpha + \beta \right) +
+\sin\left(\alpha - \beta \right) \right]\]</span> <span
+class="math display">\[\sin\alpha \sin\beta = \frac12
+\left[\cos\left(\alpha - \beta \right) - \cos\left(\alpha + \beta
+\right) \right]\]</span> <span class="math display">\[\cos\alpha
+\sin\beta = \frac12 \left[\sin\left(\alpha + \beta \right) -
+\sin\left(\alpha - \beta \right) \right]\]</span></p>
+<h2 id="examples-2">Examples</h2>
+<ol>
+<li><p>Rewrite the product as a sum or difference. <span
+class="math inline">\(10 \cos\left(5x\right)
+\sin\left(10x\right)\)</span> </p></li>
+<li><p>Evaluate using a sum or difference of two functions. <span
+class="math inline">\(\sin\left( 195^\circ \right) \cos\left( 15^\circ
+\right)\)</span> </p></li>
+</ol>
+<ol>
+<li>Prove the identity. <span class="math display">\[\frac{\cos(2y) -
+\cos(4y)}{\sin(2y)+\sin(4y)} = \tan{y}\]</span> </li>
+</ol>
+<h1 id="sum-to-product-formulas">Sum-to-Product Formulas</h1>
+<h2 id="the-formulas-4">The Formulas</h2>
+<p><span class="math display">\[\sin\alpha + \sin\beta =  2
+\sin\left(\frac{\alpha + \beta}2\right) \cos\left(\frac{\alpha - \beta}2
+\right)\]</span> <span class="math display">\[\sin\alpha - \sin\beta
+=  2 \sin\left(\frac{\alpha - \beta}2\right) \cos\left(\frac{\alpha +
+\beta}2 \right)\]</span> <span class="math display">\[\cos\alpha -
+\cos\beta = -2 \sin\left(\frac{\alpha + \beta}2\right)
+\sin\left(\frac{\alpha - \beta}2 \right)\]</span> <span
+class="math display">\[\cos\alpha + \cos\beta =  2
+\cos\left(\frac{\alpha + \beta}2\right) \cos\left(\frac{\alpha - \beta}2
+\right)\]</span></p>
+<h2 id="example-1">Example</h2>
+<ol>
+<li>Rewrite the sum or difference as a product. <span
+class="math inline">\(\sin(3x) + \sin(7x)\)</span> </li>
+</ol>
+<h2>Attribution</h2>
+Remixed from OpenStax <i>Algebra and Trigonometry 2e.</i> <br />
+Access for free at <a href="https://openstax.org/books/algebra-and-trigonometry/pages/1-introduction-to-prerequisites">https://openstax.org/books/algebra-and-trigonometry/pages/1-introduction-to-prerequisites</a>
+</body>
+</html>

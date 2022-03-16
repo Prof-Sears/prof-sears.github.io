@@ -1,6 +1,9 @@
 ---
 title: "Solving Trigonometric Equations (Part 1)"
 subtitle: "Trigonometry"
+geometry:
+- margin=0.5in
+- nomarginpar
 ...
 
 # Introduction

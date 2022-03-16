@@ -1,6 +1,9 @@
 ---
 title: "Solving Trigonometric Equations (Part 2)"
 subtitle: "Trigonometry"
+geometry:
+- margin=0.5in
+- nomarginpar
 ...
 
 # Solving Trigonometric Equations Using Fundamental Identities

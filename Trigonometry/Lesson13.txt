@@ -1,6 +1,9 @@
 ---
 title: "Sum and Difference Formulas"
 subtitle: "Trigonometry"
+geometry:
+- margin=0.5in
+- nomarginpar
 ...
 
 # The Formulas
