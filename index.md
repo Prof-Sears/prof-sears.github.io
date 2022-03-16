@@ -43,6 +43,10 @@
 
 ## Coding Projects
 
+### Programming Concepts with Scratch
+* [First Concepts](ScratchProjects\first.html)
+
+### Pi Day
 * [Pi Day 2022](/PiDay2022/index.html)
 
 ### Advent of Code 2021
