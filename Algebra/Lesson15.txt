@@ -1,5 +1,5 @@
 ---
-title: Solving Linear Equations
+title: Lesson 15
 subtitle: Foundations of College Algebra
 geometry:
 - margin=0.5in
