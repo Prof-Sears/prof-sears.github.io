@@ -45,6 +45,7 @@
 
 ### Programming Concepts with Scratch
 * [First Concepts](ScratchProjects\first.html)
+* [Math Concepts](ScratchProjects\math.html)
 
 ### Pi Day
 * [Pi Day 2022](/PiDay2022/index.html)

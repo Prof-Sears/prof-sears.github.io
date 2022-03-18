@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    border-style:none;
+}
