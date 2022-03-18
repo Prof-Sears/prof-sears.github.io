@@ -12,34 +12,10 @@
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
 
-### Courses
-[Courses List](Courses.md)
-
 ### ACT Prep
 
 * Day 1 [Slides](https://docs.google.com/presentation/d/1p-d0-_A6jWGu6ZiYconBY0yUDKvqMqXQdWlmDrF_U4E/edit?usp=sharing)
 * Day 2 [Slides](https://docs.google.com/presentation/d/1AOHV-CBQwqpCj1BzDBiikVoEPhrljQOUrf84FhZ4pQ0/edit?usp=sharing)
-
-## Mathematical Puzzle Solutions
-
-### Riddler Solutions
-* [Riddler Express - Oct. 15, 2021](/Riddler/Express-2021-10-15/Riddler_Express-2021-10-15.md)
-* [Riddler Express - Sep. 17, 2021](/Riddler/Express-2021-09-17/radish.html)
-* [Riddler Express - Aug. 20, 2021](/Riddler/Express-2021-08-20/Riddler_Express-2021-08-20.md)
-* [Riddler Express - Aug. 13, 2021](/Riddler/Express-2021-08-13/Riddler_Express-2021-08-13.md)
-* [Riddler Classic - Jan. 15, 2021](/Riddler/Classic-2021-01-15/index.html)
-* [Riddler Express - Jan. 15, 2021](/Riddler/Express-2021-01-15/index.html)
-* [Riddler Express - Dec. 4, 2020](/Riddler/Express-2020-12-04/bookswap.html)
-* [Riddler Classic - Nov. 20, 2020](/Riddler/Classic-2020-11-20/sauce.html)
-* [Riddler Express - Nov. 20, 2020](/Riddler/Express-2020-11-20/README.md)
-* [Riddler Express - Nov. 13, 2020](/Riddler/Express-2020-11-13/README.md)
-* [Riddler Classic - Jan. 10, 2020](/Riddler/Classic-2020-01-10/README.md)
-* [Riddler Classic - Sep. 6, 2019](/Riddler/Classic-2019-09-06/README.md)
-
-### Matt Parker Maths Puzzles Solutions
-
-* [MPMP - Oct. 14, 2020](/MPMP/MPMP-2020-10-14/README.md)
-* [MPMP - Nov. 25, 2020](/MPMP/MPMP-2020-11-25/sequence.html)
 
 ## Coding Projects
 
@@ -68,3 +44,24 @@
 ### Learning Projects
 * [KY COVID Dashboard](/Learning/CSVData/KYcovid.html)
 * [Python Optimization](Primordia.md)
+
+## Mathematical Puzzle Solutions
+
+### Riddler Solutions
+* [Riddler Express - Oct. 15, 2021](/Riddler/Express-2021-10-15/Riddler_Express-2021-10-15.md)
+* [Riddler Express - Sep. 17, 2021](/Riddler/Express-2021-09-17/radish.html)
+* [Riddler Express - Aug. 20, 2021](/Riddler/Express-2021-08-20/Riddler_Express-2021-08-20.md)
+* [Riddler Express - Aug. 13, 2021](/Riddler/Express-2021-08-13/Riddler_Express-2021-08-13.md)
+* [Riddler Classic - Jan. 15, 2021](/Riddler/Classic-2021-01-15/index.html)
+* [Riddler Express - Jan. 15, 2021](/Riddler/Express-2021-01-15/index.html)
+* [Riddler Express - Dec. 4, 2020](/Riddler/Express-2020-12-04/bookswap.html)
+* [Riddler Classic - Nov. 20, 2020](/Riddler/Classic-2020-11-20/sauce.html)
+* [Riddler Express - Nov. 20, 2020](/Riddler/Express-2020-11-20/README.md)
+* [Riddler Express - Nov. 13, 2020](/Riddler/Express-2020-11-13/README.md)
+* [Riddler Classic - Jan. 10, 2020](/Riddler/Classic-2020-01-10/README.md)
+* [Riddler Classic - Sep. 6, 2019](/Riddler/Classic-2019-09-06/README.md)
+
+### Matt Parker Maths Puzzles Solutions
+
+* [MPMP - Oct. 14, 2020](/MPMP/MPMP-2020-10-14/README.md)
+* [MPMP - Nov. 25, 2020](/MPMP/MPMP-2020-11-25/sequence.html)
