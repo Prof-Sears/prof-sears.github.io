@@ -31,6 +31,7 @@
 14. Multiple-Angle and Product-to-Sum Formulas
     * Handouts --- [Web](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.html) --- [PDF](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.pdf) --- [MS Word](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.docx) --- [Original  Markdown](Lesson14.txt)
 15. Law of Sines
+    * Handouts --- [Web](MAT155-15-Law_of_Sines.html) --- [PDF](MAT155-15-Law_of_Sines.pdf) --- [MS Word](MAT155--15-Law_of_Sines.docx) --- [Original  Markdown](Lesson15.txt)
 16. Law of Cosines
 17. Oblique Triangle Applications
 18. Vectors in the Plane

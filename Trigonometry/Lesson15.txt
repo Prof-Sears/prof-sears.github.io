@@ -1,0 +1,84 @@
+---
+title: "Law of Sines"
+subtitle: "Trigonometry"
+geometry:
+- margin=0.5in
+- nomarginpar
+...
+
+# Introduction
+
+## Definition - Oblique Triangles
+
+Any triangle that is not a right triangle is an **oblique triangle**.
+
+The three oblique triangles we will study in this section are.
+
+## Definition - Solving a Triangle
+
+**Solving** a triangle means finding the measures of all angles and sides given incomplete information.
+
+### ASA (angle-side-angle)
+
+![ASA Triangle](ASA_Triangle.jpg)
+
+### AAS (angle-angle-side)
+
+![AAS Triangle](AAS_Triangle.jpg)
+
+### SSA (side-side-angle)
+
+![SSA Triangle](SSA_Triangle.jpg)
+
+\pagebreak
+
+# Law of Sines
+
+## Fact - Law of Sines
+
+![Oblique Triangle](Oblique_Triangle.jpg)
+
+Given a triangle with angles and opposite sides labeled as the triangle above,
+the ratio of the measurement of an angle to the length of its opposite side will be equal to the other two ratios of angle measure to opposite side.
+All proportions will be equal.
+
+## Examples
+
+For the following exercises, assume the angles are sides are as in the triangle above.
+Solve each triangle, if possible.
+Round each answer to the nearest tenth.
+
+#. $\alpha = 43^\circ$, $\gamma = 69^\circ$, $a=20$
+\vspace\fill
+
+#. $a = 4$, $\alpha = 60^\circ$, $\beta = 100^\circ$
+\vspace\fill
+
+#. $\alpha = 37^\circ$, $\beta = 49^\circ$, $c = 5$
+\vspace\fill
+
+#. $\alpha = 132^\circ$, $\gamma = 23^\circ$, $b = 10$
+\vspace\fill
+
+\pagebreak
+
+# The Ambiguous Case
+
+## Possible Cases for SSA triangles
+
+![Comparison of SSA Triangles](SSA_Triangle_Comparison.png)
+
+## Examples
+
+Determine whether there is no triangle, one triangle, or two triangles.
+Then solve each triangle, if possible.
+Round each answer to the nearest tenth.
+
+#. $\gamma = 113^\circ$, $b=10$, $c = 32$
+\vspace\fill
+
+#. $a = 7$, $c = 9$, $\alpha = 43$.
+\vspace\fill
+
+#. $\beta = 119^\circ$, $b = 8.2$, $a = 11.3$.
+\vspace\fill
