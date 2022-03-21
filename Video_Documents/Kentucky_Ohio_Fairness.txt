@@ -1,0 +1,8 @@
+---
+title: "Kentucky/Ohio Apportionment Fairness"
+...
+In the 2020 Census, Kentucky had 4,509,342 people and 6 congressional representatives.
+Ohio had 11,808,848 people and 15 congressional representatives.
+Which state is more poorly represented?
+What is the absolute unfairness?
+What is the relative unfairness?
