@@ -41,7 +41,7 @@ The three oblique triangles we will study in this section are.
 Given a triangle with angles and opposite sides labeled as the triangle above,
 the ratio of the measurement of an angle to the length of its opposite side will be equal to the other two ratios of angle measure to opposite side.
 All proportions will be equal.
-$$\frac{\sin\alpha}a = \frac{\sin\beta}b = \frac{sin\gamma}c$$
+$$\frac{\sin\alpha}a = \frac{\sin\beta}b = \frac{\sin\gamma}c$$
 
 ## Examples
 
