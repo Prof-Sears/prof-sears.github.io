@@ -2,6 +2,8 @@
 title: Lesson 16
 subtitle: Foundations of College Algebra
 geometry:
+- width=8.5in
+- height=11in
 - margin=0.5in
 - nomarginpar
 ...
