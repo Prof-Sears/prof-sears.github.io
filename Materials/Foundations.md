@@ -3,12 +3,15 @@
 ## Lessons
 
 ### A Note about Formatting
+
 *  The MS Word version of each lesson handout is the best for people with visual impairments.
    The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
 *  The PDF version is best for printing. It has the cleanest format.
    It is not ADA compliant, so please be careful.
 *  The web version is HTML with Mathjax for rendering mathematics.
    I am unsure how well screen readers will cope with the notation.
+
+### Lesson List
 
 1. Review of Arithmetic, Introduction to Fractions, Prime factorization
 2. Simplifying, Multiplying, and Dividing Fractions
@@ -44,6 +47,10 @@
 28. Additional Topics in Algebra
 29. Exam 4
 30. Review
+
+### Lesson Resources
+
+* [MS Word Template](MAT061-Template.dotx)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
