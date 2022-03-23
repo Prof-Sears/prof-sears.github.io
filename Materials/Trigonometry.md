@@ -34,7 +34,7 @@
 20. Complex Numbers
 21. The Complex Plane
 22. Trigonometric Form of a Complex Number
-23. DeMoivre’s Theorem
+23. DeMoivre's Theorem
 24. Polar Coordinates
 25. Graphs of Polar Equations
 26. Polar Equations of Conics
