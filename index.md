@@ -7,7 +7,7 @@
 * [Foundations of College Algebra](/Materials/Foundations.md)
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
-* [Trigonometry](/Trigonometry/Trigonometry.md)
+* [Trigonometry](/Materials/Trigonometry.md)
 * [Calculus I/Brief Calculus](/Calculus/Calculus1.md)
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
