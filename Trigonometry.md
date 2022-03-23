@@ -26,6 +26,7 @@
 14. Multiple-Angle and Product-to-Sum Formulas
 15. Law of Sines
     * Handouts --- [Web](Materials\MAT155-15-Law_of_Sines.html) --- [PDF](Materials\MAT155-15-Law_of_Sines.pdf) --- [MS Word](Materials\MAT155-15-Law_of_Sines.docx)
+    * Videos --- [Video Page](VideoPages\Law_of_Sines.html)
 16. Law of Cosines
     * Handouts --- [Web](Materials\MAT155-16-Law_of_Cosines.html) --- [PDF](Materials\MAT155-16-Law_of_Cosines.pdf) --- [MS Word](Materials\MAT155-16-Law_of_Cosines.docx)
 17. Oblique Triangle Applications
