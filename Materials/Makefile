@@ -1,4 +1,5 @@
-FOUNDATIONS := MAT061-17-Lesson17.html
+FOUNDATIONS := MAT061-17-Lesson17.html \
+	MAT061-13-Lesson13.html
 
 all: $(FOUNDATIONS)
 
