@@ -4,10 +4,10 @@
 
 ### Mathematics Resources
 * [Calculator Videos](/Calculator_Topics.html)
-* [Foundations of College Algebra](/Materials/Foundations.md)
+* [Foundations of College Algebra](Foundations.md)
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
-* [Trigonometry](/Materials/Trigonometry.md)
+* [Trigonometry](Trigonometry.md)
 * [Calculus I/Brief Calculus](/Calculus/Calculus1.md)
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
