@@ -7,7 +7,7 @@
 *  The MS Word version of each lesson handout is the best for people with visual impairments.
    The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
 *  The PDF version is best for printing. It has the cleanest format.
-   It is not ADA compliant, so please be careful.
+   It is not fully ADA compliant, so please be careful.
 *  The web version is HTML with Mathjax for rendering mathematics.
    I am unsure how well screen readers will cope with the notation.
 

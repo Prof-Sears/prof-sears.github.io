@@ -6,11 +6,9 @@
 *  The MS Word version of each lesson handout is the best for people with visual impairments.
    The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
 *  The PDF version is best for printing. It has the cleanest format.
-   It is not ADA compliant, so please be careful.
+   It is not fully ADA compliant, so please be careful.
 *  The web version is HTML with Mathjax for rendering mathematics.
    I am unsure how well screen readers will cope with the notation.
-*  The original markdown is the source of all versions.
-   It is not meant for use with students.
 
 1. Angles, Radians, Arc Length
 2. Area of a Sector, Linear and Angular Speed
@@ -23,16 +21,12 @@
 9. Using Fundamental Identities
 10. Verifying Trigonometric Identities
 11. Solving Trigonometric Equations
-    * Handouts --- [Web](MAT155-11-Solving_Trigonometric_Equations.html) --- [PDF](MAT155-11-Solving_Trigonometric_Equations.pdf) --- [MS Word](MAT155-11-Solving_Trigonometric_Equations.docx) --- [Original Markdown](Lesson11.txt)
 12. Solving Trigonometric Equations
-    * Handouts --- [Web](MAT155-12-Solving_Trigonometric_Equations.html) --- [PDF](MAT155-12-Solving_Trigonometric_Equations.pdf) --- [MS Word](MAT155-12-Solving_Trigonometric_Equations.docx) --- [Original  Markdown](Lesson12.txt)
 13. Sum and Difference Formulas
-    * Handouts --- [Web](MAT155-13-Sum_and_Difference_Formulas.html) --- [PDF](MAT155-13-Sum_and_Difference_Formulas.pdf) --- [MS Word](MAT155-13-Sum_and_Difference_Formulas.docx) --- [Original  Markdown](Lesson13.txt)
 14. Multiple-Angle and Product-to-Sum Formulas
-    * Handouts --- [Web](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.html) --- [PDF](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.pdf) --- [MS Word](MAT155-14-Multiple-Angle_and_Product-to_Sum_Formulas.docx) --- [Original  Markdown](Lesson14.txt)
 15. Law of Sines
-    * Handouts --- [Web](MAT155-15-Law_of_Sines.html) --- [PDF](MAT155-15-Law_of_Sines.pdf) --- [MS Word](MAT155--15-Law_of_Sines.docx) --- [Original  Markdown](Lesson15.txt)
 16. Law of Cosines
+    * Handouts --- [Web](MAT155-16-Law_of_Cosines.html) --- [PDF](MAT155-16-Law_of_Cosines.pdf) --- [MS Word](MAT155-16-Law_of_Cosines.docx)
 17. Oblique Triangle Applications
 18. Vectors in the Plane
 19. Applications of Vectors
