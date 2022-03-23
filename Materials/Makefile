@@ -1,7 +1,8 @@
 FOUNDATIONS := MAT061-17-Lesson17.html \
 	MAT061-13-Lesson13.html
 
-TRIGONOMETRY := MAT155-16-Law_of_Cosines.html
+TRIGONOMETRY := MAT155-15-Law_of_Sines.html \
+	MAT155-16-Law_of_Cosines.html
 
 all: $(FOUNDATIONS) $(TRIGONOMETRY)
 

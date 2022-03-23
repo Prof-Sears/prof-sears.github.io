@@ -25,6 +25,7 @@
 13. Sum and Difference Formulas
 14. Multiple-Angle and Product-to-Sum Formulas
 15. Law of Sines
+    * Handouts --- [Web](MAT155-15-Law_of_Sines.html) --- [PDF](MAT155-15-Law_of_Sines.pdf) --- [MS Word](MAT155-15-Law_of_Sines.docx)
 16. Law of Cosines
     * Handouts --- [Web](MAT155-16-Law_of_Cosines.html) --- [PDF](MAT155-16-Law_of_Cosines.pdf) --- [MS Word](MAT155-16-Law_of_Cosines.docx)
 17. Oblique Triangle Applications
