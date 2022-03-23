@@ -25,9 +25,9 @@
 13. Sum and Difference Formulas
 14. Multiple-Angle and Product-to-Sum Formulas
 15. Law of Sines
-    * Handouts --- [Web](MAT155-15-Law_of_Sines.html) --- [PDF](MAT155-15-Law_of_Sines.pdf) --- [MS Word](MAT155-15-Law_of_Sines.docx)
+    * Handouts --- [Web](Materials\MAT155-15-Law_of_Sines.html) --- [PDF](Materials\MAT155-15-Law_of_Sines.pdf) --- [MS Word](Materials\MAT155-15-Law_of_Sines.docx)
 16. Law of Cosines
-    * Handouts --- [Web](MAT155-16-Law_of_Cosines.html) --- [PDF](MAT155-16-Law_of_Cosines.pdf) --- [MS Word](MAT155-16-Law_of_Cosines.docx)
+    * Handouts --- [Web](Materials\MAT155-16-Law_of_Cosines.html) --- [PDF](Materials\MAT155-16-Law_of_Cosines.pdf) --- [MS Word](Materials\MAT155-16-Law_of_Cosines.docx)
 17. Oblique Triangle Applications
 18. Vectors in the Plane
 19. Applications of Vectors
@@ -40,8 +40,8 @@
 26. Polar Equations of Conics
 
 ## Schedules
-[Tentative Schedule](Trig16Week.md)   
-[Homework Problems](TrigHomework.md)
+[Tentative Schedule](Schedules\Trig16Week.md)   
+[Homework Problems](Schedules\TrigHomework.md)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
