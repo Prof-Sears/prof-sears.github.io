@@ -29,6 +29,7 @@
     * Videos --- [Video Page](VideoPages\Law_of_Sines.html)
 16. Law of Cosines
     * Handouts --- [Web](Materials\MAT155-16-Law_of_Cosines.html) --- [PDF](Materials\MAT155-16-Law_of_Cosines.pdf) --- [MS Word](Materials\MAT155-16-Law_of_Cosines.docx)
+    * Videos --- [Video Page](VideoPages\Law_of_Cosines.html)
 17. Oblique Triangle Applications
 18. Vectors in the Plane
 19. Applications of Vectors
