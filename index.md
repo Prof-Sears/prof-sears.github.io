@@ -8,7 +8,7 @@
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
 * [Trigonometry](Trigonometry.md)
-* [Calculus I/Brief Calculus](/Calculus/Calculus1.md)
+* [Calculus I/Brief Calculus](Calculus1.md)
 * [Calculus II](/Calculus/Calculus2.md)
 * [Calculus III](/Calculus/Calculus3.md)
 
