@@ -1,4 +1,6 @@
-# Trigonometry - Homework Problems
+Trigonometry - Homework Problems
+============
+
 
 |Lesson| Assignment|
 |---:|:---|

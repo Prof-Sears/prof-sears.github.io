@@ -43,7 +43,7 @@
 26. Polar Equations of Conics
 
 ## Schedules
-[Tentative Schedule](Schedules\MAT155-16_Week.html)   
+[Tentative Schedule](Schedules\TrigSchedule.md)   
 [Homework Problems](Schedules\TrigHomework.md)
 
 ## KCTCS Competencies
