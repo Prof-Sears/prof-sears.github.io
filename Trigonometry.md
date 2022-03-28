@@ -31,6 +31,7 @@
     * Handouts --- [Web](Materials\MAT155-16-Law_of_Cosines.html) --- [PDF](Materials\MAT155-16-Law_of_Cosines.pdf) --- [MS Word](Materials\MAT155-16-Law_of_Cosines.docx)
     * Videos --- [Video Page](VideoPages\Law_of_Cosines.html)
 17. Oblique Triangle Applications
+    * Handouts --- [Web](Materials\MAT155-17-Oblique_Triangle_Applications.html) --- [PDF](Materials\MAT155-17-Oblique_Triangle_Applications.pdf) --- [MS Word](Materials\MAT155-17-Oblique_Triangle_Applications.docx)
 18. Vectors in the Plane
 19. Applications of Vectors
 20. Complex Numbers
@@ -42,7 +43,7 @@
 26. Polar Equations of Conics
 
 ## Schedules
-[Tentative Schedule](Schedules\Trig16Week.md)   
+[Tentative Schedule](Schedules\MAT155-16_Week.html)   
 [Homework Problems](Schedules\TrigHomework.md)
 
 ## KCTCS Competencies
