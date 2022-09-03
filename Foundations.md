@@ -26,12 +26,12 @@
 11. Operations with Signed Numbers
 12. Algebra Introduction    
 13. Rules for Solving Equations
-    * Handouts --- [Web](Materials/MAT061-13-Lesson13.html) --- [PDF](Materials/MAT061-13-Lesson13.pdf) --- [MS Word](Materials/MAT061-13-Lesson13.docx)
+    * Handouts --- [Web](Materials/MAT061-13-Lesson_13.html) --- [PDF](Materials/MAT061-13-Lesson_13.pdf) --- [MS Word](Materials/MAT061-13-Lesson_13.docx)
 14. Exam 2
 15. Solving Linear Equations
 16. Problem Solving and Formulas
 17. Linear Inequalities, The Coordinate Plane
-    * Handouts --- [Web](Materials/MAT061-17-Lesson17.html) --- [PDF](Materials/MAT061-17-Lesson17.pdf) --- [MS Word](Materials/MAT061-17-Lesson17.docx)
+    * Handouts --- [Web](Materials/MAT061-17-Lesson_17.html) --- [PDF](Materials/MAT061-17-Lesson_17.pdf) --- [MS Word](Materials/MAT061-17-Lesson_17.docx)
 18. Graphing Linear Equations, Intercepts
 19. Slope, Rates of Change, Equations of Lines
 20. Functions and Exponents
