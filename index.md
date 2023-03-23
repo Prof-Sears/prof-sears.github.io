@@ -1,6 +1,4 @@
----
-title: "The Various Projects of Chris Sears"
-...
+# The Various Projects of Chris Sears
 
 ## Teaching
 
