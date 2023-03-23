@@ -3,19 +3,9 @@
 ## Teaching
 
 ### Mathematics Resources
-* [Calculator Videos](/Calculator_Topics.html)
 * [Foundations of College Algebra](Foundations.md)
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
-* [Trigonometry](Trigonometry.md)
-* [Calculus I/Brief Calculus](Calculus1.md)
-* [Calculus II](/Calculus/Calculus2.md)
-* [Calculus III](/Calculus/Calculus3.md)
-
-### ACT Prep
-
-* Day 1 [Slides](https://docs.google.com/presentation/d/1p-d0-_A6jWGu6ZiYconBY0yUDKvqMqXQdWlmDrF_U4E/edit?usp=sharing)
-* Day 2 [Slides](https://docs.google.com/presentation/d/1AOHV-CBQwqpCj1BzDBiikVoEPhrljQOUrf84FhZ4pQ0/edit?usp=sharing)
 
 ## Coding Projects
 
@@ -40,10 +30,6 @@
 * [Dec. 3, 2020](/AdventOC/2020-12-03/toboggan.html)
 * [Dec. 2, 2020](/AdventOC/2020-12-02/password.html)
 * [Dec. 1, 2020](/AdventOC/2020-12-01/expense.html)
-
-### Learning Projects
-* [KY COVID Dashboard](/Learning/CSVData/KYcovid.html)
-* [Python Optimization](Primordia.md)
 
 ## Mathematical Puzzle Solutions
 

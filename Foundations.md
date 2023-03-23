@@ -8,8 +8,6 @@
    The Microsoft Word "Read Out Loud" feature provides the most correct reading of mathematics.
 *  The PDF version is best for printing. It has the cleanest format.
    It is not fully ADA compliant, so please be careful.
-*  The web version is HTML with Mathjax for rendering mathematics.
-   I am unsure how well screen readers will cope with the notation.
 
 ### Lesson List
 
@@ -32,7 +30,7 @@
 17. Linear Inequalities, The Coordinate Plane
 18. Graphing Linear Equations, Intercepts
 19. Slope, Rates of Change, Equations of Lines
-	* Worksheets - [PDF](Materials/MAT061-19-Lesson19.pdf) [Word](Materials/MAT061-19-Lesson19.docx)
+	* Worksheets - [PDF](Materials/MAT061-19-Lesson19.pdf) - [Word](Materials/MAT061-19-Lesson19.docx)
 20. Functions and Exponents
 21. Exam 3
 22. Introduction to Polynomials, Adding and Subtracting Polynomials
@@ -44,10 +42,6 @@
 28. Additional Topics in Algebra
 29. Exam 4
 30. Review
-
-### Lesson Resources
-
-* [MS Word Template](MAT061-Template.dotx)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:
