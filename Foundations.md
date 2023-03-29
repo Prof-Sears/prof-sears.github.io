@@ -32,6 +32,7 @@
 19. Slope, Rates of Change, Equations of Lines
 	* Worksheets - [PDF](Materials/MAT061-19-Lesson19.pdf) - [Word](Materials/MAT061-19-Lesson19.docx)
 20. Functions and Exponents
+	* Worksheets - [PDF](Materials/MAT061-20-Lesson20.pdf) - [Word](Materials/MAT061-20-Lesson20.docx)
 21. Exam 3
 22. Introduction to Polynomials, Adding and Subtracting Polynomials
 23. Multiplying Polynomials
