@@ -2,10 +2,20 @@
 
 ## Teaching
 
+These are some of the teaching materials I use.
+All materials are remixed from open educational resources or are licensed under a Creative Commons license.
+This section is under constant development.
+
 ### Mathematics Resources
 * [Foundations of College Algebra](Foundations.md)
 * [Liberal Arts Mathematics](/LiberalArtsMath/Liberal_Arts_Mathematics.md)
 * [College Algebra](/CollegeAlgebra/College_Algebra.md)
+
+## Spreadsheet Projects
+
+After some thought, I decided to move away from coding as a hobby and instead work on quantitative reasoning projects in Excel. These spreadsheets are here. While they are in Excel format, they should be compatible with Google Sheets and OpenDocument Spreadsheet format.
+
+* Spreadsheet to predict the dates that *Top Gun: Maverick* and *Avatar* overtake *Avatar 2: The Way of Water* in cumulative domestic box office. [Excel Sheet]().
 
 ## Coding Projects
 
