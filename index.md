@@ -43,6 +43,9 @@ After some thought, I decided to move away from coding as a hobby and instead wo
 
 ## Mathematical Puzzle Solutions
 
+### Fiddler on the Proof
+* [Fiddler - Jul. 07, 2023 - R Code](/Fiddler/Extra-2023-07-07.R)
+
 ### Riddler Solutions
 * [Riddler Express - Oct. 15, 2021](/Riddler/Express-2021-10-15/Riddler_Express-2021-10-15.md)
 * [Riddler Express - Sep. 17, 2021](/Riddler/Express-2021-09-17/radish.html)
