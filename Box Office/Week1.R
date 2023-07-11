@@ -7,10 +7,12 @@ w1.model <- lm (Legs.Coefficient ~ WE1.to.WE2.Drop, data=bo.df)
 
 print(summary(w1.model))
 
-# ggplot(data = bo.df, mapping=aes(x=WE1.to.WE2.Drop, y=Legs.Coefficient)) +
-#   labs(x="Weekend 1 to Weekend 2 Drop", y="Legs Coeffient", title = "Predicting Legs of a Movie After One Week") +
-#   geom_point(color = "blue") +
-#   geom_smooth(method=lm, color="red", level=0.95)
+ggplot(data = bo.df, mapping=aes(x=WE1.to.WE2.Drop, y=Legs.Coefficient)) +
+  theme(panel.background = element_rect(fill="lightgray", color="black")) +
+  labs(x="Weekend 1 to Weekend 2 Drop", y="Legs Coefficent", title = "Predicting Legs of a Movie After One Week") +
+  geom_point(color = "blue") +
+  geom_smooth(method=lm, color="red", level=0.95)
+ggsave("./Box Office/Legs_v1.png", plot=last_plot(), device="png", width=1920, height=1080, units="px")
 
 legs.df <- predict(w1.model, newdata=cy.df, level=0.95, interval="confidence")
 
@@ -21,7 +23,7 @@ cy.df$Predicted.Final <- legs.df[,1] * cy.df$Opening.Weekend / 1000000
 cy.df$Lower.Final <- legs.df[,2] * cy.df$Opening.Weekend / 1000000
 cy.df$Upper.Final <- legs.df[,3] * cy.df$Opening.Weekend / 1000000
 
-ggplot(data = cy.df, mapping=aes(y=Title, x=Predicted.Final)) +
-  geom_col(color="black", fill="blue")
+# ggplot(data = cy.df, mapping=aes(y=Title, x=Predicted.Final)) +
+#   geom_col(color="black", fill="blue")
 
-print(cy.df)
+write.csv(cy.df, "~/Box Office/2023_output.csv")
