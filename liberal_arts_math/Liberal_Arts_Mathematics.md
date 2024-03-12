@@ -34,6 +34,9 @@
 ## Official Textbook for My Classes
 [Mathematics All Around 6e](https://www.pearson.com/us/higher-education/product/Pirnot-Mathematics-All-Around-6th-Edition/9780134434681.html) - Tomas Pirnot (ISBN: 9780134434681)
 
+## In-the-Works Textbook
+[OpenStax Contemporary Mathematics](https://openstax.org/books/contemporary-mathematics/pages/1-introduction) - Donna Kirk (ISBN: 9781951693688)
+
 ## Open Educational Resources for Liberal Arts Mathematics
 The following links are to [OER Commons](https://www.oercommons.org).
 *	[Math for Our World](https://www.oercommons.org/courses/math-for-our-world) - Gail Poitrast
