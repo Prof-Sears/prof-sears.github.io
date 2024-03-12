@@ -6,7 +6,7 @@
 * [Foundations of College Mathematics](/foundations/index.html)
 * [Liberal Arts Mathematics](./liberal_arts_math/Liberal_Arts_Mathematics.md)
 * College Algebra
-* Statistics    
+* [Statistics](./statistics/statistics.md)
     
 ## Math Visualizations and Simulations
 * [Math Visualizations Page](./visualization/index.html)
