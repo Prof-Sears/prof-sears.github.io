@@ -17,11 +17,11 @@
 	
 
 ## ACT Preparation Materials
-<li><a href="./act-prep/index.html">Slide Decks</a></li>
+* [Slide Decks](./act-prep/index.html)
 	
 
 ## Programming Projects
-<a href="./advent-of-code/index.html">Advent of Code</a></li>
+* [Advent of Code](./advent-of-code/index.html)
     
     
 ## Where to Find Me
