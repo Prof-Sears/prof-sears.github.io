@@ -4,7 +4,7 @@
 
 ### Course Materials
 * [Foundations of College Mathematics](/foundations/index.html)
-* [Liberal Arts Mathematics](./liberal_arts_mathematics/Liberal_Arts_Mathematics.md)
+* [Liberal Arts Mathematics](./liberal_arts_math/Liberal_Arts_Mathematics.md)
 * College Algebra
 * Statistics    
     
