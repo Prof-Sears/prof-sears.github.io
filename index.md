@@ -25,7 +25,7 @@
     
     
 ## Where to Find Me
-*    Mastadon: [Qoto](https://qoto.org/@OmegaLimit)
-*    PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)  
+* Mastadon: [Qoto](https://qoto.org/@OmegaLimit)
+* PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)  
 [Vintage Vectors - Fun Videos](https://spectra.video/c/vintage_vectors/videos)
     
