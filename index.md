@@ -3,7 +3,7 @@
 ## Teaching
 
 ### Course Materials
-* [Foundations of College Mathematics](/foundations/index.html)
+* [Foundations of College Mathematics](/foundations/Foundations.md)
 * [Liberal Arts Mathematics](./liberal_arts_math/Liberal_Arts_Mathematics.md)
 * College Algebra
 * [Statistics](./statistics/statistics.md)
