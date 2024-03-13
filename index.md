@@ -13,7 +13,7 @@
     
     
 ## Video Materials
-* [PeerTube Video Materials](./peertube_materials/index.html)
+* [PeerTube Video Materials](./peertube_materials/PeerTube.md)
 	
 
 ## ACT Preparation Materials
