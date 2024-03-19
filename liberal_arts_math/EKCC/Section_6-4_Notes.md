@@ -1,5 +1,5 @@
-Section 6.4 Information
-========================
+# Section 6.4 Information
+
 ## Page Text
 
 ## Assignment Objectives
