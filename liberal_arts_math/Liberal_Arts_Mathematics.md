@@ -27,6 +27,12 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
+## EKCC Notes
+
+[Textbook Sections](./EKCC/TextbookSections.md)
+
+* [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md)
+
 ## Schedules
 * [16-Week Schedule](LibArts16Week.md)
 * [12-Week Schedule](LibArts12Week.md)
