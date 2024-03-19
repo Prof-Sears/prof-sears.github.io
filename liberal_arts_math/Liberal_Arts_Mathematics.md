@@ -32,6 +32,7 @@
 [Textbook Sections](./EKCC/TextbookSections.md)
 
 * [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md)
+* [Section 10.1 Notes](./EKCC/Section_10-1_Notes.md)
 
 ## Schedules
 * [16-Week Schedule](LibArts16Week.md)
