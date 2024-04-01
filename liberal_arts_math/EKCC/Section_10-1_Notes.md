@@ -35,6 +35,6 @@ The problems are not repeated here because of all the pictures.
 1 . A ray  
 2 . A line  
 3 . No parallel lines  
-4 . Lines EF and CD
-19 . Plane RTCF
-20 . Plane PBQ
+4 . Lines EF and CD  
+19 . Plane RTCF  
+20 . Plane PBQ  
