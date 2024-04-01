@@ -13,44 +13,28 @@
   - Points and Lines
   - Parallel Lines
   - Perpendicular Lines
-  - Planes
-2. Read through or watch the videos for examples 6.41, 6.42, 6.44, 6.45.
-3. Work through Your Turn 6.41, 6.42, 6.44, 6.45. Compare your answers to the answer key on page 1509.
-4. Do "Check Your Understanding" problems 21 - 23 on Page 587. Compare your answer to the answer key on page 1516.
-5. Do the Compound Interest Assignment.
-6. Do the Compound Interest Practice Quiz. (Optional but encouraged)
-7. Do the Compound Interest Quiz
+  - Planes  
+  (Skip "Defining Union and Intersection of Sets")
+2. Read through examples 10.1, 10.2, 10.3, 10.5.
+3. Work through Your Turn 10.1, 10.2, 10.3, 10.5. Compare your answers to the answer key on page 1540.
+4. Do "Check Your Understanding" problems 1-3, 7-9 on Page 1004. Compare your answer to the answer key on page 1545.
+5. Do the Points, Lines, and Planes Assignment.
+6. Do the Points, Lines, and Planes Practice Quiz. (Optional but encouraged)
+7. Do the Points, Lines, and Planes Quiz
 
 ## Assignment Text
 This assignment starts on page 1005 of *Contemporary Mathematics*.
 
 Answer the following problems with the following numbers:
-11 - 14, 19 - 22, 35 - 38.
+1-4, 19, 20.
 
 The problems are not repeated here because of all the pictures.
 
 ## Assignment Answers
 
-11 .  $21,806.58 
-
-12 .  $362,269.28 
-
-13 .  $4,286.70 
-
-14 .  $3,947.82 
-
-19 .  $281,395.75 
-
-20 .  $506,239.96 
-
-21 .  $315,337.97 
-
-22 .  $182,493.58 
-
-35 .  $2,975.85 
-
-36 .  $4,697.22 
-
-37 .  $96,474.38 
-
-38 .  $219,098.44 
+1 . A ray  
+2 . A line  
+3 . No parallel lines  
+4 . Lines EF and CD
+19 . Plane RTCF
+20 . Plane PBQ
