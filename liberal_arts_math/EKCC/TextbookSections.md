@@ -3,6 +3,14 @@
 **Note:** Based on *Contemporary Mathematics* by Donna Kirk.  
 [link to book](https://openstax.org/books/contemporary-mathematics/pages/1-introduction)
 
+## Textbook Sections
+
+* [Section 10.1](./Section_10-1.pdf)
+* [Section 10.2](./Section_10-2.pdf)
+* [Section 10.4](./Section_10-4.pdf)
+* [Section 10.6](./Section_10-6.pdf)
+* [Section 10.7](./Section_10-7.pdf)
+
 ## Sections by Competency
 1. 11.1, 11.2
 2. 11.2
