@@ -33,6 +33,10 @@
 
 * [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md)
 * [Section 10.1 Notes](./EKCC/Section_10-1_Notes.md)
+* [Section 10.2 Notes](./EKCC/Section_10-2_Notes.md)
+<!-- * [Section 10.4 Notes](./EKCC/Section_10-4_Notes.md) -->
+<!-- * [Section 10.6 Notes](./EKCC/Section_10-6_Notes.md) -->
+<!-- * [Section 10.7 Notes](./EKCC/Section_10-7_Notes.md) -->
 
 ## Schedules
 * [16-Week Schedule](LibArts16Week.md)
