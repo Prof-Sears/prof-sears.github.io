@@ -23,7 +23,9 @@
 ## Programming Projects
 * [Advent of Code](./advent-of-code/index.html)
     
-    
+## Science Adventures
+* [Science Adventures](./science_adventures/ScienceAdventures.md)
+
 ## Where to Find Me
 * Mastadon: [Qoto](https://qoto.org/@OmegaLimit)
 * PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)  
