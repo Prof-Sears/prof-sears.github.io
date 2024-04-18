@@ -4,7 +4,16 @@
 * [16-Week Schedule](./Stats16Week.md)
 
 ## Textbook Sections
-* [Chapter 9](./Introductory_Statistics_2e-Chapter_9.pdf) | [Homework](./Introductory_Statistics_2e-Chapter_9_HW.pdf)
+
+* [Chapter 9](./Introductory_Statistics_2e-Chapter_9.pdf)
+* [Chapter 9 Homework](./Introductory_Statistics_2e-Chapter_9_HW.pdf)
+* [Section 12.1](./Introductory_Statistics_2e-Section_12-1.pdf)
+* [Section 12.2](./Introductory_Statistics_2e-Section_12-2.pdf)
+* [Section 12.3](./Introductory_Statistics_2e-Section_12-3.1pdf)
+* [Section 12.4](./Introductory_Statistics_2e-Section_12-4.pdf)
+* [Section 12.5](./Introductory_Statistics_2e-Section_12-5.pdf)
+* [Section 12.6](./Introductory_Statistics_2e-Section_12-6.pdf)
+* [Chapter 12 Homework](./Introductory_Statistics_2e-Section_12_HW.pdf)
 
 ## KCTCS Competencies
 
