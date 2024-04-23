@@ -28,6 +28,7 @@
 
 ## Where to Find Me
 * Mastadon: [Qoto](https://qoto.org/@OmegaLimit)
-* PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)  
-[Vintage Vectors - Fun Videos](https://spectra.video/c/vintage_vectors/videos)
-    
+* PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
+
+## Archived Projects
+* Vintage Vectors - My original idea for a PeerTube channel. I planned to teach STEM topics using old books as a reference. Unfortunately, I probably will not have time to make this a reality.
