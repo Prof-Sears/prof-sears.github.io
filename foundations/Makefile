@@ -23,7 +23,7 @@ LATEX=pdflatex
 %.docx: %.tex ../sears.tex
 	pandoc -t docx -o $@ --reference-doc=reference.docx -f latex $<
 
-all: $(PDF) $(HTML) $(DOCX)
+all: $(PDF)
 
 clean:
 	rm *.out *.bak *.log *.aux *.synctex.gz *.tex~
