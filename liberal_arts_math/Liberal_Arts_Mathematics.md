@@ -27,9 +27,9 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
-## Textbook Sections
+## Textbook Sections and Homework Problems
 
-* [Mathematics All Around](./textbook_sections_pirnot.md)
+* [Mathematics All Around (6e)](./textbook_sections_pirnot-6e.md)
 
 ## EKCC Notes
 

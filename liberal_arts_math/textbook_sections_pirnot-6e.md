@@ -44,3 +44,8 @@
 * 14.2 - Measures of Central Tendency
 * 14.3 - Measures of Dispersion
 * 14.4 - The Normal Distribution
+
+## Homework Questions
+| Section | Problems |
+|_________|__________|
+| 8.1     | 3, 5, 9, 11, 13, 25, 27, 39, 41, 43, 49, 51, 69 |
