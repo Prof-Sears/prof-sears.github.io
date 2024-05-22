@@ -29,11 +29,13 @@
 
 ## EKCC Notes
 
-[Textbook Sections](./EKCC/TextbookSections.md)
+This section is currently under revision
 
-* [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md)
-* [Section 10.1 Notes](./EKCC/Section_10-1_Notes.md)
-* [Section 10.2 Notes](./EKCC/Section_10-2_Notes.md)
+<!-- [Textbook Sections](./EKCC/TextbookSections.md) -->
+
+<!-- * [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md) -->
+<!-- * [Section 10.1 Notes](./EKCC/Section_10-1_Notes.md) -->
+<!-- * [Section 10.2 Notes](./EKCC/Section_10-2_Notes.md) -->
 <!-- * [Section 10.4 Notes](./EKCC/Section_10-4_Notes.md) -->
 <!-- * [Section 10.6 Notes](./EKCC/Section_10-6_Notes.md) -->
 <!-- * [Section 10.7 Notes](./EKCC/Section_10-7_Notes.md) -->
@@ -41,9 +43,10 @@
 ## Schedules
 * [16-Week Schedule](LibArts16Week.md)
 * [12-Week Schedule](LibArts12Week.md)
-
+<!--
 ## Projects
 * [Project 3 Rubric](./project-3-rubric.pdf) - [Original Document](./project-3-rubric.odt)
+-->
 
 ## Official Textbook for My Classes
 [Mathematics All Around 6e](https://www.pearson.com/us/higher-education/product/Pirnot-Mathematics-All-Around-6th-Edition/9780134434681.html) - Tomas Pirnot (ISBN: 9780134434681)
