@@ -27,6 +27,10 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
+## Textbook Sections
+
+* [Mathematics All Around](./textbook_sections_pirnot.md)
+
 ## EKCC Notes
 
 This section is currently under revision.
