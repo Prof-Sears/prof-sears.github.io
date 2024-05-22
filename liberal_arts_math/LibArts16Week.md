@@ -1,5 +1,5 @@
 
-# 16-Week Schedule - Liberal Arts Mathematics
+# 16-Week Schedule - Online Sections - Liberal Arts Mathematics
 
 **Note:** Based on *Mathematics All Around* by Thomas Pirnot.
 
@@ -17,7 +17,7 @@
 
 ## Week 3
 * Video Assignment – Mortgages
-* Homework – Mortagages
+* Homework – Mortgages
 * Chapter 8 Quiz
 * Video Assignment – Lines, Angles, and Circles
 * Homework – Lines, Angles, and Circles
