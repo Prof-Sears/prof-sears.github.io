@@ -45,8 +45,8 @@ This section is currently under revision.
 <!-- * [Section 10.7 Notes](./EKCC/Section_10-7_Notes.md) -->
 
 ## Schedules
-* [16-Week Schedule](LibArts16Week.md)
-* [12-Week Schedule](LibArts12Week.md)
+* [16-Week Online Schedule](LibArts16Week.md)
+* [12-Week Online Schedule](LibArts12Week.md)
 
 ## Projects
 
