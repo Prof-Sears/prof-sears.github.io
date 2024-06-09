@@ -18,7 +18,9 @@
 
 ## ACT Preparation Materials
 * [Slide Decks](./act-prep/index.html)
-	
+
+## Reading List
+* [Reading List](./reading/reading.md)	
 
 ## Programming Projects
 * [Advent of Code](./advent-of-code/index.html)
