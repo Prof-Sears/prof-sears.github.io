@@ -24,7 +24,8 @@
 
 ## Programming Projects
 * [Advent of Code](./advent-of-code/index.html)
-    
+* [LEGO Robots](./robotics/robotics_projects.md)
+   
 ## Science Adventures
 * [Science Adventures](./science_adventures/ScienceAdventures.md)
 
