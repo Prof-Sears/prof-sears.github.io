@@ -8,6 +8,9 @@
 * College Algebra
 * [Statistics](./statistics/statistics.md)
     
+### ACT Preparation Materials
+* [Slide Decks](./act_prep/act_prep.md)
+
 ## Math Visualizations and Simulations
 * [Math Visualizations Page](./visualization/index.html)
     
@@ -15,9 +18,6 @@
 ## Video Materials
 * [PeerTube Video Materials](./peertube_materials/PeerTube.md)
 	
-
-## ACT Preparation Materials
-* [Slide Decks](./act-prep/index.html)
 
 ## Reading List
 * [Reading List](./reading/reading.md)	
