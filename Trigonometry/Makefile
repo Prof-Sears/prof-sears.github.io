@@ -1,3 +1,0 @@
-openstax:
-
-lippman: 
