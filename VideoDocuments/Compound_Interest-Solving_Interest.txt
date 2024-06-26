@@ -1,9 +1,0 @@
----
-title: "Solving for Interest Rate with Compound Interest"
-...
-
-# Example
-
-You deposit $500 in a savings account with monthly compounding.
-After 24 months, the balance is $525.60.
-What is the annual interest rate?

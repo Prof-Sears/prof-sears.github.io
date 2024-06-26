@@ -1,8 +1,0 @@
----
-title: "Future Value of an Ordinary Annuity"
-...
-
-# Example
-
-You deposit $200 dollars monthly in an ordinary annuity that pays 2.5% annual interest.
-Find the future value after 10 years.

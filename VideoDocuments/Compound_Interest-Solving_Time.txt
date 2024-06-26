@@ -1,8 +1,0 @@
----
-title: "Solving for Time with Compound Interest"
-...
-
-# Example
-
-You deposit $500 in a savings account with monthly compounding.
-If the interest rate is 1.25%, how many months will it take to save $600?

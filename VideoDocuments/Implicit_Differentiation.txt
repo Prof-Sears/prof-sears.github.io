@@ -1,9 +1,0 @@
----
-title: "Implicit Differentiation"
-...
-
-# Example - OpenStax Calculus Volume 1 Section 3.8 # 313
-
-Find the equation of the tangent line to the graph of the given equation at the indicated point.
-Use a calculator or computer software to graph the function and the tangent line.
-$$xy^2 + \sin \left( \pi y \right) - 2x^2 = 10, \text{ at } (2, -3)$$
