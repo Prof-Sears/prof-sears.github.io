@@ -2,7 +2,7 @@
 
 ## 2024 Solar Eclipse
 ![Image of total solar eclipse](2024-eclipse.jpg "Image of total solar eclipse. I thought the red streaks were from the lens. They are actually solar prominences.")
-My wife and I got a great view of the solar eclipse on April 8, 2024.
+My wife and I got to enjoy the solar eclipse on April 8, 2024.
 We drove to Muncie, Indiana to see the eclipse from my grandmother's nursing home.
 She was happy to show us off to the other residents.
 There were several other visitors, so it made for a great crowd.
