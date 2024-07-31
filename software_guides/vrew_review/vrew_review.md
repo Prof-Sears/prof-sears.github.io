@@ -19,10 +19,44 @@ The first step is opening a new project.
 There are several options when creating a new project.
 I used "Load video-audio from PC".
 Many of the other options are useful for creating videos with generative AI features.
-I experimented with "Create Video from slides" last year.
+I experimented with "Create video from slides" last year.
 The results were passible, but I've decided to stick to my own voice for now on.
-(I am not a fan of those types of videos.
+(I am not a fan of AI created videos.
 Their proliferation on YouTube is one of the reasons I left the platform.)
+
+In addition to selecting a video file, it is possible to open a text file containing the script.
+![Image of the Transcript Dialog](transcript_cropped.jpg)  
+This is a handy feature because it limits the transcription errors.
+Since I use a teleprompter, I have the script ready to load.
+(I am terrible on camera without a script and teleprompter.)
+
+After loading the files, Vrew starts transcribing the speech in the video.
+![Image of Vrew transcribing a video](transcribe.jpg)  
+Vrew offers two speech-to-text engines as options, Google's engine and the [Whisper](https://openai.com/index/whisper) engine.
+I prefer Whisper simply because I am trying to de-Google as much as possible.
+
+The captioning results are pretty accurate.
+Using a teleprompter helps me annunciate clearly, allowing for clean transcriptions.
+I find that math terminology can confuse the AI transcription engine.
+Fortunately, Vrew makes correcting the captions easy.
+
+The best feature of Vrew is the ability to edit a video by deleting the transcribed text.
+![Editing blocks on the Vrew timeline](silence_cropped.jpg)  
+Silences, pauses, and breaths are easy to identify and eliminate using the Backspace key.
+This feature should not be used heavily for direct-to-camera videos.
+For voiceover videos, this is a great for cleaning your presentations.
+
+The second best feature of Vrew is the ability to correct captions.
+This is the feature I use the most, as math terminology is a struggle for the AI transcription engine.
+![An error in my reading of the script](./error_cropped.jpg)  
+During my recording session, I misread one line of the teleprompter.
+Fortunately, I can simply retype the caption to the line I recoreded.
+![Caption fixed](./fixed_cropped.jpg)  
+
+The process of correcting captions can get tedious when it misaligns the captions with the video.
+Sometimes Vrew attempts to fit a large amount of video into a single word and it takes quite a lot of typing to get everything realigned.
+
+
 
 ## Vrew on Linux
 
