@@ -15,7 +15,7 @@ I have not been compensated for the review.
 For this review, I decided to make an updated introduction video for my Liberal Arts Mathematics course. I wrote the script, recoreded the video, and saved both to my desktop.
 
 The first step is opening a new project.
-![Image of the New Project Dialog](new_cropped.jpg)
+![Image of the New Project Dialog](new_cropped.jpg)  
 There are several options when creating a new project.
 I used "Load video-audio from PC".
 Many of the other options are useful for creating videos with generative AI features.
