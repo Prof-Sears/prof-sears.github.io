@@ -53,6 +53,27 @@ During my recording session, I misread one line of the teleprompter.
 Fortunately, I can simply retype the caption to the line I recoreded.
 ![Caption fixed](./fixed_cropped.jpg)  
 
+Once the captions are ready, you can finish by exporting the video and caption file.
+There are several options for exporting a video.
+![Export Video dialog](./export_cropped.jpg)  
+For my purposes, having the option to export a high-quality or low-quality is important.
+I have one teaching situation where storage space is limited, so low-quality videos are a necessity.
+
+(The "Improved Export" option did not work for me.
+I had to export the video a second time with that option turned off.)
+
+I sometimes export the video with the captions "burned into" the video file.
+![Captions on display](./captions.jpg)  
+However, in most situations, I will turn off the captions from the video and export them in a separate subrip file.
+The subrip file can be uploaded to YouTube and Peertube.
+![Caption Export dialog](./subrip_cropped.jpg)  
+
+The final step of the process is uploading the exported video to Peertube.
+![Uploading to Peertube](./upload.jpg)
+
+Here is the finished result.
+<iframe title="Liberal Arts Mathematics - Course Introduction" width="560" height="315" src="https://spectra.video/videos/embed/2f1925b7-e375-43e4-96b3-fa125cb9e233" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
 The process of correcting captions can get tedious when it misaligns the captions with the video.
 Sometimes Vrew attempts to fit a large amount of video into a single word and it takes quite a lot of typing to get everything realigned.
 
