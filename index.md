@@ -18,7 +18,7 @@
 * [Science Adventures](./science_adventures/ScienceAdventures.md)
 * Programming Projects
 * Building Projects
-* Ed Tech Software Guides
+* [Ed Tech ](./software_guies/guides.md)
 * Linux Guides
 
 ## Reading List
