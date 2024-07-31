@@ -57,7 +57,7 @@ During my recording session, I misread one line of the teleprompter.
 Fortunately, I can simply retype the caption to the line I recorded.
 ![Caption fixed](./fixed_cropped.jpg)  
 
-The process of correcting captions can get tedious when it misses alignment between the captions with the video.
+The process of correcting captions can get tedious when it misaligns the captions with the video.
 Sometimes Vrew attempts to fit a large amount of video into a single word and it takes quite a lot of typing to get everything realigned.
 
 Once the captions are ready, you can finish by exporting the video and caption file.
