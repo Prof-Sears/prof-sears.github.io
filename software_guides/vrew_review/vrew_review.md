@@ -7,12 +7,12 @@ This feature makes it a worthwhile tool for educators creating videos for teachi
 The video editing features are at a bare minimum, but that is a positive for educators.
 There are generative AI features built into Vrew, but those are not useful for my needs.
 
-**Disclosure** VoyagerX, the creators of Vrew asked me to write this reveiew.
+**Disclosure** VoyagerX, the creators of Vrew asked me to write this.
 I have not been compensated for the review.
 
 ## Using Vrew
 
-For this review, I decided to make an updated introduction video for my Liberal Arts Mathematics course. I wrote the script, recoreded the video, and saved both to my desktop.
+For this review, I decided to make an updated introduction video for my Liberal Arts Mathematics course. I wrote the script, recorded the video, and saved both to my desktop.
 
 The first step is opening a new project.
 ![Image of the New Project Dialog](new_cropped.jpg)  
@@ -20,7 +20,7 @@ There are several options when creating a new project.
 I used "Load video-audio from PC".
 Many of the other options are useful for creating videos with generative AI features.
 I experimented with "Create video from slides" last year.
-The results were passible, but I've decided to stick to my own voice for now on.
+The results were passable, but I've decided to stick to my own voice for now on.
 (I am not a fan of AI created videos.
 Their proliferation on YouTube is one of the reasons I left the platform.)
 
@@ -36,22 +36,28 @@ Vrew offers two speech-to-text engines as options, Google's engine and the [Whis
 I prefer Whisper simply because I am trying to de-Google as much as possible.
 
 The captioning results are pretty accurate.
-Using a teleprompter helps me annunciate clearly, allowing for clean transcriptions.
+Using a teleprompter helps me enunciate clearly, allowing for clean transcriptions.
 I find that math terminology can confuse the AI transcription engine.
-Fortunately, Vrew makes correcting the captions easy.
+Fortunately, Vrew makes correcting the captions easy. (More on that later.)
+
+Once the transcription is complete, you are ready to edit your video.
+![Editing view](./edit.jpg)
 
 The best feature of Vrew is the ability to edit a video by deleting the transcribed text.
 ![Editing blocks on the Vrew timeline](silence_cropped.jpg)  
 Silences, pauses, and breaths are easy to identify and eliminate using the Backspace key.
 This feature should not be used heavily for direct-to-camera videos.
-For voiceover videos, this is a great for cleaning your presentations.
+For voice-over videos, this is a great for cleaning your presentations.
 
 The second best feature of Vrew is the ability to correct captions.
 This is the feature I use the most, as math terminology is a struggle for the AI transcription engine.
 ![An error in my reading of the script](./error_cropped.jpg)  
 During my recording session, I misread one line of the teleprompter.
-Fortunately, I can simply retype the caption to the line I recoreded.
+Fortunately, I can simply retype the caption to the line I recorded.
 ![Caption fixed](./fixed_cropped.jpg)  
+
+The process of correcting captions can get tedious when it misaligns the captions with the video.
+Sometimes Vrew attempts to fit a large amount of video into a single word and it takes quite a lot of typing to get everything realigned.
 
 Once the captions are ready, you can finish by exporting the video and caption file.
 There are several options for exporting a video.
@@ -65,7 +71,7 @@ I had to export the video a second time with that option turned off.)
 I sometimes export the video with the captions "burned into" the video file.
 ![Captions on display](./captions.jpg)  
 However, in most situations, I will turn off the captions from the video and export them in a separate subrip file.
-The subrip file can be uploaded to YouTube and Peertube.
+The subrip file can be uploaded to YouTube and Peertube.  
 ![Caption Export dialog](./subrip_cropped.jpg)  
 
 The final step of the process is uploading the exported video to Peertube.
@@ -74,10 +80,36 @@ The final step of the process is uploading the exported video to Peertube.
 Here is the finished result.
 <iframe title="Liberal Arts Mathematics - Course Introduction" width="560" height="315" src="https://spectra.video/videos/embed/2f1925b7-e375-43e4-96b3-fa125cb9e233" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
-The process of correcting captions can get tedious when it misaligns the captions with the video.
-Sometimes Vrew attempts to fit a large amount of video into a single word and it takes quite a lot of typing to get everything realigned.
+## Other Considerations
 
+The video editing features are limited.
+However, I see that as a benefit and not a hindrance.
+It is easy to get overwhelmed when starting with video editing.
+Vrew is good at keeping simple things simple.
+It is possible to add images on top of a video clip as well as add additional video clips to a project.
+For a screencast, changing playback speeds and the "Trim Silence" function are powerful tools.
+These are all the features that an educator will need.
 
+You have complete control of the look of your captions, should you choose to keep them in the video file.
+This is probably aimed at increasing engagement on social media.
+Most YouTube shorts and TikToks have eye-catching captions.
+For educators, this allows for captions to be easy to read and accessible for students with different types of reading or visual impairments.
+
+Vrew requires an account to use.
+There is a free option that gives you 120 minutes of transcription time each month.
+You can also use an AI voice and AI generated images with a free account.
+The free account puts a watermark in all the videos.
+I use a light account, which currently costs $7.17 per month.
+The light account removes the watermark and increases transcription time to 1200 minutes per month.
+Standard and Business accounts are probably inappropriate for educators.
+
+Development of Vrew is quick and stable.
+Vrew is constantly adding new features and is regularly updated.
+I have not encountered any bugs or crashes with the software.
+
+Help is available on their Discord server.
+The development team is regularly active on the server.
+(That's how I got involved in writing this review.)
 
 ## Vrew on Linux
 
@@ -87,6 +119,11 @@ That means running Vrew is a simple as downloading the AppImage file, changing t
 
 Because I run [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway), which makes extensive use of [Flatpaks](https://flatpak.org), a Flatpak version would be greatly appreciated.
 
+## Final Thoughts
+
+I have been using Vrew for a couple of years.
+It has been a valuable tool for quickly creating accessible educational videos as part of my teaching.
+I recommend that any educator who is starting with video to get a free account and give Vrew a try.
 
 ## Additional Information
 
