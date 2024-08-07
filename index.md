@@ -4,6 +4,7 @@
 
 * [Foundations of College Mathematics](/foundations/foundations.md)
 * [Liberal Arts Mathematics](./liberal_arts_math/liberal_arts_mathematics.md)
+* [College Algebra](./college_algebra/college_algebra.md)
 * [Statistics](./statistics/statistics.md)
 * Math for Elmentary Teachers I/II
 * Math Visualizations
