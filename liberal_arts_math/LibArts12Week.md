@@ -70,7 +70,7 @@
 ## Week 9
 * Video Assignment – Complements and Unions of Events
 * Homework – Complements and Unions of Events
-* Video Assignment – Conditonal Probability and Intersections of Events
+* Video Assignment – Conditional Probability and Intersections of Events
 * Homework – Conditional Probability and Intersections of Events
 * Chapter 13 Quiz
 
