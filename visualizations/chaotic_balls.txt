@@ -1,0 +1,58 @@
+﻿const PIXELS_PER_METER = 150;
+const FRAME_RATE = 60;
+
+class Ball {
+  constructor(pos, myColor, radius) {
+    this.pos = pos;
+    this.vel = createVector(0, 0);
+    this.acc = createVector(
+      0,
+      (9.8 * PIXELS_PER_METER) / (FRAME_RATE * FRAME_RATE)
+    );
+    this.myColor = myColor;
+    this.radius = radius;
+  }
+  
+  show() {
+    noStroke();
+    fill(this.myColor);
+    circle(this.pos.x, this.pos.y, 2*this.radius);
+  }
+  
+  update() {
+    this.vel.add(this.acc);
+    this.pos.add(this.vel);
+  }
+  
+  collide() {
+    if(this.pos.mag() > 2.0 * PIXELS_PER_METER - this.radius) {
+      const shrink = (2.0 * PIXELS_PER_METER - this.radius) / this.pos.mag();
+      this.pos.mult(shrink);
+      print(this.pos.mag());
+      this.vel.sub(this.pos.mult(2 * this.vel.dot(this.pos) / this.pos.dot(this.pos)));
+    }
+  }
+}
+
+var balls = [];
+
+function setup() {
+  createCanvas(4.2 * PIXELS_PER_METER, 4.2 * PIXELS_PER_METER);
+  rectMode(CENTER);
+  frameRate(FRAME_RATE);
+  balls.push(new Ball(createVector(10, 0), color(255, 0, 0), 0.05 * PIXELS_PER_METER));
+}
+
+function draw() {
+  background(128);
+  push();
+  translate(width / 2, height / 2);
+  fill(0);
+  circle(0, 0, 4 * PIXELS_PER_METER);
+  for(i = 0; i < balls.length; i++) {
+    balls[i].collide();
+    balls[i].update();
+    balls[i].show();
+  }
+  pop();
+}
