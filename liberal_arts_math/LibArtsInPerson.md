@@ -4,86 +4,55 @@
 **Note:** Based on *Mathematics All Around* by Thomas Pirnot.
 
 ## Week 1
-* Video Assignment – Percentage, Taxes, and Inflation
-* Homework – Percentage, Taxes, and Inflation
-* Video Assignment – Interest
-* Homework – Interest
+* Section 8.1
+* Section 8.2
 
 ## Week 2
-* Video Assignment – Consumer Loans
-* Homework – Consumer Loans
-* Video Assignment – Annuities
-* Homework – Annuities
+* Section 8.3
+* Section 8.4
 
 ## Week 3
-* Video Assignment – Mortgages
-* Homework – Mortgages
-* Chapter 8 Quiz
-* Video Assignment – Lines, Angles, and Circles
-* Homework – Lines, Angles, and Circles
+* Section 8.5
+* Section 9.1
 
 ## Week 4
-* Project 1
-* Video Assignment – Polygons
-* Homework – Polygons
+* Exam 1
+* Section 9.2
 
 ## Week 5
-* Project 1
-* Video Assignment – Perimeter and Area
-* Homework – Perimeter and Area
-* Video Assignment – Volume and Surface Area
-* Homework – Volume and Surface Area
-* Chapter 9 Quiz
+* Section 9.3
+* Section 9.4
 
 ## Week 6
-* Project 2
-* Video Assignment – Apportionment
-* Homework – Apportionment
+* Section 10.1
+* Section 10.2
 
 ## Week 7
-* Project 2
-* Video Assignment – Huntington-Hill Apportionment
-* Homework – Huntington-Hill Apportionment
-* Chapter 10 Quiz
-* Video Assignment – Voting Methods
-* Homework – Voting Methods
+* Section 11.1
+* Exam 2
 
 ## Week 8
-* Chapter 11 Quiz
-* Video Assignment – Introduction to Counting Methods
-* Homework – Introduction to Counting Methods
-* Video Assignment – Fundamental Counting Principle
-* Homework – Fundamental Counting Principle
+* Section 12.1
+* Section 12.2
 
 ## Week 9
-* Video Assignment – Permutations and Combinations
-* Homework – Permutations and Combinations
-* Chapter 12 Quiz
-* Video Assignment – Probability Theory
-* Homework – Probability Theory
+* Section 12.3
+* Section 13.1
 
 ## Week 10
-* Video Assignment – Complements and Unions of Events
-* Homework – Complements and Unions of Events
-* Video Assignment – Conditional Probability and Intersections of Events
-* Homework – Conditional Probability and Intersections of Events
-* Chapter 13 Quiz
+* Section 13.2
+* Section 13.3
 
 ## Week 11
-* Project 3
-* Video Assignment – Organizing and Visualizing Data
-* Homework – Organizing and Visualizing Data
+* Section 14.1
+* Section 14.2
 
 ## Week 12
-* Video Assignment – Measures of the Center
-* Homework – Measures of the Center
-* Video Assignment – Measures of Dispersion
-* Homework – Measures of Dispersion
+* Section 14.3
+* Section 14.4
 
 ## Week 13
-* Video Assignment – The Normal Distribution
-* Homework – The Normal Distribution
-* Chapter 14 Quiz
+* Exam 3
 
 ## Week 14
 * Review for Final
