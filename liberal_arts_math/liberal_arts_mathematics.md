@@ -47,6 +47,7 @@ This section is currently under revision.
 ## Schedules
 * [16-Week Online Schedule](LibArts16Week.md)
 * [12-Week Online Schedule](LibArts12Week.md)
+* [16-Week In Person Schedule](LibArtsInPerson.md)
 
 ## Projects
 
