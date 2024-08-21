@@ -1,0 +1,14 @@
+Let’s continue with functions from formulas by talking about functions with more than one independent variable.
+The process of evaluating a function with more than one independent variable is the same as with one variable. Just be careful to substitute the values in the right place.
+For this first example, calculate g of 7 and 3 if g of x and y equals 3 plus x over y minus 8. We are going to substitute 7 and 3 into the formula for x and y. Substitute 7 for x because x is the first variable in the function.
+Substitute 3 for y because y is the second variable in the function.
+Now that we have the substitutions correct, we will calculate the value.
+Add in the numerator and subtract in the denominator to get 10 over negative 5.
+Divide to get a final answer of negative 2.
+For the second example, we will look at the apparent magnitude of celestial objects. The apparent magnitude of a star is its brightness measured on Earth. Brighter stars have lower magnitudes. The OpenStax Astronomy book give this formula for the ratio of the brightness of two celestial objects. We are going to simplify it as R equals 2.512 to the power of m sub 1 minus m sub 2. Notice that we subtract the magnitudes and then use the difference as an exponent.
+The apparent magnitude of the planet Venus is negative 4.92 at its brightest. The apparent magnitude of the star Sirius is negative 1.47. We want to write the ratio of the brightness of Venus to Sirius in function notation. After that, we will calculate that value.
+Our textbook has a bad habit of writing a formula without using proper function notation. We will correct that by writing R of m sub 1 and m sub 2 equals 2.512 raised to the power of m sub 1 minus m sub 2. Remember that the brighter star is m sub two and it is on the right of the subtraction.
+To write the ratio in function notation, write R of negative 1.47 and negative 4.92. You do not need to do any calculations in this part.
+To do the calculations, substitute in the values.
+Subtracting negative 4.92 from negative 1.47 gives positive 3.45. Be careful with the signs here.
+Finally, 2.512 to the 3.45 power equals 23.99. This means that Venus is 23.99 times brighter than Sirius.
