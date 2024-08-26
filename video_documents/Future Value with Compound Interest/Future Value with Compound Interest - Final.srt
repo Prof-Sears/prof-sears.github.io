@@ -1,0 +1,127 @@
+﻿1
+00:00:00,000 --> 00:00:05,070
+The topic of this video is calculating future value with compound interest.
+
+2
+00:00:05,070 --> 00:00:09,270
+In this class, we are going to do the most algebra with the compound interest formula.
+
+3
+00:00:09,270 --> 00:00:13,990
+Calculating future value will be the most direct use of this formula.
+
+4
+00:00:13,990 --> 00:00:16,430
+This is the compound interest formula.
+
+5
+00:00:16,430 --> 00:00:23,570
+A equals P times parentheses 1 plus r over n to the n times t power.
+
+6
+00:00:23,570 --> 00:00:25,760
+A is the future value.
+
+7
+00:00:25,760 --> 00:00:28,780
+P is the present value or principal.
+
+8
+00:00:28,780 --> 00:00:32,590
+r is the annual interest rate, written as a decimal.
+
+9
+00:00:32,590 --> 00:00:36,100
+n is the number of compounding periods per year.
+
+10
+00:00:36,100 --> 00:00:38,320
+t is time in years.
+
+11
+00:00:38,320 --> 00:00:40,410
+There are different versions of this formula.
+
+12
+00:00:40,410 --> 00:00:44,880
+I am using the version found in the OpenStax contemporary mathematics book.
+
+13
+00:00:44,880 --> 00:00:48,000
+All versions give the same answers.
+
+14
+00:00:48,000 --> 00:00:53,870
+In this problem, we want to calculate the future value of an account with compound interest.
+
+15
+00:00:53,870 --> 00:01:04,270
+The principal is $3000, annual interest rate is 3%, compounding is quarterly, and the term is 4 years.
+
+16
+00:01:04,270 --> 00:01:07,120
+Start this problem by substituting the values.
+
+17
+00:01:07,120 --> 00:01:13,830
+Use 0.03 for r because that is the decimal equivalent of 3%.
+
+18
+00:01:13,830 --> 00:01:19,780
+Quarterly compounding means interest is added to the account four times each year.
+
+19
+00:01:19,780 --> 00:01:22,230
+So, n is 4.
+
+20
+00:01:22,230 --> 00:01:25,750
+The first operations are inside the parentheses.
+
+21
+00:01:25,750 --> 00:01:29,600
+Divide 0.03 by 4.
+
+22
+00:01:29,600 --> 00:01:35,030
+You can multiply 4 and 6 in the exponent at the same time.
+
+23
+00:01:35,030 --> 00:01:40,300
+Add 1 and 0.0075.
+
+24
+00:01:40,300 --> 00:01:42,120
+We’re done with the parentheses.
+
+25
+00:01:42,120 --> 00:01:48,620
+The next operation is raising 1.0075 to the 24 power.
+
+26
+00:01:48,620 --> 00:01:51,840
+I wrote five decimal digits after taking the exponent.
+
+27
+00:01:51,840 --> 00:01:56,070
+Keep the results in your calculator so it can worry about all the decimal digits.
+
+28
+00:01:56,070 --> 00:01:58,390
+Round your answer in the final step.
+
+29
+00:01:58,390 --> 00:02:03,600
+The last operation is to multiply 3000 times the decimal.
+
+30
+00:02:03,600 --> 00:02:10,450
+The future value is $3589.24.
+
+31
+00:02:10,450 --> 00:02:16,190
+All problems involving calculating future value with compound interest follow these steps.
+
+32
+00:02:16,190 --> 00:02:19,130
+The only thing that changes are the starting numbers.

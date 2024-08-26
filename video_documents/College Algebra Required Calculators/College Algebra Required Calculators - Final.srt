@@ -1,0 +1,39 @@
+﻿1
+00:00:00,000 --> 00:00:02,990
+These are the required calculators for College Algebra.
+
+2
+00:00:02,990 --> 00:00:05,200
+You will need to have one of the following:
+
+3
+00:00:05,200 --> 00:00:07,480
+TI-83 Plus.
+
+4
+00:00:07,480 --> 00:00:09,310
+Plus TI-84.
+
+5
+00:00:09,310 --> 00:00:12,490
+Plus TI-84 Plus Silver Edition.
+
+6
+00:00:12,490 --> 00:00:14,920
+TI-84 Plus CE.
+
+7
+00:00:14,920 --> 00:00:19,040
+We are going to use a lot of features of these calculators in this class.
+
+8
+00:00:19,040 --> 00:00:22,060
+You can get them used at reasonable prices.
+
+9
+00:00:22,060 --> 00:00:25,480
+They are also common in high school, so you may be able to borrow one.
+
+10
+00:00:25,480 --> 00:00:29,120
+A cell phone calculator is not appropriate for this class.

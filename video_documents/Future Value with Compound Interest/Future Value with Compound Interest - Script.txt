@@ -1,0 +1,15 @@
+The topic of this video is calculating future value with compound interest. In this class, we are going to do the most algebra with the compound interest formula. Calculating future value will be the most direct use of this formula.
+This is the compound interest formula. 
+A equals P times parentheses 1 plus r over n to the n times t power.
+A is the future value. P is the present value or principal. r is the annual interest rate, written as a decimal. n is the number of compounding periods per year. t is time in years.
+There are different versions of this formula. I am using the version found in the OpenStax contemporary mathematics book. All versions give the same answers.
+In this problem, we want to calculate the future value of an account with compound interest. The principal is $3000, annual interest rate is 3%, compounding is quarterly, and the term is 4 years.
+Start this problem by substituting the values. Use 0.03 for r because that is the decimal equivalent of 3%. Quarterly compounding means interest is added to the account four times each year. So, n is 4.
+The first operations are inside the parentheses. Divide 0.03 by 4. You can multiply 4 and 6 in the exponent at the same time.
+Add 1 and 0.0075.
+We’re done with the parentheses. The next operation is raising 1.0075 to the 24 power.
+I wrote five decimal digits after taking the exponent. Keep the results in your calculator so it can worry about all the decimal digits. Round your answer in the final step.
+The last operation is to multiply 3000 times the decimal.
+The future value is $3589.24.
+All problems involving calculating future value with compound interest follow these steps. The only thing that changes are the starting numbers.
+
