@@ -1,0 +1,10 @@
+One quirk of our college algebra textbook is that it uses the exponential function in the first chapter. For the beginning of the course, we can use a calculator for working with the exponential function. We will look at the exponential function in more detail later this semester.
+This example is about the concentration of chlorine in a water tank. As fresh water is pumped in, the concentration decreases. The function is C equals 0.2 plus 2.77 times e to the -0.35 times t power. The number e is a constant just like pi and it is built into your calculator.
+The first part asks us to calculate the initial concentration. Whenever we see the word “initial”, we should use 0 for the input.
+To perform the calculation on a TI-84 style calculator, type 0.2 plus 2.77 and times. To get the exponential function, press 2ND and then LN. This will give you an “e” with an exponent box. Type -0.35 times 0. Press the right arrow to leave the exponent box. Type Enter.
+The concentration is 2.97 milligrams per gallon.
+To do the same calculation on a TI-83 Plus, type the same keys. The difference is that you do not get an exponent box after typing 2ND and LN. Use a right parenthesis to finish the exponent.
+The concentration after six hours is written C of 6 in function notation.
+The shortcut for calculating the concentration after six hours is to type 2ND and Enter. This will copy the last calculation onto the Home Screen. You can press the left arrow and change the 0 to a 6. Hit Enter to get the answer.
+The concentration after six hours is 0.54 milligrams per gallon.
+The shortcut works the same exact way on a TI-83 Plus.
