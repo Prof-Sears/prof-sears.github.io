@@ -1,0 +1,115 @@
+﻿1
+00:00:00,000 --> 00:00:04,740
+Evaluating functions from tables is a skill we perform on a regular basis.
+
+2
+00:00:04,740 --> 00:00:05,950
+We just don’t call it that.
+
+3
+00:00:05,950 --> 00:00:07,670
+We are going to start with the basics now.
+
+4
+00:00:07,670 --> 00:00:15,200
+At several different points in the semester, we will work on taking a function from a table and creating a formula to describe the table.
+
+5
+00:00:15,200 --> 00:00:20,660
+The table below gives the cumulative domestic box office for the movie “Inside Out 2”.
+
+6
+00:00:20,660 --> 00:00:23,680
+The left column is the days the movie was in theaters.
+
+7
+00:00:23,680 --> 00:00:27,980
+The right column is the amount of money earned in the US and Canada
+
+8
+00:00:27,980 --> 00:00:31,880
+up to and including that date, measured in millions of dollars.
+
+9
+00:00:31,880 --> 00:00:37,850
+We can quickly evaluate the function B of t when the value of the independent variable,
+
+10
+00:00:37,850 --> 00:00:40,110
+that is, the input, is on the table.
+
+11
+00:00:40,110 --> 00:00:46,230
+For example, we can find B of 12 equals 388.0 right away.
+
+12
+00:00:46,230 --> 00:00:51,600
+Finding B of 20 equals 496.5 is just as easy.
+
+13
+00:00:51,600 --> 00:00:56,710
+Where things get tricky is when we want to know values of the dependent variable,
+
+14
+00:00:56,710 --> 00:00:58,090
+that is, the output,
+
+15
+00:00:58,090 --> 00:01:02,490
+when the corresponding value of the independent variable isn’t on the table.
+
+16
+00:01:02,490 --> 00:01:08,410
+For example, finding the exact value of B of 14 isn’t possible with the data we know.
+
+17
+00:01:08,410 --> 00:01:13,500
+We aren’t stuck when the required value of the dependent variable isn’t on the table.
+
+18
+00:01:13,500 --> 00:01:17,060
+Notice that 14 is halfway between 12 and 16.
+
+19
+00:01:17,060 --> 00:01:21,140
+We can use this to make an educated guess about B of 14.
+
+20
+00:01:21,140 --> 00:01:23,970
+As a rule, if the value x
+
+21
+00:01:23,970 --> 00:01:28,310
+of the independent variable is halfway between two known values
+
+22
+00:01:28,310 --> 00:01:32,130
+of the independent variable, x sub 1 and x sub 2,
+
+23
+00:01:32,130 --> 00:01:40,000
+you can approximate the value of f of x by averaging f of x sub 1 and f of x sub 2.
+
+24
+00:01:40,000 --> 00:01:48,680
+Going back to our original problem, we can approximate the value of B of 14 by averaging B of 12 and B of 16.
+
+25
+00:01:48,680 --> 00:01:56,390
+B of 12 is 388.0. B of 16 is 451.3.
+
+26
+00:01:56,390 --> 00:02:02,910
+Adding those values and dividing by 2 gives an average of 419.65.
+
+27
+00:02:02,910 --> 00:02:12,880
+So, our estimate of the cumulative box office of “Inside Out 2” after 14 days is 419.65 million dollars.
+
+28
+00:02:12,880 --> 00:02:16,700
+The actual box office is 411.9 million dollars.
+
+29
+00:02:16,700 --> 00:02:19,600
+That means we weren’t too far off in our estimate.
