@@ -1,0 +1,91 @@
+﻿1
+00:00:00,000 --> 00:00:06,210
+Just like evaluating functions from tables, evaluating functions from graphs is something we do regularly.
+
+2
+00:00:06,210 --> 00:00:08,270
+We don’t think of it as an algebra skill.
+
+3
+00:00:08,270 --> 00:00:12,610
+The graph below shows the stock price for Kellanova, formerly Kellogg’s.
+
+4
+00:00:12,610 --> 00:00:15,010
+The horizontal axis shows the dates.
+
+5
+00:00:15,010 --> 00:00:17,600
+The vertical axis shows the stock price.
+
+6
+00:00:17,600 --> 00:00:24,240
+To find a stock price on a given date, find that date on the horizontal axis and look at the graph above that point.
+
+7
+00:00:24,240 --> 00:00:27,050
+Look to the vertical axis to find the stock price.
+
+8
+00:00:27,050 --> 00:00:31,000
+Graphs are helpful for seeing an overall trend in the function values.
+
+9
+00:00:31,000 --> 00:00:35,570
+The downside is that it is hard to find exact function values from a graph.
+
+10
+00:00:35,570 --> 00:00:39,270
+Graphs are very useful when combined with tables or formulas.
+
+11
+00:00:39,270 --> 00:00:45,310
+Going back to the Kellanova stock, we can tell the story of the price without knowing specific values.
+
+12
+00:00:45,310 --> 00:00:50,700
+The stock price was slightly decreasing between the beginning of June until the end of July.
+
+13
+00:00:50,700 --> 00:00:55,450
+Between the end of July and the middle of August, the stock price increased quickly.
+
+14
+00:00:55,450 --> 00:00:58,750
+After the middle of August, the stock price stayed consistent.
+
+15
+00:00:58,750 --> 00:01:03,250
+For another example, let’s look at a function more typical of an algebra class.
+
+16
+00:01:03,250 --> 00:01:06,180
+The green graph defines a function f of x.
+
+17
+00:01:06,180 --> 00:01:09,560
+Let’s evaluate f of 3 and f of 6.
+
+18
+00:01:09,560 --> 00:01:13,080
+For f of 3, look on the horizontal axis to find 3.
+
+19
+00:01:13,080 --> 00:01:16,880
+Then, identify the point on the graph with x-coordinate of 3.
+
+20
+00:01:16,880 --> 00:01:20,550
+The y-coordinate can be read off the vertical axis.
+
+21
+00:01:20,550 --> 00:01:23,890
+We can say that f of three is about 1.2.
+
+22
+00:01:23,890 --> 00:01:26,390
+For f of 6, repeat the process.
+
+23
+00:01:26,390 --> 00:01:29,470
+The value of f of 6 is about 3.8.
