@@ -13,7 +13,7 @@
 
 ## Videos
 * Video Playlists
-* [Video Documents](./peertube_materials/PeerTube.md)
+* [Video Documents](./video_files/video_documents.md)
 
 ## Science and Technology
 * [Science Adventures](./science_adventures/ScienceAdventures.md)
