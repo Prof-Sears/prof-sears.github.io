@@ -1,4 +1,4 @@
-# Video Scripts
+# Video Documents
 
 ## Calculator Videos
 
