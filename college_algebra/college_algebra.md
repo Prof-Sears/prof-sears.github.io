@@ -5,22 +5,23 @@
 
 ## Lesson List
 
-* Lesson 1
-* Lesson 2
-* Lesson 3
-* Lesson 4
-* Lesson 5
-* Lesson 6
-* Lesson 7
-* Lesson 8
-* Lesson 9
-* Lesson 10
-* Lesson 11
-* Lesson 12
-* Lesson 13
-* Lesson 14
-* Lesson 15
-* Lesson 16
+* Week 1
+* Week 2
+* Week 3
+  * Making and Using Tables - [Microsoft Word version](making_and_using_tables.docx) - [PDF Version](making_and_using_tables.pdf) - HTML Version
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Week 9
+* Week 10
+* Week 11
+* Week 12
+* Week 13
+* Week 14
+* Week 15
+* Week 16
 
 
 ## KCTCS Competencies
