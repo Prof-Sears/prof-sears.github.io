@@ -8,7 +8,7 @@
 * Week 1
 * Week 2
 * Week 3
-  * Making and Using Tables - [Microsoft Word version](./making_and_using_tables/making_and_using_tables.docx) - [PDF Version](./making_and_using_tables/making_and_using_tables.pdf) - HTML Version
+  * Making and Using Tables - [Microsoft Word version](./making_and_using_tables/making_and_using_tables.docx) - [PDF Version](./making_and_using_tables/making_and_using_tables.pdf) - [HTML Version](./making_and_using_tables/making_and_using_tables.htm)
 * Week 4
 * Week 5
 * Week 6
