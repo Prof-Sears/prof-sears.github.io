@@ -18,11 +18,12 @@
 11. Section 7.6 - Probability with Permutations and Combinations
 12. Section 8.3 - Mean, Median and Mode
 13. Section 8.4 - Range and Standard Deviation
-14. Section 8.7 - Applications of the Normal Distribution
-15. [Section 10.1](./Section_10-1.pdf) - Points, Lines, and Planes
-16. [Section 10.2](./Section_10-2.pdf) - Angles
-17. Section 10.3 - Triangles
-18. [Section 10.4](./Section_10-4.pdf) - Polygons, Perimeter, and Circumference
+14. Section 8.6 - The Normal Distribution
+15. Section 8.7 - Applications of the Normal Distribution
+16. [Section 10.1](./Section_10-1.pdf) - Points, Lines, and Planes
+17. [Section 10.2](./Section_10-2.pdf) - Angles
+18. Section 10.3 - Triangles
+19. [Section 10.4](./Section_10-4.pdf) - Polygons, Perimeter, and Circumference
 20. [Section 10.6](./Section_10-6.pdf) - Area
 21. [Section 10.7](./Section_10-7.pdf) - Volume and Surface Area
 22. Section 10.8 - Right Triangle Trigonometry
