@@ -5,32 +5,31 @@
 
 ## Textbook Sections
 
-1. Section 6.1
-2. Section 6.2
-3. Section 6.3
-4. Section 6.4
-5. Section 6.6
-6. Section 6.8
-7. Section 7.1
-8. Section 7.2
-9. Section 7.3
-10. Section 7.5
-11. Section 7.6
-12. Section 8.3
-13. Section 8.4
-14. Section 8.7
-15. [Section 10.1](./Section_10-1.pdf)
-16. [Section 10.2](./Section_10-2.pdf)
-17. Section 10.3
-18. [Section 10.4](./Section_10-4.pdf)
-19. Section 10.5
-20. [Section 10.6](./Section_10-6.pdf)
-21. [Section 10.7](./Section_10-7.pdf)
-22. Section 10.8
-23. Section 11.1
-24. Section 11.2
-25. Section 11.3
-26. Section 11.4
+1. Section 6.1 - Understanding Percent
+2. Section 6.2 - Discounts, Markups, and Sales Tax
+3. Section 6.3 - Simple Interest
+4. Section 6.4 - Compound Interest
+5. Section 6.6 - Methods of Savings
+6. Section 6.8 - The Basic of Loans
+7. Section 7.1 - The Multiplication Rule for Counting
+8. Section 7.2 - Permutations
+9. Section 7.3 - Combinations
+10. Section 7.5 - Basic Concepts of Probability
+11. Section 7.6 - Probability with Permutations and Combinations
+12. Section 8.3 - Mean, Median and Mode
+13. Section 8.4 - Range and Standard Deviation
+14. Section 8.7 - Applications of the Normal Distribution
+15. [Section 10.1](./Section_10-1.pdf) - Points, Lines, and Planes
+16. [Section 10.2](./Section_10-2.pdf) - Angles
+17. Section 10.3 - Triangles
+18. [Section 10.4](./Section_10-4.pdf) - Polygons, Perimeter, and Circumference
+20. [Section 10.6](./Section_10-6.pdf) - Area
+21. [Section 10.7](./Section_10-7.pdf) - Volume and Surface Area
+22. Section 10.8 - Right Triangle Trigonometry
+23. Section 11.1 - Voting Methods
+24. Section 11.2 - Fairness in Voting Methods
+25. Section 11.3 - Standard Divisors, Standard Quotas, and the Apportionment Problem
+26. Section 11.4 - Apportionment Methods
 
 ## Sections by Competency
 1. 11.1, 11.2
@@ -39,9 +38,9 @@
 4. 6.1, 6.2, 6.3, 6.4, 6.6, 6.8
 5. 7.1, 7.2, 7.3, 7.5, 7.6
 6. 7.5
-7. 8.3, 8.4, 8.7
+7. 8.3, 8.4, 8.6, 8.7
 8. 10.1, 10.2, 10.3, 10.4, 10.6, 10.7
-9. 10.5, 10.8
+9. 10.5, 10.8 (Pythagorean Theorem Only)
 
 ## KCTCS Competencies
 Upon completion of this course, the student can:

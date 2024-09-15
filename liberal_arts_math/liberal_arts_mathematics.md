@@ -33,8 +33,6 @@
 
 ## EKCC Notes
 
-This section is currently under revision.
-
 [Textbook Sections](./EKCC/TextbookSections.md)
 
 <!-- * [Section 6.4 Notes](./EKCC/Section_6-4_Notes.md) -->
