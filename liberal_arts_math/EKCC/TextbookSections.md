@@ -5,8 +5,8 @@
 
 ## Textbook Sections
 
-1. Section 6.1 - Understanding Percent
-2. Section 6.2 - Discounts, Markups, and Sales Tax
+1. [Section 6.1](./ContemporaryMathematics-6-1.pdf) - Understanding Percent
+2. [Section 6.2](./ContemporaryMathematics-6-2.pdf) - Discounts, Markups, and Sales Tax
 3. Section 6.3 - Simple Interest
 4. Section 6.4 - Compound Interest
 5. Section 6.6 - Methods of Savings
@@ -20,12 +20,12 @@
 13. Section 8.4 - Range and Standard Deviation
 14. Section 8.6 - The Normal Distribution
 15. Section 8.7 - Applications of the Normal Distribution
-16. [Section 10.1](./Section_10-1.pdf) - Points, Lines, and Planes
-17. [Section 10.2](./Section_10-2.pdf) - Angles
+16. [Section 10.1](./ContemporaryMathematics-10-1.pdf) - Points, Lines, and Planes
+17. [Section 10.2](./ContemporaryMathematics-10-2.pdf) - Angles
 18. Section 10.3 - Triangles
-19. [Section 10.4](./Section_10-4.pdf) - Polygons, Perimeter, and Circumference
-20. [Section 10.6](./Section_10-6.pdf) - Area
-21. [Section 10.7](./Section_10-7.pdf) - Volume and Surface Area
+19. [Section 10.4](./ContemporaryMathematics-10-4.pdf) - Polygons, Perimeter, and Circumference
+20. [Section 10.6](./ContemporaryMathematics-10-6.pdf) - Area
+21. [Section 10.7](./ContemporaryMathematics-10-7.pdf) - Volume and Surface Area
 22. Section 10.8 - Right Triangle Trigonometry
 23. Section 11.1 - Voting Methods
 24. Section 11.2 - Fairness in Voting Methods
