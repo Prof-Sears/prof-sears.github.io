@@ -9,6 +9,7 @@
 * Week 2
 * Week 3
   * Making and Using Tables - [Microsoft Word version](./making_and_using_tables/making_and_using_tables.docx) - [PDF Version](./making_and_using_tables/making_and_using_tables.pdf)
+  * Making and Using Graphs - [Microsoft Word version](./making_and_using_graphs/making_and_using_graphs.docx) - [PDF Version](./making_and_using_graphs/making_and_using_graphs.pdf)
 * Week 4
   * Solving Linear Equations - [Microsoft Word version](./solving_linear_equations/solving_linear_equations.docx) - [PDF Version](./solving_linear_equations/solving_linear_equations.pdf)
 * Week 5
