@@ -34,8 +34,8 @@
 
 ## EKCC Notes
 
-[Textbook Sections](./EKCC/TextbookSections.md)
-[Weekly Schedule](./EKCC/weekly_schedule.md)
+[Textbook Sections](./EKCC/TextbookSections.md)  
+[Weekly Schedule](./EKCC/weekly_schedule.md)  
 [Weekly Schedule for Supplemental Lab](./EKCC/lab_weekly_schedule.md)
 
 ## Schedules
