@@ -35,6 +35,7 @@
 ## EKCC Notes
 
 [Textbook Sections](./EKCC/TextbookSections.md)
+[Weekly Schedule](./EKCC/weekly_schedule.md)
 
 ## Schedules
 * [16-Week Online Schedule](LibArts16Week.md)
