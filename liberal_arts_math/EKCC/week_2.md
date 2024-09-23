@@ -1,4 +1,4 @@
-# Week 2 Information
+# Liberal Arts Mathematics Week 2 Information
 
 ## Week 2 - Start Here
 
