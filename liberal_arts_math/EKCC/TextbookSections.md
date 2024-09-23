@@ -7,8 +7,8 @@
 
 1. [Section 6.1](./ContemporaryMathematics-6-1.pdf) - Understanding Percent
 2. [Section 6.2](./ContemporaryMathematics-6-2.pdf) - Discounts, Markups, and Sales Tax
-3. Section 6.3 - Simple Interest
-4. Section 6.4 - Compound Interest
+3. [Section 6.3](./ContemporaryMathematics-6-3.pdf) - Simple Interest
+4. [Section 6.4](./ContemporaryMathematics-6-4.pdf) - Compound Interest
 5. Section 6.6 - Methods of Savings
 6. Section 6.8 - The Basic of Loans
 7. Section 7.1 - The Multiplication Rule for Counting
