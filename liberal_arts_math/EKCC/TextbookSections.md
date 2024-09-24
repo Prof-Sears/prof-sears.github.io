@@ -9,28 +9,28 @@
 2. [Section 6.2](./ContemporaryMathematics-6-2.pdf) - Discounts, Markups, and Sales Tax
 3. [Section 6.3](./ContemporaryMathematics-6-3.pdf) - Simple Interest
 4. [Section 6.4](./ContemporaryMathematics-6-4.pdf) - Compound Interest
-5. Section 6.6 - Methods of Savings
-6. Section 6.8 - The Basic of Loans
-7. Section 7.1 - The Multiplication Rule for Counting
-8. Section 7.2 - Permutations
-9. Section 7.3 - Combinations
-10. Section 7.5 - Basic Concepts of Probability
-11. Section 7.6 - Probability with Permutations and Combinations
-12. Section 8.3 - Mean, Median and Mode
-13. Section 8.4 - Range and Standard Deviation
-14. Section 8.6 - The Normal Distribution
-15. Section 8.7 - Applications of the Normal Distribution
+5. [Section 6.6](./ContemporaryMathematics-6-6.pdf) - Methods of Savings
+6. [Section 6.8](./ContemporaryMathematics-6-8.pdf) - The Basic of Loans
+7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
+8. [Section 7.2](./ContemporaryMathematics-7-2.pdf) - Permutations
+9. [Section 7.3](./ContemporaryMathematics-7-3.pdf) - Combinations
+10. [Section 7.5](./ContemporaryMathematics-7-5.pdf) - Basic Concepts of Probability
+11. [Section 7.6](./ContemporaryMathematics-7-6.pdf) - Probability with Permutations and Combinations
+12. [Section 8.3](./ContemporaryMathematics-8-3.pdf) - Mean, Median and Mode
+13. [Section 8.4](./ContemporaryMathematics-8-4.pdf) - Range and Standard Deviation
+14. [Section 8.6](./ContemporaryMathematics-8-6.pdf) - The Normal Distribution
+15. [Section 8.7](./ContemporaryMathematics-8-7.pdf) - Applications of the Normal Distribution
 16. [Section 10.1](./ContemporaryMathematics-10-1.pdf) - Points, Lines, and Planes
 17. [Section 10.2](./ContemporaryMathematics-10-2.pdf) - Angles
-18. Section 10.3 - Triangles
+18. [Section 10.3](./ContemporaryMathematics-10-3.pdf) - Triangles
 19. [Section 10.4](./ContemporaryMathematics-10-4.pdf) - Polygons, Perimeter, and Circumference
 20. [Section 10.6](./ContemporaryMathematics-10-6.pdf) - Area
 21. [Section 10.7](./ContemporaryMathematics-10-7.pdf) - Volume and Surface Area
-22. Section 10.8 - Right Triangle Trigonometry
-23. Section 11.1 - Voting Methods
-24. Section 11.2 - Fairness in Voting Methods
-25. Section 11.3 - Standard Divisors, Standard Quotas, and the Apportionment Problem
-26. Section 11.4 - Apportionment Methods
+22. [Section 10.8](./ContemporaryMathematics-10-8.pdf) - Right Triangle Trigonometry
+23. [Section 11.1](./ContemporaryMathematics-11-1.pdf) - Voting Methods
+24. [Section 11.2](./ContemporaryMathematics-11-2.pdf) - Fairness in Voting Methods
+25. [Section 11.3](./ContemporaryMathematics-11-3.pdf) - Standard Divisors, Standard Quotas, and the Apportionment Problem
+26. [Section 11.4](./ContemporaryMathematics-11-4.pdf) - Apportionment Methods
 
 ## Sections by Competency
 1. 11.1, 11.2
