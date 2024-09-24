@@ -1,4 +1,41 @@
 # Liberal Arts Mathematics Weekly Schedules
 
 1. [Week 1](./week_1.md)
+  * Section 6.1
+  * Section 6.2
 2. [Week 2](./week_2.md)
+  * Section 6.3
+  * Section 6.4
+3. Week 3
+  * Section 6.6
+  * Section 6.8
+4. Week 4
+  * Section 7.1
+  * Section 7.2
+  * Section 7.3
+5. Week 5
+  * Section 7.5
+  * Section 7.6
+6. Week 6
+  * Section 8.3
+  * Section 8.4
+7. Week 7
+  * Section 8.6
+  * Section 8.7
+8. Week 8
+  * Section 10.1
+  * Section 10.2
+  * Section 10.3
+  * Section 10.4
+9. Week 9
+  * Section 10.6
+  * Section 10.7
+  * Section 10.8
+10. Week 10
+  * Section 11.1
+  * Section 11.2
+11. Week 11
+  * Section 11.3
+  * Section 11.4
+12. Week 12
+  * Final Exam
