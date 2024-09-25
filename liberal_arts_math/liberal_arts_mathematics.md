@@ -3,7 +3,8 @@
 ## Lesson List
 1.	Percentage and Taxes
 2.	Interest
-  * Compound Interest - Annotated Examples - [Microsoft Word Format](./Kirk-ex-6-41/compound_interest-annotated.docx) - [PDF Format](./Kirk-ex-6-41/compound_interest-annotated.pdf)
+  * Future Value with Compound Interest - Annotated Examples - [Microsoft Word Format](./Kirk-ex-6-41/compound_interest-annotated.docx) - [PDF Format](./Kirk-ex-6-41/compound_interest-annotated.pdf)
+  * Present Value with Compound Interest - Annotated Examples - [Microsoft Word Format](./Kirk-ex-6-44/compound_interest_present_value-annotated.docx) - [PDF Format](./Kirk-ex-6-44/compound_interest_present_value-annotated.pdf)
 3.	Consumer Loans
 4.	Annuities
 5.	Mortgages
