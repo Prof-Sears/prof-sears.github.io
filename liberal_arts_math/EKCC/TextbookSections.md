@@ -14,6 +14,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 4. [Section 6.4](./ContemporaryMathematics-6-4.pdf) - Compound Interest
   * Assignment - [ODT Format](./compound_interest-assignment.odt) - [PDF Format](./compound_interest-assignment.pdf)
 5. [Section 6.6](./ContemporaryMathematics-6-6.pdf) - Methods of Savings
+  * Assignment - [ODT Format](./methods_of_saving-assignment.odt) - [PDF Format](./methods_of_saving-assignment.pdf)
 6. [Section 6.8](./ContemporaryMathematics-6-8.pdf) - The Basic of Loans
 7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
 8. [Section 7.2](./ContemporaryMathematics-7-2.pdf) - Permutations
