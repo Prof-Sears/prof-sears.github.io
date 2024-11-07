@@ -6,13 +6,13 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 ## Textbook Sections
 
 1. [Section 6.1](./ContemporaryMathematics-6-1.pdf) - Understanding Percent
-  * Assignment - [ODT Format](./6-1_assignment.odt) - [PDF Format](./6-1_assignment.pdf)
+  * Assignment - [ODT Format](./understanding_percents-assignment.odt) - [PDF Format](./understanding_percents-assignment.pdf)
 2. [Section 6.2](./ContemporaryMathematics-6-2.pdf) - Discounts, Markups, and Sales Tax
-  * Assignment - [ODT Format](./6-2_assignment.odt) - [PDF Format](./6-2_assignment.pdf)
+  * Assignment - [ODT Format](./discounts_markup_and_sales_taxes-assignment.odt) - [PDF Format](./discounts_markup_and_sales_taxes-assignment.pdf)
 3. [Section 6.3](./ContemporaryMathematics-6-3.pdf) - Simple Interest
-  * Assignment - [ODT Format](./6-3_assignment.odt) - [PDF Format](./6-3_assignment.pdf)
+  * Assignment - [ODT Format](./simple_interest-assignment.odt) - [PDF Format](./simple_interest-assignment.pdf)
 4. [Section 6.4](./ContemporaryMathematics-6-4.pdf) - Compound Interest
-  * Assignment - [ODT Format](./6-4_assignment.odt) - [PDF Format](./6-4_assignment.pdf)
+  * Assignment - [ODT Format](./compount_interest-assignment.odt) - [PDF Format](./compount_interest-assignment.pdf)
 5. [Section 6.6](./ContemporaryMathematics-6-6.pdf) - Methods of Savings
 6. [Section 6.8](./ContemporaryMathematics-6-8.pdf) - The Basic of Loans
 7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
