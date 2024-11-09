@@ -26,6 +26,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 14. [Section 8.6](./ContemporaryMathematics-8-6.pdf) - The Normal Distribution
 15. [Section 8.7](./ContemporaryMathematics-8-7.pdf) - Applications of the Normal Distribution
 16. [Section 10.1](./ContemporaryMathematics-10-1.pdf) - Points, Lines, and Planes
+  * Assignment - [ODT Format](./points_lines_and_planes-assignment.odt) - [PDF Format](./points_lines_and_planes-assignment.pdf)
 17. [Section 10.2](./ContemporaryMathematics-10-2.pdf) - Angles
 18. [Section 10.3](./ContemporaryMathematics-10-3.pdf) - Triangles
 19. [Section 10.4](./ContemporaryMathematics-10-4.pdf) - Polygons, Perimeter, and Circumference
