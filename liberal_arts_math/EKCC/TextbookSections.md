@@ -19,8 +19,9 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
   * Assignment - [ODT Format](./the_multiplication_rule_for_counting-assignment.odt) - [PDF Format](./the_multiplication_rule_for_counting-assignment.pdf)
 8. [Section 7.2](./ContemporaryMathematics-7-2.pdf) - Permutations
-  * Assignment - [ODT Format](/permutations-assignment.odt) - [PDF Format](./permutations-assignment.pdf)
+  * Assignment - [ODT Format](./permutations-assignment.odt) - [PDF Format](./permutations-assignment.pdf)
 9. [Section 7.3](./ContemporaryMathematics-7-3.pdf) - Combinations
+  * Assignment - [ODT Format](./combinations-assignment.odt) - [PDF Format](./combinations-assignment.pdf)
 10. [Section 7.5](./ContemporaryMathematics-7-5.pdf) - Basic Concepts of Probability
 11. [Section 7.6](./ContemporaryMathematics-7-6.pdf) - Probability with Permutations and Combinations
 12. [Section 8.3](./ContemporaryMathematics-8-3.pdf) - Mean, Median and Mode
