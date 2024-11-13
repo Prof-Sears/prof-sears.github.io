@@ -26,7 +26,7 @@
 * [Reading List and Reviews](./reading/reading.md)	
 
 ## Where to Find Me
-* Mastadon: [Qoto](https://qoto.org/@OmegaLimit)
+* Social: [BlueSky](https://bsky.app/profile/chrissearsky.bsky.social)
 * PeerTube:
 	- [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
 	- [Vintage Vectors](https://spectra.video/c/chris_sears_fun/videos)
