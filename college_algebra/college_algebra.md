@@ -25,6 +25,10 @@
 * Week 15
 * Week 16
 
+## Quick Start Guides
+* Logarithms - [ODT Format](./logarithms-quick_reference.odt) - [PDF Format](./logarithms-quick_reference.pdf)
+* Quadratic Functions and Equations - [ODT Format](./quadratic_functions_and_equations.odt) - [PDF Format](./quadratic_functions_and_equations.pdf)
+
 
 ## KCTCS Competencies
 
