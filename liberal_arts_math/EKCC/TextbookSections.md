@@ -16,6 +16,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 5. [Section 6.6](./ContemporaryMathematics-6-6.pdf) - Methods of Savings
   * Assignment - [ODT Format](./methods_of_saving-assignment.odt) - [PDF Format](./methods_of_saving-assignment.pdf)
 6. [Section 6.8](./ContemporaryMathematics-6-8.pdf) - The Basic of Loans
+  * Assignment - [ODT Format](./the_basics_of_loans-assignment.odt) - [PDF Format](./the_basics_of_loans-assignment.pdf)
 7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
   * Assignment - [ODT Format](./the_multiplication_rule_for_counting-assignment.odt) - [PDF Format](./the_multiplication_rule_for_counting-assignment.pdf)
 8. [Section 7.2](./ContemporaryMathematics-7-2.pdf) - Permutations
@@ -23,6 +24,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 9. [Section 7.3](./ContemporaryMathematics-7-3.pdf) - Combinations
   * Assignment - [ODT Format](./combinations-assignment.odt) - [PDF Format](./combinations-assignment.pdf)
 10. [Section 7.5](./ContemporaryMathematics-7-5.pdf) - Basic Concepts of Probability
+  * Assignment - [ODT Format](./basic_concepts_of_probability-assignment.odt) - [PDF Format](./basic_concepts_of_probability-assignment.pdf)
 11. [Section 7.6](./ContemporaryMathematics-7-6.pdf) - Probability with Permutations and Combinations
 12. [Section 8.3](./ContemporaryMathematics-8-3.pdf) - Mean, Median and Mode
 13. [Section 8.4](./ContemporaryMathematics-8-4.pdf) - Range and Standard Deviation
