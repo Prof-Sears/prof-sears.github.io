@@ -26,9 +26,13 @@
 * Week 16
 
 ## Quick Start Guides
-* Logarithms - [ODT Format](./logarithms-quick_reference.odt) - [PDF Format](./logarithms-quick_reference.pdf)
-* Quadratic Functions and Equations - [ODT Format](./quadratic_functions_and_equations.odt) - [PDF Format](./quadratic_functions_and_equations.pdf)
-
+* Exponential Growth and Decay - [ODT Format](./exponential_growth-quick_start.odt) - [PDF Foramat](./exponential_growth-quick_start.pdf)
+* Constant Percentage Change - [ODT Format](./constant_percentage_change-quick_start.odt) - [PDF Foramat](./constant_percentage_change-quick_start.pdf)
+* Exponential Modeling - [ODT Format](./exponential_modeling-quick_start.odt) - [PDF Foramat](./exponential_modeling-quick_start.pdf)
+* Exponential Regression - [ODT Format](./exponential_regression-quick_start.odt) - [PDF Foramat](./exponential_regression-quick_start.pdf)
+* Logarithms - [ODT Format](./logarithms-quick_start.odt) - [PDF Foramat](./logarithms-quick_start.pdf)
+* Quadratic Functions and Equations - [ODT Format](./quadratic_functions_and_equations-quick_start.odt) - [PDF Foramat](./quadratic_functions_and_equations-quick_start.pdf)
+* Quadratic Regression - [ODT Format](./quadratic_regression-quick_start.odt) - [PDF Foramat](./quadratic_regression-quick_start.pdf)
 
 ## KCTCS Competencies
 
