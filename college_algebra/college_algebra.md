@@ -34,6 +34,9 @@
 * Quadratic Functions and Equations - [ODT Format](./quadratic_functions_and_equations-quick_start.odt) - [PDF Format](./quadratic_functions_and_equations-quick_start.pdf)
 * Quadratic Regression - [ODT Format](./quadratic_regression-quick_start.odt) - [PDF Format](./quadratic_regression-quick_start.pdf)
 
+## Detailed Examples
+* Quadratic Regression - [ODT Format](./quadratic_regression-detailed_example.odt) - [PDF Format](./quadratic_regression-detailed_example.pdf)
+
 ## KCTCS Competencies
 
 Upon completion of this course, the student can:
