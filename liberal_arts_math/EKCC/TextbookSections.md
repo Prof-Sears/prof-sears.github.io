@@ -19,6 +19,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
   * Assignment - [ODT Format](./the_basics_of_loans-assignment.odt) - [PDF Format](./the_basics_of_loans-assignment.pdf)
 7. [Section 7.1](./ContemporaryMathematics-7-1.pdf) - The Multiplication Rule for Counting
   * Assignment - [ODT Format](./the_multiplication_rule_for_counting-assignment.odt) - [PDF Format](./the_multiplication_rule_for_counting-assignment.pdf)
+  * Examples - [ODT Format](./multiplication_rule-detailed_example.odt) - [PDF Format](./multiplication_rule-detailed_example.pdf)
 8. [Section 7.2](./ContemporaryMathematics-7-2.pdf) - Permutations
   * Assignment - [ODT Format](./permutations-assignment.odt) - [PDF Format](./permutations-assignment.pdf)
 9. [Section 7.3](./ContemporaryMathematics-7-3.pdf) - Combinations
