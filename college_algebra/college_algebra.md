@@ -33,6 +33,7 @@
 * Logarithms - [ODT Format](./logarithms-quick_start.odt) - [PDF Format](./logarithms-quick_start.pdf)
 * Quadratic Functions and Equations - [ODT Format](./quadratic_functions_and_equations-quick_start.odt) - [PDF Format](./quadratic_functions_and_equations-quick_start.pdf)
 * Quadratic Regression - [ODT Format](./quadratic_regression-quick_start.odt) - [PDF Format](./quadratic_regression-quick_start.pdf)
+* Composite and Inverse Functions - [ODT Format](./composite_and_inverse_functions.odt) - [PDF Format](./composite_and_inverse_functions.pdf)
 
 ## Detailed Examples
 * Quadratic Regression - [ODT Format](./quadratic_regression-detailed_example.odt) - [PDF Format](./quadratic_regression-detailed_example.pdf)
