@@ -37,6 +37,9 @@
 ## Detailed Examples
 * Quadratic Regression - [ODT Format](./quadratic_regression-detailed_example.odt) - [PDF Format](./quadratic_regression-detailed_example.pdf)
 
+## Class Notes
+* Quadratic Regression - [ODP Format](./quadratic_regression-class_notes.odp) - [PDF Format](./quadratic_regression-class_notes.pdf)
+
 ## KCTCS Competencies
 
 Upon completion of this course, the student can:
