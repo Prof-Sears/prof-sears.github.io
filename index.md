@@ -26,7 +26,7 @@
 * [Reading List and Reviews](./reading/reading.md)	
 
 ## Where to Find Me
-* Social: [BlueSky](https://bsky.app/profile/chrissearsky.bsky.social)
+* Social: <a rel="me" href="https://techhub.social/@ChrisSearsKy">Mastodon</a>
 * PeerTube:
 	- [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
 	- [Vintage Vectors](https://spectra.video/c/chris_sears_fun/videos)
