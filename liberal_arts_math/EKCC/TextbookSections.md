@@ -25,7 +25,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
   * Examples - [ODT Format](./permutations-detailed_example.odt) - [PDF Format](./permutations-detailed_example.pdf)
 9. [Section 7.3](./ContemporaryMathematics-7-3.pdf) - Combinations
   * Assignment - [ODT Format](./combinations-assignment.odt) - [PDF Format](./combinations-assignment.pdf)
-  * Examples - [ODT Format](./combinations-detailed_examples.odt) - [PDF Format](./combinations-detailed_examples.pdf)
+  * Examples - [ODT Format](./combinations-detailed_example.odt) - [PDF Format](./combinations-detailed_example.pdf)
 10. [Section 7.5](./ContemporaryMathematics-7-5.pdf) - Basic Concepts of Probability
   * Assignment - [ODT Format](./basic_concepts_of_probability-assignment.odt) - [PDF Format](./basic_concepts_of_probability-assignment.pdf)
 11. [Section 7.6](./ContemporaryMathematics-7-6.pdf) - Probability with Permutations and Combinations
