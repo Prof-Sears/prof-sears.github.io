@@ -1,0 +1,26 @@
+Welcome to this quick start video on solving logarithmic and exponential equations.
+In this video, we will cover:
+The inverse properties of logarithms and exponential functions.
+Solving exponential equations.
+Solving logarithmic equations.
+The inverse properties for logarithms and exponential functions has two parts. The first says that for all x, log base b of b to the x power is x. The second says that for all positive x, b to the log base b of x power is x. The short cut is to remember that exponents and logarithms cancel each other out.
+To solve an equation containing an exponential expression:
+First, isolate the exponential expression. This step uses algebra you already know. Second, take the logarithm of both sides. Use the same base for the logarithm as in the exponential expression. Third, cancel the logarithm and exponential expression using the inverse property. Finally, solve the resulting equation.
+Our first example asks us to solve this equation. 4 times 9 to the 2x power equals 14. Round the answer to three decimal places.
+The first step is to solve for the exponential expression. Divide both sides by 4. The equation is now 9 to the 2x power equals 3.5.
+Next comes the new step. Take the logarithm base 9 of both sides. The logarithm base 9 and the exponential function with base 9 cancel out. The remaining equation is 2x equals logarithm base 9 of 3.5. We’ll let our calculator work out the value of the logarithm in a moment.
+Finally, solve for x. Divide both sides by 2. The solution is x equals logarithm base 9 of 3.5 over 2. This rounds to 0.285.
+Here is how to enter the calculation into a TI graphing calculator.
+The second example is similar to the first. Solve the equation 10 to the 2x minus 18 power, plus 12, equals negative 3.
+Solve for the exponential expression by subtracting 12 from both sides. The equation becomes 10 to the 2x minus 18 power equals negative 15.
+Following the steps, take the common logarithm of both sides. This is a problem because the common logarithm isn’t defined for -15. Our conclusion is that this equation does not have any real number solutions.
+Solving a logarithmic equation is very similar to solving an exponential equation. The first step is to isolate the logarithmic expression. The second step is to use both sides as an exponent in an exponential expression. The base of the exponential expression should match the base of the logarithm. Cancel the exponential expression and the logarithm using the inverse property. Finally, solve the resulting equation.
+Example 3 asks us to solve the equation 2 times log of 6x, plus 16, equals 14. Again, we will round the answer to three decimal places.
+The first step is to solve for the logarithm. Subtract 16 from both sides and then divide both sides by 2. The new equation is log of 6x equals negative 1.
+The second part is to raise 10 to the power of both sides. The exponential function cancels with the logarithm. This leaves 6x equals 10 to the negative 1 power. 10 to the negative 1 is defined, so we know this equation will have a solution.
+The third part is to solve for x. Divide both sides by 6. The solution is x equals 10 to the negative 1 power divided by 6. Rounded, the solution is 0.017.
+Here is how to enter the answer into a TI graphing calculator.
+The last example will be just like the third. Solve the equation logarithm base 8 of 3x minus 18 equals 3.
+The logarithm is already isolated, so we can start by canceling the logarithm. Raise 8 to the power of both sides of the equation. After canceling the exponential and logarithmic functions, the new equation is 3x minus 18 equals 8 to the third power.
+We have two steps left to solve for x: add 18 to both sides and then divide both sides by 3. The solution is x equals 8 to the third power plus 18 all divided by 3. This rounds to 176.667 when rounded to three decimal places.
+Here is how to enter the answer into a TI graphing calculator. You need the parentheses because the fraction bar acts like a grouping symbol.
