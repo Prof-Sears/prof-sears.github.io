@@ -5,13 +5,30 @@
 \usepackage{helvet}
 \usepackage{graphicx}
 
+\definecolor{smitten}{HTML}{CD3487}
+\definecolor{corn}{HTML}{FFF265}
+\definecolor{midnightgreen}{HTML}{004850}
+\definecolor{stpatricksblue}{HTML}{1F2882}
+\definecolor{independence}{HTML}{354261}
+\definecolor{spanishgrey}{HTML}{989C94}
+\definecolor{cafeaulait}{HTML}{A57548}
+
 \beamertemplatenavigationsymbolsempty
+\setbeamertemplate{itemize item}{\textbullet}
+\setbeamertemplate{blocks}[rounded][shadow=false]
 \usecolortheme{seagull}
 \usefonttheme[stillsansseriflarge]{serif}
+\setbeamercolor{frametitle}{bg=white, fg=independence}
+\setbeamercolor{title}{bg=yellow,fg=smitten}
+\setbeamercolor{author}{bg=yellow,fg=smitten}
+\setbeamercolor{text}{bg=white, bg=black}
+\setbeamercolor{background canvas}{bg=cafeaulait}
+\setbeamercolor{block title}{bg=white,fg=independence}
+\setbeamercolor{block body}{bg=white,fg=black}
 
-\title{Solving Logarithmic and Exponential Equations}
+\title{\textbf{Solving Logarithmic and Exponential Equations}}
 \subtitle{Quick Start}
-\author{\textsf{Success in College Math}}
+\author{\textsf{\textbf{Success in College Math}}}
 \date{}
 
 \begin{document}
@@ -22,24 +39,32 @@
 
 \begin{frame}
 	\frametitle{Overview}
-	\pause
+	\begin{block}{This video will cover:} \pause
 	\begin{enumerate}
 		\item Inverse Properties of Logarithms and Exponential Functions \pause
 		\item Solving Exponential Equations \pause
 		\item Solving Logarithmic Equations
 	\end{enumerate}
+	\end{block}
 \end{frame}
 
 \begin{frame}
 	\frametitle{Inverse Properties of Logarithms and Exponential Functions}
 	\begin{columns}
 		\column{0.5\textwidth}
-		For all $x$
+		
+		\begin{block}{}
+		For all $x$,
 		$$\log_b{b^x} = x.$$
-
+		\end{block}
+		
 		\column{0.5\textwidth}
-		For $x > 0$
+		
+		\begin{block}{}
+		For $x > 0$,
 		$$b^{log_b{x}} = x.$$
+		\end{block}
+	
 	\end{columns}
 \end{frame}
 
