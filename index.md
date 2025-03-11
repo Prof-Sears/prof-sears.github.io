@@ -26,9 +26,8 @@
 * [Reading List and Reviews](./reading/reading.md)	
 
 ## Where to Find Me
-* Social: <a rel="me" href="https://techhub.social/@ChrisSearsKy">Mastodon</a>
+* Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>Mastodon</a>
 * PeerTube:
 	- [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
 	- [Vintage Vectors](https://spectra.video/c/chris_sears_fun/videos)
-	- [Open Source for Educators](https://spectra.video/c/chirs_sears_technology/videos)
 * Current CV
