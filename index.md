@@ -26,7 +26,7 @@
 * [Reading List and Reviews](./reading/reading.md)	
 
 ## Where to Find Me
-* Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>Mastodon</a>
+* Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>
 * PeerTube:
 	- [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
 	- [Vintage Vectors](https://spectra.video/c/chris_sears_fun/videos)
