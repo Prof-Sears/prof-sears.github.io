@@ -26,7 +26,7 @@
 * [Reading List and Reviews](./reading/reading.md)	
 
 ## Exercise Resources
-* 5BX Progress Tracker [PDF Version](./5BX_progress_tracker.pdf) [OpenDocumet Text Version](./5BX_progress_tracker.odt)
+* 5BX Progress Tracker - [PDF Version](./5BX_progress_tracker.pdf) - [OpenDocumet Text Version](./5BX_progress_tracker.odt)
 
 ## Where to Find Me
 * Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>
