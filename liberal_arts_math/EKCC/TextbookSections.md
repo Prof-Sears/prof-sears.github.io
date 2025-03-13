@@ -10,7 +10,7 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 2. [Section 6.2](./ContemporaryMathematics-6-2.pdf) - Discounts, Markups, and Sales Tax
   * Assignment - [ODT Format](./discounts_markup_and_sales_tax-assignment.odt) - [PDF Format](./discounts_markup_and_sales_tax-assignment.pdf)
 3. [Section 6.3](./ContemporaryMathematics-6-3.pdf) - Simple Interest
-  * Assignment - [ODT Format](./simple_interest-assignment.odt) - [PDF Format](./simple_interest-assignment.pdf)
+  * [Assignment](./simple_interest-assignment.md)
 4. [Section 6.4](./ContemporaryMathematics-6-4.pdf) - Compound Interest
   * Assignment - [ODT Format](./compound_interest-assignment.odt) - [PDF Format](./compound_interest-assignment.pdf)
 5. [Section 6.6](./ContemporaryMathematics-6-6.pdf) - Methods of Savings
