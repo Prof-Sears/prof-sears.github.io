@@ -1,4 +1,4 @@
-#Compound Interest
+# Compound Interest
 
 Liberal Arts Mathematics
 

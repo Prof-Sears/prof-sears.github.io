@@ -46,6 +46,8 @@ Note: *Based on Contemporary Mathematics* by Donna Kirk.
 25. [Section 11.3](./ContemporaryMathematics-11-3.pdf) - Standard Divisors, Standard Quotas, and the Apportionment Problem
 26. [Section 11.4](./ContemporaryMathematics-11-4.pdf) - Apportionment Methods
 
+Assignment Grading Scales - [PDF Version](./grading_scales.pdf) - [OpenDocument Spreadsheet Version](./grading_scales.ods)
+
 ## Sections by Competency
 1. 11.1, 11.2
 2. 11.2
