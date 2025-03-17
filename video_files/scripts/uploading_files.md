@@ -14,8 +14,9 @@ At the very bottom of the assignment is "Additional content".
 This is where you upload files.
 
 You can drag a file into this box to attach it to the assignment.
+This is on my Linux desktop at home.
 This works on both Windows and MacOS computers.
-I haven't tried it on Linux or ChromeOS, but I'm confident it will work.
+I haven't tried it on ChromeOS, but I'm confident it will work.
 
 The other option is to click the paper clip icon in the text box.
 That will open a file dialog to select the file.
