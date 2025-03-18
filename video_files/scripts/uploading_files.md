@@ -20,7 +20,7 @@ I haven't tried it on ChromeOS, but I'm confident it will work.
 
 The other option is to click the paper clip icon in the text box.
 That will open a file dialog to select the file.
-This is probably the only option if you are using a table or smartphone to work on Blackboard.
+This is probably the only option if you are using a tablet or smartphone to work on Blackboard.
 
 Once the file is attached and you have finished the other work for the assignment, click "Submit" on the lower right.
 
