@@ -1,0 +1,11 @@
+In the game “Trash Pandas”, you start your turn by rolling a die to collect tokens.
+You get another turn if you collect every token without duplicating a roll.
+What is the probability of accomplishing this feat without using any cards to help?
+We first need to calculate the number of outcomes in the event of rolling every possibility. The number of outcomes is the same as the number of ways to order six objects. That is six factorial.
+Secondly, we need to calculate the size of the sample space. There are six possible outcomes for each roll. This means that the sample size is six raised to the sixth power.
+When we setup the division to calculate the probability, it will be easier to expand the numerator and denominator. That way, we can cancel common factors and make the numbers smaller.
+The top is six times five times four times three times two times one.
+The bottom is six times six times six times six times six times six.
+All the factors in the numerator cancel except for 5.
+The denominator simplifies to three times three times six times six.
+After doing the multiplications, the probability of collecting all six tokens is 5 over 324. As a decimal, the probability is 0.015.
