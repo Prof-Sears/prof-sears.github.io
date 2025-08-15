@@ -9,5 +9,7 @@
 - *Teach Students How to Learn* Saundra Yancy McGuire with Stephanie McGuire
 - *Starter Vegetable Gardens* Barbara Pleasant
 - *The Essential Stoic* Foreward by Mark Tuitert
+- *The Present Age" Soren Kierkegaard
+- *Expert Podcasting Practices for Dummies*
 
 ## Reviews
