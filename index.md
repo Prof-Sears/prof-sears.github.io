@@ -2,7 +2,11 @@
 
 ## Teaching
 
-* [Foundations of College Mathematics](/foundations/foundations.md)
+* [Teaching Blog](./teaching/blog.md)
+
+## Course Materials
+
+* [Foundations of College Mathematics](.//foundations/foundations.md)
 * [Liberal Arts Mathematics](./liberal_arts_math/liberal_arts_mathematics.md)
 * [College Algebra](./college_algebra/college_algebra.md)
 * [Statistics](./statistics/statistics.md)
@@ -29,7 +33,4 @@
 
 ## Where to Find Me
 * Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>
-* PeerTube:
-	- [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
-	- [Vintage Vectors](https://spectra.video/c/chris_sears_fun/videos)
-* Current CV
+* PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
