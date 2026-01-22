@@ -13,3 +13,4 @@
 ## Financial Mathematics
 
 * [Thumbnail/Title Page Photo](https://www.pexels.com/photo/set-of-paper-money-with-images-and-symbols-4025877/)
+* ![Color pallet for financial math #55435D, #73AB9C, #AEAEA4, #0E100B, #367693](./financial_math_color_palette.png)
