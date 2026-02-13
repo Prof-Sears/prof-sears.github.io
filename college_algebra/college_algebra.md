@@ -25,6 +25,9 @@
 * Week 15
 * Week 16
 
+## PowerPoints
+* [Functions and Function Notation](./functions_and_function_notation.pptx) - [PDF Format](./functions_and_function_notation.pdf)
+
 ## Quick Start Guides
 * Exponential Growth and Decay - [ODT Format](./exponential_growth_and_decay-quick_start.odt) - [PDF Format](./exponential_growth_and_decay-quick_start.pdf)
 * Constant Percentage Change - [ODT Format](./constant_percentage_change-quick_start.odt) - [PDF Format](./constant_percentage_change-quick_start.pdf)
