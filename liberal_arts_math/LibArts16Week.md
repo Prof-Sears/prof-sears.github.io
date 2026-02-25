@@ -1,96 +1,90 @@
 
 # 16-Week Schedule - Online Sections - Liberal Arts Mathematics
 
-**Note:** Based on *Mathematics All Around* by Thomas Pirnot.
+**Note:** Based on *Contemporary Mathematics* by Donna Kirk.
+[Link to Textbook](https://openstax.org/books/contemporary-mathematics/pages/1-introduction)
+
+## Course Start
+* Syllabus Assignment
 
 ## Week 1
-* Video Assignment – Percentage, Taxes, and Inflation
-* Homework – Percentage, Taxes, and Inflation
-* Video Assignment – Interest
-* Homework – Interest
+* Discussion 1
+* Understanding Percent
+* Discounts, Markup, and Sales Tax
 
 ## Week 2
-* Video Assignment – Consumer Loans
-* Homework – Consumer Loans
-* Video Assignment – Annuities
-* Homework – Annuities
+* Discussion 2
+* Simple Interest
+* Compound Interest
+* Making a Personal Budget
 
 ## Week 3
-* Video Assignment – Mortgages
-* Homework – Mortgages
-* Chapter 8 Quiz
-* Video Assignment – Lines, Angles, and Circles
-* Homework – Lines, Angles, and Circles
+* Discussion 3
+* Methods of Savings
+* The Basics of Loans
+* Chapter 6 Quiz
 
-## Week 4
+## Week 4 
 * Project 1
-* Video Assignment – Polygons
-* Homework – Polygons
+* Discussion 4
+* Points, Lines, and Planes
+* Angles
 
 ## Week 5
-* Project 1
-* Video Assignment – Perimeter and Area
-* Homework – Perimeter and Area
-* Video Assignment – Volume and Surface Area
-* Homework – Volume and Surface Area
-* Chapter 9 Quiz
+* Discussion 5
+* Triangles
+* Polygons, Perimeter, and Circumference
+* Area
 
 ## Week 6
-* Project 2
-* Video Assignment – Apportionment
-* Homework – Apportionment
+* Discussion 6
+* Volume and Surface Area
+* Pythagorean Theorem
+* Chapter 10 Quiz
 
 ## Week 7
 * Project 2
-* Video Assignment – Huntington-Hill Apportionment
-* Homework – Huntington-Hill Apportionment
-* Chapter 10 Quiz
-* Video Assignment – Voting Methods
-* Homework – Voting Methods
+* Discussion 7
+* The Multiplication Rule for Counting and Permutations
+* Factorials and Combinations
 
 ## Week 8
-* Chapter 11 Quiz
-* Video Assignment – Introduction to Counting Methods
-* Homework – Introduction to Counting Methods
-* Video Assignment – Fundamental Counting Principle
-* Homework – Fundamental Counting Principle
+* Midterm Exam
 
 ## Week 9
-* Video Assignment – Permutations and Combinations
-* Homework – Permutations and Combinations
-* Chapter 12 Quiz
-* Video Assignment – Probability Theory
-* Homework – Probability Theory
+* Discussion 8
+* Basic Concepts of Probability
+* Probability with Permutations and Combinations
+* Expected Value
+* Chapter 7 Quiz
 
 ## Week 10
-* Video Assignment – Complements and Unions of Events
-* Homework – Complements and Unions of Events
-* Video Assignment – Conditional Probability and Intersections of Events
-* Homework – Conditional Probability and Intersections of Events
-* Chapter 13 Quiz
+* Discusson 9
+* Visualizing Data
+* Mean, Median, and Mode
+* Range and Standard Deviation
 
 ## Week 11
-* Project 3
-* Video Assignment – Organizing and Visualizing Data
-* Homework – Organizing and Visualizing Data
+* Discussion 10
+* The Normal Distribution
+* Applications of the Normal Distribution
+* Chapter 8 Quiz
 
 ## Week 12
-* Video Assignment – Measures of the Center
-* Homework – Measures of the Center
-* Video Assignment – Measures of Dispersion
-* Homework – Measures of Dispersion
+* Project 3
+* Voting Methods
+* Fairness in Voting Methods
 
 ## Week 13
-* Video Assignment – The Normal Distribution
-* Homework – The Normal Distribution
-* Chapter 14 Quiz
+* Standard Divisors, Standard Quotas, and the Apportionment Problem
+* Apportionment Methods
 
 ## Week 14
-* Review for Final
+* Fairness in Apportionment Methods
+* Chapter 11 Quiz
 
 ## Week 15
-* Review for Final
+* Review
 
 ## Week 16
 * Final Exam
-

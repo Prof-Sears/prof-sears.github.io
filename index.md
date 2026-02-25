@@ -21,7 +21,3 @@
 * [Reading List and Reviews](./reading/reading.md)	
 * 5BX Progress Tracker - [PDF Version](./5BX_progress_tracker.pdf) - [OpenDocumet Text Version](./5BX_progress_tracker.odt)
 * Building Projects
-
-## Where to Find Me
-* Social: <a rel="me" href="https://mastodon.social/@OmegaLimit">Mastodon</a>
-* PeerTube: [Teaching Videos](https://spectra.video/c/chris_sears_teaching/videos)
