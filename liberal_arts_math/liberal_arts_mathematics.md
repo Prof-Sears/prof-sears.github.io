@@ -29,6 +29,9 @@
 23.	Measures of Dispersion
 24.	The Normal Distribution
 
+## Workshop Assignment List
+1. [Week 1](./workshop_assignments/week_1.md)
+
 ## Textbook Sections and Homework Problems
 
 * [Mathematics All Around (6e)](./textbook_sections_pirnot-6e.md)
