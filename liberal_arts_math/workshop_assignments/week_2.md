@@ -1,3 +1,5 @@
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-svg.js"></script>
+
 # Week 2 - Exponent Review
 
 ## Assignment Text
