@@ -31,7 +31,7 @@
 
 ## Workshop Assignment List
 1. [Week 1](./workshop_assignments/week_1.md)
-2. [Week 2](./workshop_assignments/week_2.md)
+2. Week 2 - [HTML](./workshop_assignments/week_2.htm)
 
 ## Textbook Sections and Homework Problems
 
