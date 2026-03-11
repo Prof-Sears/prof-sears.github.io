@@ -30,7 +30,7 @@
 24.	The Normal Distribution
 
 ## Workshop Assignment List
-1. [Week 1](./workshop_assignments/week_1.md)
+1. Week 1 - [PDF](./workshop_assignments/week_1.pdf) [Word](./workshop_assignments/week_1.docx)
 2. Week 2 - [HTML](./workshop_assignments/week_2.htm)
 
 ## Textbook Sections and Homework Problems
