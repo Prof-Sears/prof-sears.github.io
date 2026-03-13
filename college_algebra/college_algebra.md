@@ -27,6 +27,7 @@
 
 ## EKCC Assignments
 * Solving Equations - [Word Format](./solving_equations_assignment.docx) - [PDF Format](./solving_equations_assignment.pdf)
+* Linear Functions - [Word Format](./linear_functions_assignment.docx) - [PDF Format](./linear_functions_assignment.pdf)
 
 ## PowerPoints
 * [Functions and Function Notation](./functions_and_function_notation.pptx) - [PDF Format](./functions_and_function_notation.pdf)
