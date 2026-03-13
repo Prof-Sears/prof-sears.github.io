@@ -25,6 +25,9 @@
 * Week 15
 * Week 16
 
+## EKCC Assignments
+* Solving Equations - [Word Format](./solving_equations_assignment.docx) - [PDF Format](./solving_equations_assignment.pdf)
+
 ## PowerPoints
 * [Functions and Function Notation](./functions_and_function_notation.pptx) - [PDF Format](./functions_and_function_notation.pdf)
 
@@ -40,7 +43,7 @@
 
 ## Detailed Examples
 * Quadratic Regression - [ODT Format](./quadratic_regression-detailed_example.odt) - [PDF Format](./quadratic_regression-detailed_example.pdf)
-* Solving Equations - [Word Format](./solving_equations_assignment.docx) - [PDF Format](./solving_equations_assignment.pdf)
+* Solving Equations - [Word Format](./solving_equations_detailed_example.docx) - [PDF Format](./solving_equations_detailed_example.pdf)
 
 ## Class Slides
 * Quadratic Regression - [ODP Format](./quadratic_regression-class_slides.odp) - [PDF Format](./quadratic_regression-class_slides.pdf)
