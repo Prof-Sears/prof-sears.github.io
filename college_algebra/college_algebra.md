@@ -43,7 +43,7 @@
 
 ## Detailed Examples
 * Quadratic Regression - [ODT Format](./quadratic_regression-detailed_example.odt) - [PDF Format](./quadratic_regression-detailed_example.pdf)
-* Solving Equations - [Word Format](./solving_equations_detailed_example.docx) - [PDF Format](./solving_equations_detailed_example.pdf)
+* Solving Equations - [Word Format](./solving_equations_detailed_examples.docx) - [PDF Format](./solving_equations_detailed_examples.pdf)
 
 ## Class Slides
 * Quadratic Regression - [ODP Format](./quadratic_regression-class_slides.odp) - [PDF Format](./quadratic_regression-class_slides.pdf)
