@@ -18,3 +18,7 @@ Seeing the eclipse from totality is an overwhelming experience.
 A partial eclipse was visible from my college in 2017.
 There is no comparison between the two.
 It is completely worth the effort to experience a total eclipse.
+
+## Birds in the Backyard
+
+[Backyard Birds](./Backyard_Birds/birds.md)
