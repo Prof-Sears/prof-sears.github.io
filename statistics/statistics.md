@@ -1,5 +1,8 @@
 # Statistics
 
+## Examples
+[Simple Random Sample Demonstration](./simplerandomsample.html)
+
 ## KCTCS Competencies
 [Competency List](./KCTCS_Competencies.pdf)
 
