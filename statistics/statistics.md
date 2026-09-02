@@ -1,8 +1,9 @@
 # Statistics
 
 ## Examples
-[Simple Random Sample Demonstration](./simplerandomsample.html)
-[Cluster Sample Demonstration](./clustersample.html)
+[Simple Random Sample Demonstration](./simple_random_sample.html)
+[Stratified Sample Demonstration](./stratified_sample.md)
+[Cluster Sample Demonstration](./cluster_sample.html)
 
 ## KCTCS Competencies
 [Competency List](./KCTCS_Competencies.pdf)
