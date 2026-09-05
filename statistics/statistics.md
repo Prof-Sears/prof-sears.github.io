@@ -2,7 +2,7 @@
 
 ## Examples
 [Simple Random Sample Demonstration](./simple_random_sample.html)
-[Stratified Sample Demonstration](./stratified_sample.md)
+[Stratified Sample Demonstration](./stratified_sample.html)
 [Cluster Sample Demonstration](./cluster_sample.html)
 
 ## KCTCS Competencies
