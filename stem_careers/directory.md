@@ -8,7 +8,8 @@ I have intentionally used an expansive definition of STEM to include fields like
 * [KCTCS Education - Associate in Applied Science](https://catalog.kctcs.edu/programs-of-study/aas/education/education-aas/)
 This degree will not qualify you to teach.
 You will need to complete a four-year degree.
-* [Kentucky Department of Education Educator Certification](https://www.education.ky.gov/epsb/Pages/Educator-Certification.aspx)
+* [Morehead State Univiersity MSUTeach Program](https://www.moreheadstate.edu/academics/colleges/education/msuteach/)
+A teacher certification program for science majors.
 
 ## Version History
 
