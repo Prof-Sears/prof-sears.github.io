@@ -11,8 +11,8 @@
 * [Science Adventures](./science_adventures/ScienceAdventures.md)
 * Programming Projects
 * [Ed Tech Software Guides ](./software_guides/guides.md)
-* [STEM Careers in Kentucky Directory](./stem_careers/directory.md)
-* Linux Guides
+* [Directory of STEM Careers in Kentucky](./stem_careers/directory.md)
+* Technology Zines
 
 ## Personal Projects
 * [Reading List and Reviews](./reading/reading.md)
